@@ -1,0 +1,59 @@
+name: Skoleplan Bergen (site)
+
+# Rebuilds the public picker and every calendar feed, then publishes to Pages.
+# Requires the repository to be public (or GitHub Pro) for Pages to serve it,
+# and Settings -> Pages -> Source set to "GitHub Actions".
+on:
+  schedule:
+    - cron: "0 4,14 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh_catalogue:
+        description: "Re-survey which schools publish what (slower)"
+        type: boolean
+        required: false
+        default: true
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: |
+          python -m pip install --quiet pytest
+          python -m pytest tests -q
+
+      - name: Refresh the catalogue
+        if: github.event_name == 'schedule' || github.event.inputs.refresh_catalogue == 'true'
+        run: python catalogue.py --out data/catalogue.json
+
+      - name: Build the site
+        run: python build_site.py --out site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
