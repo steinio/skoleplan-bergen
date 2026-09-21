@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:7d99be774c7988f359c2b3d57495bb2aad3f02ee@gimle-arbeidsplan
-DTSTAMP:20260921T145236Z
+DTSTAMP:20260921T150242Z
 SUMMARY:📝 Engelskprøve på torsdag 1.time. Bruk forberedelsesarket på 
  classroom.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
@@ -44,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:ba35b1cf2514c2ad9e68112f79918230fa31bf38@gimle-arbeidsplan
-DTSTAMP:20260921T145236Z
+DTSTAMP:20260921T150242Z
 SUMMARY:🎒 Husk chromebook og bøker!
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vQvtVvYtfPqnqYIliFOTsqtCmoyzxu4ofn_tOkr-aa2S
@@ -58,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:6016cadd674808b5ac45835781636d26b08caafd@gimle-arbeidsplan
-DTSTAMP:20260921T145236Z
+DTSTAMP:20260921T150242Z
 SUMMARY:📌 Linn mob: 40815748.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQvtVvYtfPqnqYIliFOTsqtCmoyzxu4ofn_tOkr-aa2Szhb_Suy
@@ -72,7 +72,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:ba28258e4efd40c9b38b2cd3725dfe2dfcdca8c5@gimle-arbeidsplan
-DTSTAMP:20260921T145236Z
+DTSTAMP:20260921T150242Z
 SUMMARY:📌 Norsktimen mandag 5. time går ut. Dere er ferdig etter gymtim
  en. Norsk på fredag 4. time istedenfor UDV.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -87,7 +87,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:dd07567c8a4828a6ca5004e06f82bddccb43a784@gimle-arbeidsplan
-DTSTAMP:20260921T145236Z
+DTSTAMP:20260921T150242Z
 SUMMARY:📌 Trenger du å snakke med rådgiver?
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQvtVvYtfPqnqYIliFOTsqtCmoyzxu4ofn_tOkr-aa2Szhb_Suy
@@ -101,7 +101,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:e811416f1a74226c5fcff14acdfd5c6f3257aec2@gimle-arbeidsplan
-DTSTAMP:20260921T145236Z
+DTSTAMP:20260921T150242Z
 SUMMARY:📌 Årshjul med oversikt over aktiviteter og vurderinger finner d
  u her.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c

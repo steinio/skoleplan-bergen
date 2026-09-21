@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:353fcf6e4605cb98ae460c35a76b0c7b8fc4166f@gimle-arbeidsplan
-DTSTAMP:20260921T145252Z
+DTSTAMP:20260921T150300Z
 SUMMARY:📝 KRLE: Begynn og les til prøven om “Kritisk Tenkning”
 DESCRIPTION:Prøve / innlevering\nNaturfag: Les s. 20 - 21 i læreboken og 
  gjør nøkkelspørsmål s. 21. (prøve i slutten av neste uke) Matematikk:
@@ -45,7 +45,7 @@ DTEND;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:f91c4559abda29d638c505898298b168abe32de4@gimle-arbeidsplan
-DTSTAMP:20260921T145252Z
+DTSTAMP:20260921T150300Z
 SUMMARY:📝 Engelsk skriveøkt
 DESCRIPTION:Prøve / innlevering\neksamensøving 320\nOnsdag\, uke 39\nhttp
  s://docs.google.com/document/d/e/2PACX-1vSt9bOOEJ9SyYqwvq0NlBQfWIB7t6PQNBk
@@ -59,7 +59,7 @@ DTEND;TZID=Europe/Oslo:20260923T133500
 END:VEVENT
 BEGIN:VEVENT
 UID:b582763278fef162a232feac1d3b4107d012426c@gimle-arbeidsplan
-DTSTAMP:20260921T145252Z
+DTSTAMP:20260921T150300Z
 SUMMARY:👥 Buss
 DESCRIPTION:Møte / arrangement\nAlle møter i kantinen (registrering av ev
  t. fravær)\nTorsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-

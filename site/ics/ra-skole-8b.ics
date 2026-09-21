@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:4d05dcd2dea5ebb607b560bda18934d11b7c5206@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📝 Matte
 DESCRIPTION:Prøve / innlevering\n1C primtall og faktorisering + utdeling a
  v innleveringsoppgave om regnestrategier\nMandag\, uke 39\nhttps://docs.go
@@ -44,7 +44,7 @@ DTEND;TZID=Europe/Oslo:20260921T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:d9340b05446590e2a50b7425f8da8a0dc346704d@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📚 Lekse – Samfunnsfag - oppgaver dere skal gjøre hjemme ligge
  r på: Fremdriftsplan samfunnsfag
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 39\nhttps://docs.google.com
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1b24d8c2d74a77adb8b673db413549fe318ccc3c@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📚 Lekse – Innleveringsoppgave i matematikk
 DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 39\nhttps://docs.google.com/
  document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEiW
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2fe33967f62da67b82caa4ea0dbe493e115cebe8@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📝 Innleveringsoppgave i matematikk
 DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/
  document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEiW
@@ -98,7 +98,7 @@ DTEND;VALUE=DATE:20260926
 END:VEVENT
 BEGIN:VEVENT
 UID:dbe7985a0ae7a2c4ff2d72aa72164fae24eb2860@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📝 Matte
 DESCRIPTION:Prøve / innlevering\n1C primtall og faktorisering / 1D negativ
  e tall + innlevering av oppgave om regnestrategier\nFredag\, uke 39\nhttps
@@ -113,7 +113,7 @@ DTEND;TZID=Europe/Oslo:20260925T113500
 END:VEVENT
 BEGIN:VEVENT
 UID:e2bf70c7c39f466c9af83b04016e0994b8a88997@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📚 Lekse – -Øv på fokusordFocus words
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 40\nhttps://docs.google.com
  /document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEi
@@ -132,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0e65a2bdb3d350d530db4a1eab2af8de1a4d2f4c@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📚 Lekse – Gloseprøve engelsk
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 40\nhttps://docs.google.com
  /document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEi
@@ -151,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c471865994f5598597340627d11e8eaaaf5270a1@gimle-arbeidsplan
-DTSTAMP:20260921T145103Z
+DTSTAMP:20260921T150103Z
 SUMMARY:📝 Gloseprøve engelsk
 DESCRIPTION:Prøve / innlevering\n-Øv på fokusordFocus words\nTirsdag\, u
  ke 40\nhttps://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvq

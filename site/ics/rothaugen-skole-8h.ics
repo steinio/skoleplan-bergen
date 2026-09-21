@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:adb13a476c95d618c46d1ffb15f5fa5bc3484df4@gimle-arbeidsplan
-DTSTAMP:20260921T145217Z
+DTSTAMP:20260921T150223Z
 SUMMARY:📌 Denne og neste uke har vi fokus på lesing. Vi bruker minimum 
  15 minutter hver dag til å lese stille i boken vår.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -44,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:ca6056425b7d58e0fe1995dfedba9517aaaed198@gimle-arbeidsplan
-DTSTAMP:20260921T145217Z
+DTSTAMP:20260921T150223Z
 SUMMARY:📝 Sjekk ukesplan for viktige frister fremover.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
  docs.google.com/document/d/e/2PACX-1vQZ2IeHkbJDeU57XNQCuPTNHSoMdetLyw_afBC

@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6de0f9ade5af61de8f2abe5a492774fa22bd60ec@gimle-arbeidsplan
-DTSTAMP:20260921T145220Z
+DTSTAMP:20260921T150226Z
 SUMMARY:📌 Avdelingsleder:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5E
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:6a755ba862d46ca27dc7f1b85c8bae66aca01a72@gimle-arbeidsplan
-DTSTAMP:20260921T145220Z
+DTSTAMP:20260921T150226Z
 SUMMARY:📌 Eivind og Tara - send oss melding i Vigilo hvis det skulle væ
  re noe
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
@@ -58,7 +58,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:1e93e09ff45cd2d1b9a7d3402e461a0d91ffd217@gimle-arbeidsplan
-DTSTAMP:20260921T145220Z
+DTSTAMP:20260921T150226Z
 SUMMARY:📌 Kontaktlærerer:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5E
@@ -72,7 +72,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:7b5b3f66432d88877d40c6ea4cc9728f57de6892@gimle-arbeidsplan
-DTSTAMP:20260921T145220Z
+DTSTAMP:20260921T150226Z
 SUMMARY:📌 Kristin Barca Hjetland - kan kontaktes på e-post eller i Vigi
  lo
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
@@ -87,7 +87,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:c7598c3a530b4c8727663258f650587ea051fb75@gimle-arbeidsplan
-DTSTAMP:20260921T145220Z
+DTSTAMP:20260921T150226Z
 SUMMARY:👥 Foreldremøte onsdag 17-19. Først for hele trinnet\, så for 
  klassene.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d

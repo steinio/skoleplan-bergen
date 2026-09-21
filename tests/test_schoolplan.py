@@ -425,6 +425,52 @@ def test_real_homework_lines_are_kept():
     assert aux._is_real_homework("Les tilbakemeldingen du har fått")
 
 
+# ------------------------------------------------------ dates in the day header
+
+@pytest.mark.parametrize("text,expected", [
+    ("Mandag 21.9", dt.date(2026, 9, 21)),
+    ("Tirsdag 22/9", dt.date(2026, 9, 22)),
+    ("Onsdag 23.09.26", dt.date(2026, 9, 23)),
+    ("Mandag 30. september", dt.date(2026, 9, 30)),
+    ("Torsdag 1. oktober", dt.date(2026, 10, 1)),
+])
+def test_explicit_dates_in_a_day_header_are_read(text, expected):
+    from schoolplan.dates import date_in_day_header
+
+    assert date_in_day_header(text, 2026) == expected
+
+
+@pytest.mark.parametrize("text", ["Mandag\n08.30-15.00", "11.10", "Mandag", "08.30 - 09.00"])
+def test_times_are_never_mistaken_for_dates(text):
+    """"11.10" is as likely a time as a date; only a weekday name settles it."""
+    from schoolplan.dates import date_in_day_header
+
+    assert date_in_day_header(text, 2026) is None
+
+
+def test_a_dated_day_header_sets_the_week_without_guessing():
+    doc = """<table>
+      <tr><td></td><td>Mandag 21.9</td><td>Tirsdag 22.9</td><td>Onsdag 23.9</td></tr>
+      <tr><td>09:00-10:00</td><td>Matematikk<br>Lekse: side 12</td><td></td><td></td></tr>
+    </table>"""
+    parsed = parse_document(doc, "8E", term_start_year=2026, today=TODAY)
+    week = parsed.weeks[0]
+    assert week.inferred_week is False      # derived from a real date, not guessed
+    assert week.week == 39
+    assert [d.date for d in week.days] == ["2026-09-21", "2026-09-22", "2026-09-23"]
+    assert any(h.category == "homework" and h.date == "2026-09-21" for h in parsed.highlights)
+
+
+def test_a_dated_header_still_reads_the_school_day_hours():
+    doc = """<table>
+      <tr><td></td><td>Mandag 21.9<br>08.30-15.00</td><td>Tirsdag 22.9<br>09.40-14.30</td>
+          <td>Onsdag 23.9<br>08.30-13.20</td></tr>
+      <tr><td>09:00-10:00</td><td>Norsk</td><td>Norsk</td><td>Norsk</td></tr>
+    </table>"""
+    week = parse_document(doc, "8E", term_start_year=2026, today=TODAY).weeks[0]
+    assert (week.days[0].starts, week.days[0].ends) == ("08:30", "15:00")
+
+
 def test_a_stated_week_is_not_marked_inferred(plan):
     assert [w.inferred_week for w in plan.weeks] == [False]
 

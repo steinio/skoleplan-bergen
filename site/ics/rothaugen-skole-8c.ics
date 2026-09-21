@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5b1da492caa3d68f71f5d736883ef28247e60828@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:🎒 Alle må huske lunsj og drikke hver dag!
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCf
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:abb3af0d9d3f83bf6235df733c496fa078f65c5d@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Anett: Kunst og Håndverk
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5db4197dce9cd0ad6df019b3ef11f7edd84121cd@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:🎒 Dere skal alltid ha med bøker til fagene dere har den skoleda
  gen det er\, i tillegg til oppladet PC :)
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
@@ -72,7 +72,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf7d1e09eb6fb08f3787b9ffc11395baba607c2@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Faglærere (alle kan kontaktes i Vigilo)
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:1ef8e01fa6800b518ccacd6d1654b8667c58b748@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Maren: Engelsk\, KRLE og UDV
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C
@@ -100,7 +100,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:85dc64dc8debf028e2e72f0c32f742303e972bc9@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Sunniva: Matematikk og Naturfag
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C
@@ -114,7 +114,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:02804cd58d1c009874c93d6f428620868c8dd5ed@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Tilvalg/valgfag: Sjekk Classroom
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C
@@ -128,7 +128,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:bfd22d57b3f94e5a491f94555d60b24a4f34cb99@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Tobias: Norsk og samfunnsfag
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C
@@ -142,7 +142,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:0c1a3ab02c3c134c280e90443529605ff6b1388e@gimle-arbeidsplan
-DTSTAMP:20260921T145211Z
+DTSTAMP:20260921T150217Z
 SUMMARY:📌 Tore: Gym
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5C

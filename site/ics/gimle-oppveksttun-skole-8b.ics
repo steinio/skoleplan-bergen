@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:1151a80c827e9b191afc8946f044a5174cac674f@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🎒 Husk å lade chromebooken hjemme hver dag!
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVj
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:4395f1d0b2ef7bac004f4eb56f60a3a0c47d3ca5@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🎒 Norsk
 DESCRIPTION:Husk å ta med\nTema: Lesestrategier Hva er lesestrategier? Hvo
  rdan kan du huske det du har lest?\nMandag\, uke 39\nhttps://docs.google.c
@@ -58,7 +58,7 @@ DTEND;TZID=Europe/Oslo:20260921T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe9010e8ff46783f64e89fba220ae1690a31531@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📝 KRLE
 DESCRIPTION:Prøve / innlevering\nTema: hellige hus\, steder og tekster\nTi
  rsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTquUbqquy4LP1
@@ -72,7 +72,7 @@ DTEND;TZID=Europe/Oslo:20260922T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:8d7a22f5fd7912670cb65950706e59122c9e9ff3@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lever inn oppgavearket “Besøke en kirke” 
  på classroom. Har du skrevet på hånd må du levere arket i timen. De so
  m har laget en video\, kan prøve å levere på classroom (der som oppgave
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb0811a4c134d46495ab259ad47735c3d463243@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Gjør læringsstien som heter “Skumlesing
  ” som er delt med dere på SKOLEN
 DESCRIPTION:Lekser\nTema: Lesestrategier og besøk på skolebiblioteket\nOn
@@ -118,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8716b7901f5ec1b6604804a4bce5a0336faa28a3@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🎒 Matte
 DESCRIPTION:Husk å ta med\nTema: Regne med desimaltall\nOnsdag\, uke 39\nh
  ttps://docs.google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-
@@ -132,7 +132,7 @@ DTEND;TZID=Europe/Oslo:20260923T121000
 END:VEVENT
 BEGIN:VEVENT
 UID:d85921c2ff86d481ec8a3b6e107ea524f28d2d27@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Svar på oppg. 1.157 og 1.158 s. 32 i oppgave
  boken. Husk å velge nivå.
 DESCRIPTION:Lekser\nTema: Regne med desimaltall\nOnsdag\, uke 39\nhttps://d
@@ -153,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a2169c9c8dc10fb9695af61dab9f970ba99a51c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 39\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b1d2a036e92764fad611102a5c474b211ffe2610@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 39\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bccf5aa4fc5e6e2bab8ae0e59f4ba91921d19e8f@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:👥 Naturfag
 DESCRIPTION:Møte / arrangement\nTema: Påvisning av CO₂ og O₂ - Vi mø
  tes i naturfagrommet\nTorsdag\, uke 39\nhttps://docs.google.com/document/d
@@ -206,7 +206,7 @@ DTEND;TZID=Europe/Oslo:20260924T104000
 END:VEVENT
 BEGIN:VEVENT
 UID:877d6c9066cbae6772ace0efadf875cea91ee4a8@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🎒 Matte
 DESCRIPTION:Husk å ta med\nTema: Regning med desimaltall\nTorsdag\, uke 39
  \nhttps://docs.google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y
@@ -220,7 +220,7 @@ DTEND;TZID=Europe/Oslo:20260924T121000
 END:VEVENT
 BEGIN:VEVENT
 UID:9b923d53d2e8fbf902c49130b4ff9f5cbb73fbc1@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Svar på oppg. 1.159 og 1.160 s. 33 i oppgave
  boken. Husk å velge nivå.
 DESCRIPTION:Lekser\nTema: Regning med desimaltall\nTorsdag\, uke 39\nhttps:
@@ -241,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:56ff496bb8a387c524c3bac4d9e256dc752562d8@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 39\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -260,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0ddec5e05acd3befd371692b6c09f0c59d109643@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📌 MOT - økt 2
 DESCRIPTION:Beskjed\nOversiktsplan\nMandag\, uke 40\nhttps://docs.google.co
  m/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfo
@@ -274,7 +274,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:779d9414ef665bc952db5cda930211521e5d5b04@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📌 Vi tar klassebilde og portrettbilde på onsdag (3.time)
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKf
@@ -288,7 +288,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:689ccbb3ed29d26dd234305ea8b7e9804b77eff3@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -307,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cbc125364b237446ec0e73cd2761a29f3a03ce53@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -326,7 +326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c813fc5d4526a1f7f0bafd88d52681234f21bb82@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -345,7 +345,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1e6a25519f043bff9a36ef94b2349bd62b3d5d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:👥 Foreldremøte\, 18:00
 DESCRIPTION:Møte / arrangement\nOversiktsplan\nTirsdag\, uke 40\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJ
@@ -359,7 +359,7 @@ DTEND;VALUE=DATE:20260930
 END:VEVENT
 BEGIN:VEVENT
 UID:a4315efb724ccd37b0de5120c21ffcbdc000fa8a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -378,7 +378,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:948b127a5b348efb8724ac4219a989f788012637@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -397,7 +397,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d9489f1784976ee6fa43a2c26b9940ccba6c54ed@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -416,7 +416,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fd35bedc432885dbf6b9da17bd923b0c74996029@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📌 Vi tar klassebilde og portrettbilde i dag
 DESCRIPTION:Beskjed\nOversiktsplan\nOnsdag\, uke 40\nhttps://docs.google.co
  m/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfo
@@ -430,7 +430,7 @@ DTEND;VALUE=DATE:20261001
 END:VEVENT
 BEGIN:VEVENT
 UID:5f6d37e43673de686345a5d1b757d3a429bc99f9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -449,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:44d9c5d9553766fd4548090d2d79bbe738d6efa2@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema: Vi tar klassebilde og portrettbilde i denne timen
  \nOnsdag\, uke 40\nhttps://docs.google.com/document/d/e/2PACX-1vTquUbqquy4
@@ -468,7 +468,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:611b3eae580adcf82bcb75f1df97c48d8a63496d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -487,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:57c63d1da13f365c175f19eed43582f34385f4e0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 40\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -506,7 +506,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:892ed0e6f60b0264fb645092a875d4a926f9c17a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 40\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -525,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a4ec29591fbd45fc11e6cdd555a466f7aed3d277@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 40\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -544,7 +544,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b7dfe9ce89847698cf23d6b684f2c7c680b8b54b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -563,7 +563,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:809b2f80fd9d2d4bc00b1bf4b8c34714f276e4ee@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 40\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -582,7 +582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:59d1555bf50df234e71d1bc98d4c94f37b1bff02@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🏖️ Høstferie 🍁
 DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 41\nhttps://do
  cs.google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJs
@@ -596,7 +596,7 @@ DTEND;VALUE=DATE:20261010
 END:VEVENT
 BEGIN:VEVENT
 UID:e14be8e2aab36267ed0a7062a4b3fa2b9b9afdc8@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -615,7 +615,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:df629a66d1ff42967854731aa3653634afb5a4ba@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -634,7 +634,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a7afb34523d11e971bd288dd8f2cce0f774d86c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -653,7 +653,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b3c7a8e42cef9499975cc5698fc542a2045d2106@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 42\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -672,7 +672,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:54540dac99827fe480ae0015035834911aac9df9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 42\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -691,7 +691,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3355b2d7a8d2198bdf2025887abc570f50c459d6@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 42\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -710,7 +710,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1310b537501d4670b2654817b9aa976183282814@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -729,7 +729,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1e8e4edc9c8d7da09000ae47ea49d4bf1b5ef9a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -748,7 +748,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:209680c4ce6d488b240cf7f41aa2f6c8b6f4c367@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -767,7 +767,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cd0eaee245286f7884bfeb6c20a122d7d7b63664@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 42\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -786,7 +786,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1376db367415e8608bd783758e51247f81312e90@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 42\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -805,7 +805,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8b750c87df4e0377c0b87b382c3b87119d40aa9b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 42\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -824,7 +824,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:89b3ee9595dc715b400a46aef6e53989f744a5e0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -843,7 +843,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2dbb17d9b8ee992042f1cbc988b5c32cd7dc0c68@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 42\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -862,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:25b7f58130625adbd347bed6eb2c9c09c355f51d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -881,7 +881,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c4d2701a7c857a8b1764046c44579e6b2257c067@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -900,7 +900,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf1e5564f45b27700850781b7b059145e30c955@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -919,7 +919,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e132ed8efe658aaa6d85e0c3891732c0fb8027e4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 43\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -938,7 +938,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:51fc0baff51d766327908f648e9a1c7dc9fe38b5@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 43\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -957,7 +957,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4ca51634a6ec4d899169070d371811aa5fbcf71a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 43\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -976,7 +976,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b8ccd78405ce46630d82db47f37a92cc7feb23b4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -995,7 +995,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a3d4a74487c973d4dc1e22101573430dafa736e9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1014,7 +1014,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b5e515009d7cd7ec97671c24a93dd59d10add7db@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1033,7 +1033,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b42ae5a2797cd028ee27777732fc8c950519af5c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📌 MOT - økt 3
 DESCRIPTION:Beskjed\nOversiktsplan\nTorsdag\, uke 43\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKf
@@ -1047,7 +1047,7 @@ DTEND;VALUE=DATE:20261023
 END:VEVENT
 BEGIN:VEVENT
 UID:d948f2963caca57f2950e29c569d910819d7c43f@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 43\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1066,7 +1066,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35626bc9ae21693657bfe5e53e7b463ebdfd0db6@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 43\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1085,7 +1085,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:08af6616967a1c221b4a95920429b39934f0af88@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 43\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1104,7 +1104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2bf06e3433fd38ea4d575de1d5c9dafb969582bf@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1123,7 +1123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9aa2e4e4a66cc1730b2749731320ba61da575af3@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 43\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1142,7 +1142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:37de15cecca67525e505429c8e29d8ab1fcd35ea@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1161,7 +1161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:39bd62c57591d1bb28eacf1eb7f8f479ffcb2184@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1180,7 +1180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e0649dcfc9a18fb607faf3be84a5888ab4cfcb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1199,7 +1199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a79877bf1e93d20041e29883804ca9faa14e7dc0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 44\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1218,7 +1218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bf82291e7a493ce2698ca19d4730aa8f1a70f3d4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 44\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1237,7 +1237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5a5b05ea3400c8546eb1f40ea3320d40035d31f5@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 44\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1256,7 +1256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7a3edf7c930e281a7198b36658a24ac545df1345@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1275,7 +1275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c5c45ead1999bacf589e2f3340bf15bcd43e1210@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1294,7 +1294,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3d47c5d604484b1cfefdf7f98f7f78772bb8232b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1313,7 +1313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8f3a777d1742475a302ed0e7c3dfc35085a36e5f@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 44\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1332,7 +1332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:95d931d4afbb7af7765fdc6042b7c2af4f822ab9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 44\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1351,7 +1351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5f4ca4b721aea6ef1998d393c97e06dfe33411c3@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 44\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1370,7 +1370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d16ae731fb90284fa4d78ac5bfbc2ac17b922c5@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1389,7 +1389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e069f4aaddd402223f61eeee9dbecf6582e25dd0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 44\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1408,7 +1408,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7f18d38461a75f15c9361d2a4cf5e538e3261ef1@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1427,7 +1427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2eee0f89353181d4086a250077ba2b3899f3648a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1446,7 +1446,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8999707159f5cf2e65b21c9003a9f58200f0b872@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1465,7 +1465,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e96baa082805d6143179d050272d3a7fcc02f3ec@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 45\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1484,7 +1484,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cbefc9902897e4faf550c2674e1d054f674b957f@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 45\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1503,7 +1503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ea677b21e84b8c872caf25b03d8fe19020b798df@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 45\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1522,7 +1522,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c387318712ab977ee2902d37db7d93f32fdf3543@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1541,7 +1541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c35b54d05295a73b50ad9ca53bd84065cd73742e@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1560,7 +1560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:21f8f39ba620a24dcdc6b9f8a4ef7407a2af75a7@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1579,7 +1579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e7465c6287713807004074e489c3af98ac5ff0c4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 45\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1598,7 +1598,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7f08cfade30f22a6f7e0455a1d7b86d34f19acfd@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 45\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1617,7 +1617,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1bb0f1ba53a4ba09b3dcf526325abb953fd633ac@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 45\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1636,7 +1636,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:afe2de7b8c8f611835de702b1a900f81ae0b4f00@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🏖️ Planleggingsdag
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 45\nhttps://docs.
  google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvV
@@ -1650,7 +1650,7 @@ DTEND;VALUE=DATE:20261107
 END:VEVENT
 BEGIN:VEVENT
 UID:16f922f8e45df2d8be10c683b9fcea12b59a363a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1669,7 +1669,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fdbf65c764adeab5dc87204ce56cfd8230635552@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 45\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1688,7 +1688,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d1c413db211a065faf1bf43f9a471d7b379092e2@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1707,7 +1707,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2163b4c61bddd671ce65c6ab4735d56fdfd4ab79@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1726,7 +1726,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7a12a824075a4b0b25ed5a38ae69c1f5f92c24c5@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1745,7 +1745,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c35a4803640177bf1664a32ecbf651d0be38aed9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 46\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1764,7 +1764,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cd0d7187c8ba77f052a7c33dbbda4829bfb0fabd@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 46\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1783,7 +1783,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8d438e1c590f5540d20742e4fbc13c6711afc7c2@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1802,7 +1802,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:815f4904d4b76eab5dc9970eaec03df5885e1cee@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1821,7 +1821,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1e0bf9849c128be0b4dd58c883292e99673ae515@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1840,7 +1840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e335d4f9f8a9b762c9c73e239e8154b9d8a64fa4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 46\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1859,7 +1859,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7b6b80f046249427da0f84cf3b74615c95cd0ab9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 46\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1878,7 +1878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:77a0867c94e279e88209455940123ae60a2e2beb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 46\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -1897,7 +1897,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ff7f30a95496270bb4ee266a96671c86f99c7141@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 46\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1916,7 +1916,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:344d8d104ef420f14ed86fa05f85ca0771621e36@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1935,7 +1935,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dee74b0bd99916b5d8e28df037931e7ab3515a6e@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1954,7 +1954,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfb68870763a5d16dc9108a0ff9ecdc9d57049fe@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -1973,7 +1973,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c3720ce8f5667e1c67153f22241f732e1dbaef99@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📌 MOT - økt 4
 DESCRIPTION:Beskjed\nOversiktsplan\nTirsdag\, uke 47\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKf
@@ -1987,7 +1987,7 @@ DTEND;VALUE=DATE:20261118
 END:VEVENT
 BEGIN:VEVENT
 UID:c7d277620650a41ea5e84a8dee2f833e2779927d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 47\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2006,7 +2006,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:83a8df5bb6e01263c859ce34bc756e43d42cb9fb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 47\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2025,7 +2025,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:91c0baa33adabff7e0d8cbd84f384ecda2bd306c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 47\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2044,7 +2044,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a9b89abeb58c5669659a1b0da693c430c4fcabe@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2063,7 +2063,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fad62099787f59c14e70646ca4ed0c9c73ec5dfb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2082,7 +2082,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c38936ebfc6374111ee60bde5b2d70de6042f9b4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2101,7 +2101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9d6982cc415db4376fd84299c797d3d6b1bcae29@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 47\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2120,7 +2120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa5799b74840b153e00c57ac770154d38aabb8b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 47\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2139,7 +2139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ca55aede15744868a73f4082b5bb86782cc23d38@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 47\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2158,7 +2158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d334e95b5523423bc41bd65eef2321c5e29e7923@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2177,7 +2177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:add013994d01910ace861f5a246f458158df9249@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 47\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2196,7 +2196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d0102d9d9de60f0b21f506e476c4b841342e01a2@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2215,7 +2215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:09c729a78414773d526bcb26493383f8d2f13b68@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2234,7 +2234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f9d6f1be87d01a07c46a4b0274b7fbec69c0bee0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2253,7 +2253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:43ce5771db6bc9c1fe963b72f6053258dd8ba34d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 48\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2272,7 +2272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:487718b26e970ef16fed690a0bfa9050c5cc134e@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 48\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2291,7 +2291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dfd44910ff52489f0c993e6401fe77bd20e7d3a9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 48\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2310,7 +2310,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cd9328a0e750ffc7fc568bba404c16d779fba250@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2329,7 +2329,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:411eb8dfa4e97aad7c5764340f1909c69e3c9a8c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2348,7 +2348,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9bc1509c66d65dfa27f820e665d0ce974050bb2c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2367,7 +2367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ab19ffdf0db31f525586e4f94725b0ce0e341ae6@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 48\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2386,7 +2386,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:72edaecb632640142de22050ddeb64a2c42b184d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 48\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2405,7 +2405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aa6c8dfa1acc15070d10204074f79b5556675bc9@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 48\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2424,7 +2424,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:58941cfdf6cf911ae5ae08476d3fbe0d3e43671d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema.\nFredag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2443,7 +2443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eba6fd15878948fe59160e160c10e20738cac6ee@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 48\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2462,7 +2462,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:95f408b2e3863c484ab14eb925cd6e9c3fec19bb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2481,7 +2481,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e6e5d4c216d33ce18618ff3f8b83eca68715c4bb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2500,7 +2500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aeed6445fc7c64141c3fc0d23afc1c2085c34165@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2519,7 +2519,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:50bc3475566fed3ac8e0ccede03975deabe3a472@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 49\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2538,7 +2538,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:321ace69bf571648c91f4029e3f50333edb74a08@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 49\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2557,7 +2557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4c35c7303b789c51b11b459385154aaff16d6bff@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 49\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2576,7 +2576,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:829a1f3c1de5c433aaaa86e053546b987c86d584@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2595,7 +2595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a69b69b238ce59c6103fbcfb435a3c1d2be4c41b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2614,7 +2614,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c4fd489cbbea2dfdf169a1e2ceb897b9f344049b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2633,7 +2633,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:946ff6094a8f338454f06d1c8603779d357ad257@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 49\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2652,7 +2652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c87b9a56143370aac1b09b3d18590567d2e8555b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 49\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2671,7 +2671,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:42dc96535bbefcba47bc0cff8dffc262064156c4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 49\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2690,7 +2690,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:941818ce017a13e20076a520feffa8d9eaf9db1c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2709,7 +2709,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2d5d9b28f0c65366f7a2b6d3095832afafab0fa@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 49\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2728,7 +2728,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a3b71423a735d1cdd21d3e53effc87aec69a5c14@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2747,7 +2747,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:15bdf596cbbee3520cfe7c04d975bf89bcb35ba1@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2766,7 +2766,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2e279e11032b602d25b449412e7121f9f69f9a88@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2785,7 +2785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5a3bea532bedd59c51c88e92215d87c05d8a9915@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 50\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2804,7 +2804,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:635c577bc0eafa893a28a3f57cf5390d63789a7c@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 50\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2823,7 +2823,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b466c6940427f63af35152a967da293af0da891a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 50\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2842,7 +2842,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:420d2096ce1b9351e816fcb273fba8c9194043a0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2861,7 +2861,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6cb5684f123ad2bae4b6c3aa452780ad6f5b6afd@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2880,7 +2880,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c54cdc9974ea41bdbcab5c398e6d1129d3cc4682@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2899,7 +2899,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0d20e324ea7ab50064ad24bac002b9e14134bba@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 50\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2918,7 +2918,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:24b9ed77f7e347e3bec4ba91ce62fafce59bd35d@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 50\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2937,7 +2937,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c1f3dc1fade6a308b895e105c0bdc220c95123d4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 50\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -2956,7 +2956,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5254d7f615d7531d2a7474159ba438e71be5c0@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2975,7 +2975,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aab463dab3ea03655dc314bd773fb939f066aa28@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 50\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -2994,7 +2994,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2842acbb71fe5faff9794bde889e6877b19c21f6@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3013,7 +3013,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:794d69b3dc074bb519ce4a90460ed081eac46ada@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: -
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3032,7 +3032,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1d821978e5b08cc1f5968e12f3a7fb9ddd4b3d16@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3051,7 +3051,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:89535add2192e5e05e786256cc8fabe876d1c75a@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 51\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -3070,7 +3070,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3b62ce382e2ce2d70e4b29ab552dd17a8105b5bf@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – KRLE: Lekse:
 DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 51\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -3089,7 +3089,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cc12fe7a78e776df3a9c728ebea06153640fd30b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3108,7 +3108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4a19fa71af6ea699416045aea20261c61fc95eea@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3127,7 +3127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:44f025c1bcc1e75e14f68d9db6286a2702de29c4@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3146,7 +3146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1b8821b1156bd8b95468d798112ae112ba0fe6ec@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 51\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -3165,7 +3165,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1920469be5aa4316fcd2be78fb303646e914232@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 51\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -3184,7 +3184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4edfce67b5d1e1430d16da563558132ac5367418@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 51\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PR
@@ -3203,7 +3203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2bce325844c5a60dcd75b7abecca0424d3b46dcb@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3222,7 +3222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:72c420c05581e8b383cdf40620109e106d849a82@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:📚 Lekse – Kroppsøving:: Lekse:
 DESCRIPTION:Lekser\nTema:\nFredag\, uke 51\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo
@@ -3241,7 +3241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bcc765efdedf046d1465f9125c2910a7d94558ef@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🏖️ Lille julaften
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nOnsdag\, uke 52\nhttps://docs.
  google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvV
@@ -3255,7 +3255,7 @@ DTEND;VALUE=DATE:20261224
 END:VEVENT
 BEGIN:VEVENT
 UID:436f0e365e90db897dfa6b836deec379c6ab2b6b@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🏖️ Julaften 🌟
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTorsdag\, uke 52\nhttps://docs
  .google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXv
@@ -3269,7 +3269,7 @@ DTEND;VALUE=DATE:20261225
 END:VEVENT
 BEGIN:VEVENT
 UID:daf218ba19007d9857a016dc5194cec2abc5490f@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🏖️ Første juledag
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 52\nhttps://docs.
  google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvV
@@ -3283,7 +3283,7 @@ DTEND;VALUE=DATE:20261226
 END:VEVENT
 BEGIN:VEVENT
 UID:fdde8c3264881f2cfc797c30ea465a1bac77a371@gimle-arbeidsplan
-DTSTAMP:20260921T145007Z
+DTSTAMP:20260921T150011Z
 SUMMARY:🏖️ Juleferie 🎄
 DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 53\nhttps://do
  cs.google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJs

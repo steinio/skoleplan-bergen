@@ -13,7 +13,8 @@ from __future__ import annotations
 import datetime as dt
 import re
 
-from .dates import WEEKDAYS, date_for, parse_times, school_year_start
+from .dates import (WEEKDAYS, date_for, date_in_day_header, parse_times,
+                    school_year_start, strip_day_date)
 from .highlights import (
     CATEGORY_LABELS,
     classify,
@@ -98,7 +99,7 @@ def _day_column_map(grid: list[list[str]]) -> dict[int, str]:
     header = _find_header_row(grid)
     if header is None:
         return {}
-    return {index: name for index, name, _, _ in _day_columns(grid[header])}
+    return {index: name for index, name, _, _, _ in _day_columns(grid[header])}
 
 
 def _attach(week: Week, items: list, term_start_year: int) -> None:
@@ -131,33 +132,39 @@ def _parse_week_table(grid: list[list[str]], term_start_year: int, *,
         week_number = next(fallback, None)
         if fallback_is_stated and week_number is not None:
             inferred = False  # the school's own page named this week
-    if week_number is None:
-        return None
 
-    columns = _day_columns(grid[header_row])
+    columns = _day_columns(grid[header_row], term_start_year)
     if not columns:
         return None
+    if week_number is None and not any(when for *_, when in columns):
+        return None
+
+    # An explicit date in the header beats any week number: it gives the week.
+    explicit = next((when for *_, when in columns if when), None)
+    if explicit is not None:
+        week_number = explicit.isocalendar().week
+        inferred = False
 
     days = [
         Day(
             name=name,
-            date=_iso(date_for(week_number, name, term_start_year)),
+            date=_iso(when or date_for(week_number, name, term_start_year)),
             starts=starts,
             ends=ends,
         )
-        for _, name, starts, ends in columns
+        for _, name, starts, ends, when in columns
     ]
 
     body = [row for row in grid[header_row + 1:] if not _TEACHERS_LABEL.search(row[0] or "")]
-    for day, (col_index, _, _, _) in zip(days, columns):
+    for day, (col_index, _, _, _, _) in zip(days, columns):
         day.lessons = _lessons_for_column(body, col_index, day)
 
     return Week(
         week=week_number,
         inferred_week=inferred,
         year=days[0].date and int(days[0].date[:4]) or term_start_year,
-        monday=days[0].date if days else None,
-        friday=days[-1].date if days else None,
+        monday=min((d.date for d in days if d.date), default=None),
+        friday=max((d.date for d in days if d.date), default=None),
         messages=_week_messages(grid),
         teachers=_teachers(grid),
         days=days,
@@ -256,23 +263,35 @@ def _week_number(grid: list[list[str]]) -> int | None:
 
 def _find_header_row(grid: list[list[str]]) -> int | None:
     for index, row in enumerate(grid):
-        names = {(cell or "").split("\n")[0].strip().lower() for cell in row}
+        names = set()
+        for cell in row:
+            first = (cell or "").split("\n")[0].strip().lower().split()
+            if first:
+                names.add(first[0].strip(".,:"))
         if len(names & _DAY_NAMES) >= 3:
             return index
     return None
 
 
-def _day_columns(header: list[str]) -> list[tuple[int, str, str | None, str | None]]:
-    """Return (column index, day name, school day start, end) for each weekday."""
-    columns: list[tuple[int, str, str | None, str | None]] = []
+def _day_columns(header: list[str], term_start_year: int | None = None
+                 ) -> list[tuple[int, str, str | None, str | None, dt.date | None]]:
+    """Return (column, day name, day start, day end, explicit date) per weekday."""
+    columns = []
     seen: set[str] = set()
     for index, cell in enumerate(header):
         lines = [line.strip() for line in (cell or "").split("\n") if line.strip()]
-        if not lines or lines[0].lower() not in _DAY_NAMES or lines[0].lower() in seen:
+        if not lines or not lines[0].lower().split()[0:1]:
             continue
-        seen.add(lines[0].lower())
-        starts, ends = parse_times(" ".join(lines[1:]))
-        columns.append((index, lines[0].capitalize(), starts, ends))
+        first = lines[0].lower().split()[0].strip(".,:")
+        if first not in _DAY_NAMES or first in seen:
+            continue
+        seen.add(first)
+        # "Mandag 21.9" carries a date; strip it before reading the day's hours,
+        # or "21.09" would be misread as 21:09.
+        when = date_in_day_header(cell, term_start_year)
+        rest = strip_day_date(" ".join(lines)) if when else " ".join(lines[1:])
+        starts, ends = parse_times(rest)
+        columns.append((index, first.capitalize(), starts, ends, when))
     return columns
 
 

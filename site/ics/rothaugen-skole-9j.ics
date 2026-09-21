@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:7a363fb8bae45e2f645d9bf127792a095addcc20@gimle-arbeidsplan
-DTSTAMP:20260921T145233Z
+DTSTAMP:20260921T150240Z
 SUMMARY:👥 Torsdag er det tid for fotografering. De hjemme må gå gjenno
  m samtykke på Vigilo.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 37\nhttps://d
@@ -44,7 +44,7 @@ DTEND;VALUE=DATE:20260908
 END:VEVENT
 BEGIN:VEVENT
 UID:e4be4214726b39805796b8cf0065a6145e4a9cf4@gimle-arbeidsplan
-DTSTAMP:20260921T145233Z
+DTSTAMP:20260921T150240Z
 SUMMARY:🚌 Valgfag friluftsliv skal på tur 10.-11. September. Årsplan l
  igger ute på classroom\, samme med informasjon og pakkeliste til turen. S
  e på det sammen med noen hjemme\, og sjekk at du har eller kan låne det 
@@ -61,7 +61,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:9b176d769a1b715077cdc142286230f1b1dadf7d@gimle-arbeidsplan
-DTSTAMP:20260921T145233Z
+DTSTAMP:20260921T150240Z
 SUMMARY:🎒 M&H: Denne uken er det fokus på mat som er i sesong. Dere ska
  l lære litt om grønnsaker som er i sesong\, og vite hvorfor det er lurt 
  og viktig å kjøpe/bruke mat som er i sesong. Husk å lage mat hjemme den
@@ -82,7 +82,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:b8bd1ad76ac10a949d30753bc53f54bacc70765e@gimle-arbeidsplan
-DTSTAMP:20260921T145233Z
+DTSTAMP:20260921T150240Z
 SUMMARY:🚌 Valgfag friluftsliv skal på tur torsdag denne uken (10.-11. S
  eptember). Årsplan ligger ute på classroom\, sammen med informasjon og p
  akkeliste til turen. Se på det sammen med noen hjemme\, og sjekk at du ha

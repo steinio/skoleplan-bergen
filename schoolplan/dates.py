@@ -56,5 +56,67 @@ def parse_times(slot: str) -> tuple[str | None, str | None]:
     return times[0], (times[-1] if len(times) > 1 else None)
 
 
+MONTHS = {
+    "januar": 1, "februar": 2, "mars": 3, "april": 4, "mai": 5, "juni": 6,
+    "juli": 7, "august": 8, "september": 9, "oktober": 10, "november": 11,
+    "desember": 12, "jan": 1, "feb": 2, "mar": 3, "apr": 4, "jun": 6, "jul": 7,
+    "aug": 8, "sep": 9, "sept": 9, "okt": 10, "nov": 11, "des": 12,
+}
+
+# "Mandag 21.9", "Tirsdag 22/9", "Onsdag 23.09.26" -- the weekday name is what
+# makes this unambiguous; a bare "11.10" could equally be a time.
+_DAY_WITH_DATE = re.compile(
+    rf"\b({'|'.join(d.lower() for d in WEEKDAYS[:7])})\b[^\d\n]{{0,12}}"
+    r"(\d{1,2})\s*[./]\s*(\d{1,2})(?:\s*[./]\s*(\d{2,4}))?",
+    re.I,
+)
+_DAY_WITH_MONTH_NAME = re.compile(
+    rf"\b({'|'.join(d.lower() for d in WEEKDAYS[:7])})\b[^\d\n]{{0,12}}"
+    rf"(\d{{1,2}})\.?\s*({'|'.join(MONTHS)})",
+    re.I,
+)
+
+
+def date_in_day_header(text: str, term_start_year: int | None = None) -> dt.date | None:
+    """Read an explicit date out of a day-header cell such as "Mandag 21.9".
+
+    Returns None unless a weekday name sits right next to the number, because
+    without it "11.10" is as likely to be a time as a date.
+    """
+    start = term_start_year if term_start_year is not None else school_year_start()
+
+    match = _DAY_WITH_MONTH_NAME.search(text or "")
+    if match:
+        day, month = int(match.group(2)), MONTHS[match.group(3).lower()]
+        return _make(day, month, None, start)
+
+    match = _DAY_WITH_DATE.search(text or "")
+    if match:
+        day, month = int(match.group(2)), int(match.group(3))
+        return _make(day, month, match.group(4), start)
+    return None
+
+
+def strip_day_date(text: str) -> str:
+    """Remove a "Mandag 21.9" date so the remaining times can be read safely."""
+    without = _DAY_WITH_MONTH_NAME.sub(" ", text or "")
+    return _DAY_WITH_DATE.sub(" ", without)
+
+
+def _make(day: int, month: int, year_text: str | None, start: int) -> dt.date | None:
+    if not (1 <= day <= 31 and 1 <= month <= 12):
+        return None
+    if year_text:
+        year = int(year_text)
+        year += 2000 if year < 100 else 0
+    else:
+        # August onwards belongs to the year the school year began.
+        year = start if month >= 8 else start + 1
+    try:
+        return dt.date(year, month, day)
+    except ValueError:
+        return None
+
+
 def iso_week_of(day: dt.date) -> int:
     return day.isocalendar().week

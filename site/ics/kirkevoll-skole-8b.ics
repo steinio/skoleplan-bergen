@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:a7285eab57b97ee11e54b9414026ffa91e92f47b@gimle-arbeidsplan
-DTSTAMP:20260921T145042Z
+DTSTAMP:20260921T150047Z
 SUMMARY:📌 - Chromebook: denne skal du lade hjemme. Gjør det til en vane
   at du setter den til lading på ettermiddagen (ikke over natten).
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -44,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:2d30897724161ebc41f32eac087b95c088e1d671@gimle-arbeidsplan
-DTSTAMP:20260921T145042Z
+DTSTAMP:20260921T150047Z
 SUMMARY:📌 - Mobiler samles inn ved skolestart.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6DKai9Dh2s1Po8yTZSYHyh9SI

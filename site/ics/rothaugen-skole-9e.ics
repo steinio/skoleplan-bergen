@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:35f38c4ef0512a68fcbebb1a842f6a4206cd8b27@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 Avdelingsleder
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:eede48ae17e166c02b152ccc3d40262e39e26d90@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:👥 Det er klubb\, "Rothaugen Ung"\, hver tirsdag (13.30-17.00). I
  ngen påmelding. Det er bare å møte opp. Oppmøte ved biblioteket eller 
  spillrommet.
@@ -59,7 +59,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:979d54bb3d49f2896be5a2fd876312c61bb116e6@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – Innleveringsfrist mandag 12.oktober.
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
  d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-twi_koy6EO6Jx6
@@ -78,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aa7644304830502bd3b8caab4238995a6fcc8f56@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 Jo Thornton Kirkeli
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -92,7 +92,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:fe286b76f2dfc5ceddce393168f45c14ca1c6ddc@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 Kontaktlærere:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -106,7 +106,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:47f9fb69b6980ae0178f7866d4d3aea8e755dc09@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 Lars Olav Hammer
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -120,7 +120,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:f33a92104a1781eb1f5356a7b3cd0fe468a3f0ef@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – Lesemappen: Her er linken til lesemappen. Uke 39 = s
  amfunnsfag
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
@@ -141,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:939d390442a89cc17bbf5dfd9c1e82b26d24f75d@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – M&H Lekse til uke 42:
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
  d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-twi_koy6EO6Jx6
@@ -160,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2f05dc9cb803b4831165f9df0d1a2ba36d84de5@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – M&H i løpet av uken: Lag mat hjemme\, og skriv logg
   på classroom.
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
@@ -181,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8f876d6343eff418e5cf0cb9f27dc5cd038be278@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – M&H til mandag: Les gjennom det som står på classr
  oom om uke 39\, slik at du er forberedt på hva vi skal gjøre på skolen.
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
@@ -203,7 +203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b6db41ae128b8c825ad985378b89fda02394b9af@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – Naturfag til onsdag: Fullfør cellemodellen din og t
  a den med til timen på onsdag.
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
@@ -224,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dba0d73d67fc0d3572ffc38497f5ec0c21e04296@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – Norsk til torsdag: Repeter og lær deg fagbegrepene 
  du har skrevet ned i arbeidsboken din. Ellers: Arbeid med ukens låt.
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8362c30143f9b0583fa67937c11921a0d512ff5c@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📚 Lekse – Oppgave om bærakraftig mat.
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 40\nhttps://docs.google.com/document/
  d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-twi_koy6EO6Jx6
@@ -264,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4c478573f3ce3841eadb00ccdb8c0257c05c7a92@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 PAVA Ungdomsklubb hver torsdag på IL Sandviken Klubbhus
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -278,7 +278,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:28983f9ec01a25cc17535343d466067057a22329@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 Trine Moe Lid
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -292,7 +292,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:be9fdcb875b019be85be370c61bfae7615e6a025@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 trine.lid@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -306,7 +306,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:f89a0497c49bec2a6c578876ea0406e807e6b4f8@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📌 Årshjul
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-tw
@@ -320,7 +320,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:9e28f9b23a93ed61a9d16a0bc843ac98fdba460f@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📝 Naturfag
 DESCRIPTION:Prøve / innlevering\nPresentasjon av cellemodell ** Nasjonale 
  Prøver for elever som ikke er ferdige\nOnsdag\, uke 40\nhttps://docs.goog
@@ -335,7 +335,7 @@ DTEND;TZID=Europe/Oslo:20260930T094500
 END:VEVENT
 BEGIN:VEVENT
 UID:2bfbc0fcd851c18c91a4e723846ef2872b9a3184@gimle-arbeidsplan
-DTSTAMP:20260921T145227Z
+DTSTAMP:20260921T150232Z
 SUMMARY:📝 Norsk
 DESCRIPTION:Prøve / innlevering\nUkens låt presentasjon + Øve til vurder
  ing i uke 40.\nTorsdag\, uke 40\nhttps://docs.google.com/document/d/e/2PAC

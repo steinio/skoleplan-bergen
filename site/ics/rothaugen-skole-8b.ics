@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3cb0329f1da32327c4e9ebd1115e0c816fc6557f@gimle-arbeidsplan
-DTSTAMP:20260921T145209Z
+DTSTAMP:20260921T150216Z
 SUMMARY:🎒 Du skal alltid ha med skrivesaker\, bøker og oppladet Chromeb
  ook til timene.
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
@@ -44,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:f94a46aee5479d730d9db8f798d8f05a476b1637@gimle-arbeidsplan
-DTSTAMP:20260921T145209Z
+DTSTAMP:20260921T150216Z
 SUMMARY:🎒 Fredag: Kroppsøving i Varegghallen. Ta med innetreningsklær 
  og sko. + Dusjesaker.
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
@@ -59,7 +59,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:daeb7e007372506a4bc1688c636b1089a3d6a491@gimle-arbeidsplan
-DTSTAMP:20260921T145209Z
+DTSTAMP:20260921T150216Z
 SUMMARY:📌 Les gjerne i en valgfri bok en time eller to hver uke.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTO10yIDaThNeFnbZ0oLPVBVFm6gS4RQomt-6a6WW7KGweDt4Rt
@@ -73,7 +73,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:14bae7e2878a38305f11afdc6f58091bc2aa132d@gimle-arbeidsplan
-DTSTAMP:20260921T145209Z
+DTSTAMP:20260921T150216Z
 SUMMARY:🎒 Ta med matte lærebok og skrivebok til torsdag og fredag
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vTO10yIDaThNeFnbZ0oLPVBVFm6gS4RQomt-6a6WW7KG

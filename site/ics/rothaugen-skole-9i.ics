@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5c4f1d4da5efa078d919ecd229ece69cdbb1b209@gimle-arbeidsplan
-DTSTAMP:20260921T145232Z
+DTSTAMP:20260921T150238Z
 SUMMARY:🚌 Valgfag friluftsliv skal på tur 10.-11. September. Årsplan l
  igger ute på classroom\, sammen med informasjon og pakkeliste til turen. 
  Se på det sammen med noen hjemme\, og sjekk at du har eller kan låne det
@@ -46,7 +46,7 @@ DTEND;VALUE=DATE:20260908
 END:VEVENT
 BEGIN:VEVENT
 UID:377ccc677ab1e1ee9d251c929aeae6452c7e65f8@gimle-arbeidsplan
-DTSTAMP:20260921T145232Z
+DTSTAMP:20260921T150238Z
 SUMMARY:🚌 Valgfag friluftsliv skal på tur torsdag denne uken (10.-11. S
  eptember). Årsplan ligger ute på classroom\, sammen med informasjon og p
  akkeliste til turen. Se på det sammen med noen hjemme\, og sjekk at du ha
@@ -63,7 +63,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:841ea03ee0998f8df2054d3e6e4aaf687ca764d4@gimle-arbeidsplan
-DTSTAMP:20260921T145232Z
+DTSTAMP:20260921T150238Z
 SUMMARY:🎒 M&H: Denne uken er det fokus på mat som er i sesong. Dere ska
  l lære litt om grønnsaker som er i sesong\, og vite hvorfor det er lurt 
  og viktig å kjøpe/bruke mat som er i sesong. Husk å lage mat hjemme den

@@ -28,8 +28,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9e3e9993168e9d6ebde71d1b11450497d33e9e87@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+UID:db68741497ac6f109f32c3175385635e00229717@gimle-arbeidsplan
+DTSTAMP:20260921T150020Z
 SUMMARY:🎒 Husk å lade Chromebooken din hver dag
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn3-
@@ -38,12 +38,12 @@ CATEGORIES:Husk å ta med
 URL:https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
  _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
 TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
-UID:82345e65580aa5716776fa911012b6bf3cd547d4@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+UID:f1f25b305229e0acfd1b9c57a81eb35971e1cbee@gimle-arbeidsplan
+DTSTAMP:20260921T150020Z
 SUMMARY:📝 Oppsamlingsheat Nasjonale prøver onsdag 1. og 2. time på 8F 
  sitt klasserom.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
@@ -53,12 +53,12 @@ CATEGORIES:Prøve / innlevering
 URL:https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
  _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
 TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
-UID:9fd1df31dbaa791e9463678bbb9b45baf963fa44@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+UID:8cd0b8a4ed6873d59220932398a3d60939060d1a@gimle-arbeidsplan
+DTSTAMP:20260921T150020Z
 SUMMARY:🎒 Ta med mat og drikke
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn3-
@@ -67,12 +67,66 @@ CATEGORIES:Husk å ta med
 URL:https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
  _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
 TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9a6632dab7670d3a6c8091e26653c961e69cb4@gimle-arbeidsplan
+DTSTAMP:20260921T150020Z
+SUMMARY:📚 Lekse – Mattematikk: Lekse:
+DESCRIPTION:Lekser\nTema: Ganging og deling med negative tall.\nMandag\, uk
+ e 39\nhttps://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6Uzu
+ sXW_PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
+ _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T094000
+DTEND;TZID=Europe/Oslo:20260921T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Mattematikk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6d7329bb4698eeb674df096054fb9b067d3df5@gimle-arbeidsplan
+DTSTAMP:20260921T150020Z
+SUMMARY:📝 Naturfag
+DESCRIPTION:Prøve / innlevering\nTema: Karbonets kretsløp. I dag skal gru
+ ppene spille inn podcast i løpet av timen. Podcast leveres i classroom.\n
+ Mandag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprr
+ meLXucl6UzusXW_PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
+ _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T122000
+DTEND;TZID=Europe/Oslo:20260921T132000
+END:VEVENT
+BEGIN:VEVENT
+UID:06781c54de2d1eeaed66810beca9654adbe44c09@gimle-arbeidsplan
+DTSTAMP:20260921T150020Z
+SUMMARY:📚 Lekse – Naturfag: Lekse:
+DESCRIPTION:Lekser\nTema: Karbonets kretsløp. I dag skal gruppene spille i
+ nn podcast i løpet av timen. Podcast leveres i classroom.\nMandag\, uke 3
+ 9\nhttps://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
+ _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW
+ _PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T122000
+DTEND;TZID=Europe/Oslo:20260921T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Naturfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:389f15ab200a2f237a3d2aae542e126d3100c45b@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – KRLE: Gjør ferdig oppgavene om side 40-46 på Class
  room.
 DESCRIPTION:Lekser\nTema: Hellige hus: Kirker\nTirsdag\, uke 39\nhttps://do
@@ -93,7 +147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a0f56963801d373d408c369e2027a6327acb299@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Engelsk: You have a reading task on Skolenmin:”How
   to write an argumentative text “.
 DESCRIPTION:Lekser\nTema: My opinion\nTirsdag\, uke 39\nhttps://docs.google
@@ -114,7 +168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:82a3777868e068dde04126a8bff838fe88c3e6ab@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📝 Samfunnsfag
 DESCRIPTION:Prøve / innlevering\nNasjonal prøve i engelsk (60 min)\nTirsd
  ag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLX
@@ -128,7 +182,7 @@ DTEND;TZID=Europe/Oslo:20260922T143000
 END:VEVENT
 BEGIN:VEVENT
 UID:0807a8ba986cb2202dd7d9ea3c2d8e735576424c@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📝 Oppsamlingsheat nasjonale prøver
 DESCRIPTION:Prøve / innlevering\nOversiktsplan\nOnsdag\, uke 39\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7
@@ -142,7 +196,7 @@ DTEND;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:4a72f43bf0520911afba27eb5265c9456aa87896@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Engelsk: You have a reading task on Skolenmin: Multi
  cultural stories”.
 DESCRIPTION:Lekser\nTema: Identity\nOnsdag\, uke 39\nhttps://docs.google.co
@@ -163,7 +217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:76858159287517b48c487d2565744d2eea7be257@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Norsk: ta en kikk innom https://www.nrk.no/ytring/ i
   løpet av uken. Les 2-3 av sakene du synes er interessante når du scroll
  er nedover:) Det hjelper når du skal skrive ditt eget innlegg.
@@ -186,7 +240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad38fea54ebd93b6516191cc1669de2241b14e1@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🎒 Kroppsøving:
 DESCRIPTION:Husk å ta med\nTema: vi skal være på bane 2 og ha lek og inn
  ebandy. Husk gymtøy og innesko! Sist var det mange som glemte dette. Sett
@@ -202,7 +256,7 @@ DTEND;TZID=Europe/Oslo:20260923T132000
 END:VEVENT
 BEGIN:VEVENT
 UID:ef0e23e5e0f3d3559a7cf6386378b0647adfce02@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Mattematikk: Gjøre ferdig oppg. 1.48 - 1.50 på s. 
  41 i grunnboken
 DESCRIPTION:Lekser\nTema: Oppsummering av regning med negative tall + Regni
@@ -224,7 +278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:81b055e8dfc6815585135cfe9ca8a5b4473821da@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Matematikk: Lekse:
 DESCRIPTION:Lekser\nTema: Regning med desimaltall.\nFredag\, uke 39\nhttps:
  //docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUg
@@ -243,7 +297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2fff4ca3758d8f4ca1cf1edc74ecea9e3142e544@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema: Vi jobber med temaet økologi. I dag er fokus på
   samspill og konkurranse.\nFredag\, uke 39\nhttps://docs.google.com/docume
@@ -263,7 +317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5b76eb7150959498d04a62a8949ab2c4545882@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📚 Lekse – Samfunnsfag: Læringssti om roller og normer på sko
  lenmin.cdu Ukens nyheter: Lilja og Sonja
 DESCRIPTION:Lekser\nTema: Vi repeterer det viktigste vi har lært denne per
@@ -285,7 +339,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f8612ff701e2cd5e5b45cf49475c50654163534c@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:📝 Begrepstest og refleksjonsspørsmål i samfunnsfag
 DESCRIPTION:Prøve / innlevering\nOversiktsplan\nTirsdag\, uke 40\nhttps://
  docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH
@@ -299,7 +353,7 @@ DTEND;VALUE=DATE:20260930
 END:VEVENT
 BEGIN:VEVENT
 UID:260240c79e5c84e755eb2520139299bf1765a7d1@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:👥 Foreldremøte
 DESCRIPTION:Møte / arrangement\nOversiktsplan\nTirsdag\, uke 40\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7
@@ -313,7 +367,7 @@ DTEND;VALUE=DATE:20260930
 END:VEVENT
 BEGIN:VEVENT
 UID:703a81e5d4f63a52bec60ad06967ea7eb251de13@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:👥 Skolefotografering
 DESCRIPTION:Møte / arrangement\nOversiktsplan\nTorsdag\, uke 40\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7
@@ -327,7 +381,7 @@ DTEND;VALUE=DATE:20261002
 END:VEVENT
 BEGIN:VEVENT
 UID:10c434a584ca105423d7020eb49b4f217756d2b5@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🏖️ Høstferie 🍁
 DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 41\nhttps://do
  cs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7c
@@ -341,7 +395,7 @@ DTEND;VALUE=DATE:20261010
 END:VEVENT
 BEGIN:VEVENT
 UID:476b621a6f5e7e05b03ab74271b2d523f9b01f11@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🏖️ Planleggingsdag
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 45\nhttps://docs.
  google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn3
@@ -355,7 +409,7 @@ DTEND;VALUE=DATE:20261107
 END:VEVENT
 BEGIN:VEVENT
 UID:11a827a4b13a1d962b717409e2785f726ecf183c@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🏖️ Lille julaften
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nOnsdag\, uke 52\nhttps://docs.
  google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn3
@@ -369,7 +423,7 @@ DTEND;VALUE=DATE:20261224
 END:VEVENT
 BEGIN:VEVENT
 UID:477093108ee90053fccb02873224906c39ece7f7@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🏖️ Julaften 🌟
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTorsdag\, uke 52\nhttps://docs
  .google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn
@@ -383,7 +437,7 @@ DTEND;VALUE=DATE:20261225
 END:VEVENT
 BEGIN:VEVENT
 UID:1a9a05ff965a0b289fec1988acd30d09d2d50463@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🏖️ Første juledag
 DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 52\nhttps://docs.
  google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn3
@@ -397,7 +451,7 @@ DTEND;VALUE=DATE:20261226
 END:VEVENT
 BEGIN:VEVENT
 UID:409d31c56a65219d1caf336b6efecd834b62c5e8@gimle-arbeidsplan
-DTSTAMP:20260921T145017Z
+DTSTAMP:20260921T150020Z
 SUMMARY:🏖️ Juleferie 🎄
 DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 53\nhttps://do
  cs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7c

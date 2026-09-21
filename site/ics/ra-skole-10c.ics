@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10C//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10C
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10C ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:da64997fdeba71be7df92050d6a2dc16031ce14a@gimle-arbeidsplan
+DTSTAMP:20260921T150141Z
+SUMMARY:📝 MATEMATIKK
+DESCRIPTION:Prøve / innlevering\nMatteprøve Fremdriftsplan - 10C\nTirsdag
+ \, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAf
+ m8hqEwSlROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSl
+ ROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T081500
+DTEND;TZID=Europe/Oslo:20260922T091500
+END:VEVENT
+BEGIN:VEVENT
+UID:a95e34a68b03298f5edae6b6aec8b41a144335d9@gimle-arbeidsplan
+DTSTAMP:20260921T150141Z
+SUMMARY:👥 Oppsamling maling for 10 trinn 2. time
+DESCRIPTION:Møte / arrangement\nMandag\, uke 40\nhttps://docs.google.com/d
+ ocument/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlROLu0XsHwwcH35JdecaE_6tRfX37
+ n_15v6y4Djs4Y7eeUppJsR6w/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSl
+ ROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260928T081500
+DTEND;TZID=Europe/Oslo:20260928T091500
+END:VEVENT
+BEGIN:VEVENT
+UID:26b285cc28fafa320423a32c48d75a26b41c5c3e@gimle-arbeidsplan
+DTSTAMP:20260921T150141Z
+SUMMARY:📝 NATURFAG
+DESCRIPTION:Prøve / innlevering\nFremdriftsplan naturfag\nTirsdag\, uke 40
+ \nhttps://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlR
+ OLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSl
+ ROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260929T121500
+DTEND;TZID=Europe/Oslo:20260929T131500
+END:VEVENT
+BEGIN:VEVENT
+UID:45fc7d03a737b0eba0defca20ddb8a50b0b6baa2@gimle-arbeidsplan
+DTSTAMP:20260921T150141Z
+SUMMARY:📚 Lekse – NATURFAG: Innlevering av rapport av Forsøk: Dyrke b
+ akterier
+DESCRIPTION:Lekser\nFremdriftsplan naturfag\nTirsdag\, uke 40\nhttps://docs
+ .google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlROLu0XsHwwcH35J
+ decaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSl
+ ROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260929T121500
+DTEND;TZID=Europe/Oslo:20260929T131500
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – NATURFAG: Innlevering av rapport av Forsøk: Dyr
+ ke bakterier
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8e5696261edf55db0b5786fec33e37a81fbfb3@gimle-arbeidsplan
+DTSTAMP:20260921T150141Z
+SUMMARY:🏖️ PLANLEGGINGSDAG
+DESCRIPTION:Fri / ikke skole\nElevfri\nFredag\, uke 45\nhttps://docs.google
+ .com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlROLu0XsHwwcH35JdecaE_6
+ tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSl
+ ROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261106T081500
+DTEND;TZID=Europe/Oslo:20261106T153000
+END:VEVENT
+END:VCALENDAR

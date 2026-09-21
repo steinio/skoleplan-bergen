@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3d132c818c846c928bbb74d57df6496d5f7e7af1@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 34\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa-
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:81a44e6a4fa4b76bcc09ac51a2977c48ccdf1ca4@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:👥 Tirsdag 8:15 møte i klasserommet før du går i gruppen.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 34\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa-
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:08017d7b9e946b4f9b6c6337d324c052205861e9@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📌 Helene er borte 24-25.august
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 35\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa-2S3SvLWnZ9nE
@@ -71,7 +71,7 @@ DTEND;VALUE=DATE:20260825
 END:VEVENT
 BEGIN:VEVENT
 UID:7b06f50cce4268792c886c7633444ae7c98ed299@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📌 Oppstartsamtaler: Det vil bli gjennomført oppstartssamtaler i
   løpet av uke 36 og 37. Se egen innkalling i Vigilo.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 35\nhttps://docs.google.c
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20260825
 END:VEVENT
 BEGIN:VEVENT
 UID:d4560c7c4d4fdd399438a769edbe314e5d302090@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:👥 Fotografering: Onsdag 02.09 vil klassen bli fotografert kl: 13
  20-14.20.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 36\nhttps://d
@@ -101,7 +101,7 @@ DTEND;VALUE=DATE:20260901
 END:VEVENT
 BEGIN:VEVENT
 UID:0f00fb3905b9deee3344a03070e575f5d0b1dee4@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📌 Oppstartsamtaler: Det vil bli gjennomført oppstartssamtaler i
   løpet av uke 36 og 37. Se egen innkalling i Vigilo.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 36\nhttps://docs.google.c
@@ -116,7 +116,7 @@ DTEND;VALUE=DATE:20260901
 END:VEVENT
 BEGIN:VEVENT
 UID:502181e54cb10a8475352e735ea9d39775ac3096@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📝 Nasjonale prøver engelsk: 2.time fredag
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 37\nhttps://
  docs.google.com/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa
@@ -130,7 +130,7 @@ DTEND;VALUE=DATE:20260908
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9c03d632bb5c2798a0fe7f841bd2e0e5cf5d59@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📌 Oppstartsamtaler: Det vil bli gjennomført oppstartssamtaler i
   løpet av uke 36 og 37. Se egen innkalling i Vigilo.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 37\nhttps://docs.google.c
@@ -145,7 +145,7 @@ DTEND;VALUE=DATE:20260908
 END:VEVENT
 BEGIN:VEVENT
 UID:7221f24a101c420472f68718fa42d6a20e60f51c@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📌 8E har lånt bok på biblioteket. Den kan gjerne leses hjemme\
  , men må alltid tilbake i sekken slik at vi kan også lese i den på skol
  en.
@@ -161,7 +161,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:004c17b91bc459f022617e042df9a525a38f4014@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:📌 Norsk: Litterær samtale på mandag og tirsdag denne uken.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa-2S3SvLWnZ9nE
@@ -175,7 +175,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:39627e778426076bcb92342a561e3155f469e75a@gimle-arbeidsplan
-DTSTAMP:20260921T145455Z
+DTSTAMP:20260921T150515Z
 SUMMARY:🏖️ Siste skoledag før ferie: GOD FERIE
 DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 51\nhttps://docs
  .google.com/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa-2S3

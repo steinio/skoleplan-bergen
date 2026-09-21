@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f589b49c8846041456bde705da90983b646b91e0@gimle-arbeidsplan
-DTSTAMP:20260921T145332Z
+DTSTAMP:20260921T150341Z
 SUMMARY:📌 Hele 9. trinn er ute i storefri denne uken.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTisVVFVFjo-Smo-NstVR2Zo5wO8zqWhGOgr5El0Dxcr-vpGGLt
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:27936edcee62e3dcc82d4904e66ef74265340fb4@gimle-arbeidsplan
-DTSTAMP:20260921T145332Z
+DTSTAMP:20260921T150341Z
 SUMMARY:📌 Her finner dere årshjulet
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTisVVFVFjo-Smo-NstVR2Zo5wO8zqWhGOgr5El0Dxcr-vpGGLt
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:4c99c3e4a59ab877ec2d00198ce5adf16a18c503@gimle-arbeidsplan
-DTSTAMP:20260921T145332Z
+DTSTAMP:20260921T150341Z
 SUMMARY:📌 Klassen skal på BIFF (Bergen internasjonale filmfestival) ons
  dag 30. september
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -72,7 +72,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:72c4007f7b094882730fdc513c5f98193fe8ee72@gimle-arbeidsplan
-DTSTAMP:20260921T145332Z
+DTSTAMP:20260921T150341Z
 SUMMARY:🚌 Nytt forsøk: Halv aktivitetsdag for hele skolen fredag 25. se
  ptember (m/værforbehold). Start og slutt til vanlig tid. Husk gode klær 
  etter været.

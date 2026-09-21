@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c50674eeaf30f3a9b7d6da990e5a50fedcb91e4b@gimle-arbeidsplan
-DTSTAMP:20260921T145235Z
+DTSTAMP:20260921T150241Z
 SUMMARY:📝 Engelskprøve fredag. En liten lyttedel + en større skriftlig
   del. Bruk oversikten på classroom til å forberede deg.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
@@ -44,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:6692a65a25020bc152705377d7e2e030beb06700@gimle-arbeidsplan
-DTSTAMP:20260921T145235Z
+DTSTAMP:20260921T150241Z
 SUMMARY:🎒 Husk oppladet chromebook og bøker.
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Ia
@@ -58,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:e90e87fe8376949ea934651029bb8864764ec02d@gimle-arbeidsplan
-DTSTAMP:20260921T145235Z
+DTSTAMP:20260921T150241Z
 SUMMARY:📌 Linn mob: 40815748.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Iae1fTw3C
@@ -72,7 +72,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:de00a81b7f3d130ae50bb4f9a67376c58d447604@gimle-arbeidsplan
-DTSTAMP:20260921T145235Z
+DTSTAMP:20260921T150241Z
 SUMMARY:📌 Trenger du å snakke med rådgiver?
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Iae1fTw3C
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:05286ecb14bfda31185f7fd3b72aeaef629bf798@gimle-arbeidsplan
-DTSTAMP:20260921T145235Z
+DTSTAMP:20260921T150241Z
 SUMMARY:📌 Årshjul med oversikt over aktiviteter og vurderinger finner d
  u her.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c

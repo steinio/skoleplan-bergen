@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10D//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10D
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10D ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0cca431273a6ed4a7e652950e63e7636e143add2@gimle-arbeidsplan
+DTSTAMP:20260921T150148Z
+SUMMARY:📝 MATEMATIKK
+DESCRIPTION:Prøve / innlevering\nPrøve: Algebrastigen Fremdriftsplan i ma
+ tematikk 10D\nTirsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX
+ -1vQrD67sqwGOF5zf-mDgE0m86ObYY-VrC6ECPmzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8Hxx
+ lbDNclt/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86ObY
+ Y-VrC6ECPmzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8HxxlbDNclt/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T081500
+DTEND;TZID=Europe/Oslo:20260922T091500
+END:VEVENT
+BEGIN:VEVENT
+UID:6d5569680b54c49acdd153311aed0f8b63222f8b@gimle-arbeidsplan
+DTSTAMP:20260921T150148Z
+SUMMARY:📝 KRLE
+DESCRIPTION:Prøve / innlevering\ntil kl.14.55 Prøve i etikk\nMandag\, uke
+  42\nhttps://docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86O
+ bYY-VrC6ECPmzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8HxxlbDNclt/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86ObY
+ Y-VrC6ECPmzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8HxxlbDNclt/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261012T132500
+DTEND;TZID=Europe/Oslo:20261012T145500
+END:VEVENT
+BEGIN:VEVENT
+UID:27a013095b7e94bc4877b6c5ac03956e4f054b30@gimle-arbeidsplan
+DTSTAMP:20260921T150148Z
+SUMMARY:🎒 SAMFUNNSFAG
+DESCRIPTION:Husk å ta med\ntil kl.14.25 Hvorfor tok den kalde krigen slutt
+ ? Den kalde krigen Husk å lever inn arbeidsboken\nFredag\, uke 42\nhttps:
+ //docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86ObYY-VrC6ECP
+ mzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8HxxlbDNclt/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86ObY
+ Y-VrC6ECPmzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8HxxlbDNclt/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261016T132500
+DTEND;TZID=Europe/Oslo:20261016T145500
+END:VEVENT
+END:VCALENDAR

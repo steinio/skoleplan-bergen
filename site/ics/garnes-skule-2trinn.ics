@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//2. trinn//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 2. trinn
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 2. trinn ved Gimle oppv
+ eksttun skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5215454f587a0ab66a36b5229f269e8515cea6dd@gimle-arbeidsplan
+DTSTAMP:20260921T150004Z
+SUMMARY:👥 Morgonsamling
+DESCRIPTION:Møte / arrangement\n2-deling: Matte / Norsk Friminutt 2-deling
+ : Norsk / Matte Lunsj Friminutt Samantid SFO/Heim Hugs foreldremøte i kve
+ ld!\nOnsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vSsl1dOz
+ tyihBEuqp1Mk337tLZvKO2kjEvBg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pu
+ b
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vSsl1dOztyihBEuqp1Mk337tLZv
+ KO2kjEvBg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:df7d4e2ef2c1b1cec0fe0f8dbb6eba88b1de0ca7@gimle-arbeidsplan
+DTSTAMP:20260921T150004Z
+SUMMARY:👥 Morgonsamling
+DESCRIPTION:Møte / arrangement\n2-deling: Norsk / Matte Friminutt 2-deling
+ : Matte / Norsk Lunsj Friminutt Tema Samantid SFO/Heim\nTorsdag\, uke 39\n
+ https://docs.google.com/document/d/e/2PACX-1vSsl1dOztyihBEuqp1Mk337tLZvKO2
+ kjEvBg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vSsl1dOztyihBEuqp1Mk337tLZv
+ KO2kjEvBg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:85ba9039421a2a7464f1936d12d1b1f7a5c72fee@gimle-arbeidsplan
+DTSTAMP:20260921T150004Z
+SUMMARY:👥 Morgonsamling
+DESCRIPTION:Møte / arrangement\n2-deling: Norsk / Arbeidsplan Friminutt No
+ rsk / Arbeidsplan Lunsj Friminutt Samantid SFO/Heim\nFredag\, uke 39\nhttp
+ s://docs.google.com/document/d/e/2PACX-1vSsl1dOztyihBEuqp1Mk337tLZvKO2kjEv
+ Bg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vSsl1dOztyihBEuqp1Mk337tLZv
+ KO2kjEvBg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+END:VCALENDAR

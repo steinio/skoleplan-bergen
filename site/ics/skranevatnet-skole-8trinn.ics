@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:06e7076cf94e992b0c667a24e38a33e981fa8a58@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Matematikk: Gjør grønn eller rød løype i lekseboken. Lekse
  n finner du på classroom. Leveres innen fredag.
 DESCRIPTION:Prøve / innlevering\nFransk lekse: Lag en video om deg selv. F
@@ -45,7 +45,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:9e660392edcb07219ecf0379602b53a9d428a311@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Matematikk: Gjør grønn eller rød løype i lekseboken. Lever
  es innen fredag. Leksen finner du på classroom.
 DESCRIPTION:Prøve / innlevering\nSvømming: Husk badetøy\, badehette\, sh
@@ -62,7 +62,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:972084a27c21e44250cf29e0226b05546355c9b2@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Nasjonale prøver regning
 DESCRIPTION:Prøve / innlevering\nA: 09.30- 11.00 Spansk med Lisa: telle fr
  a 0-15 + alfabetet s.11-12\nTirsdag\, uke 38\nhttps://docs.google.com/docu
@@ -77,7 +77,7 @@ DTEND;VALUE=DATE:20260916
 END:VEVENT
 BEGIN:VEVENT
 UID:98b8e2e2f62ce3f1f272008627b89f0dc794dc93@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:🎒 Gym:
 DESCRIPTION:Husk å ta med\nKlasseromsøkt fordi hallen er opptatt. Dere tr
  enger ikke gymtøy!\nTorsdag\, uke 38\nhttps://docs.google.com/document/d/
@@ -92,7 +92,7 @@ DTEND;VALUE=DATE:20260918
 END:VEVENT
 BEGIN:VEVENT
 UID:9be3c69e04e789c159f3834e040d456976f41383@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Matematikk: Lekseboken skal leveres i leksekassen i klasseromm
  et
 DESCRIPTION:Prøve / innlevering\nFransk: pugg uttaleregler Media og kommun
@@ -110,7 +110,7 @@ DTEND;VALUE=DATE:20260919
 END:VEVENT
 BEGIN:VEVENT
 UID:0a2e630238ebe067250126c48715df4afee0184b@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Matematikk: Lekseboken skal leveres.
 DESCRIPTION:Prøve / innlevering\nFransk: pugg uttaleregler Media og kommun
  ikasjon: Trenger mobil til undervisning. Friluftsliv: Sørg for at du har 
@@ -127,7 +127,7 @@ DTEND;VALUE=DATE:20260919
 END:VEVENT
 BEGIN:VEVENT
 UID:1444fd124987dae551a71ac480eeba1e6799c50f@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Matematikk: Gjør grønn eller rød løype i lekseboken. Du ka
  n også gjøre noen oppgaver grønn og noen rød. Leveres innen fredag. Le
  ksen finner du på classroom.
@@ -143,7 +143,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:c8cf39f16fa50524b0179c2d67cae9ae8ab16112@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Svømming:
 DESCRIPTION:Prøve / innlevering\nHusk badetøy\, badehette\, shampo/såpe 
  og håndkle Matematikk: Gjør grønn eller rød løype i lekseboken. Du ka
@@ -160,7 +160,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:d908a4b812e078091d6fada3ffe695802ead7c5c@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 KRLE: Gjer ferdig arbeidet vi starta på i førre time.
 DESCRIPTION:Prøve / innlevering\nLese s. 47 - 53 i heftet. Sjå om du finn
   omgrepa frå presentasjonen i heftet (s. 48 - 53). Gjer oppg. 1-5 og 7-9 
@@ -176,7 +176,7 @@ DTEND;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:1151c1cfded16d5c352000ba9ec903cb508150cb@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:🎒 Husk gymtøy!
 DESCRIPTION:Husk å ta med\nSpansk: - Fullfør lekseark som du får på tir
  sdag (-Ar verb)\nTorsdag\, uke 39\nhttps://docs.google.com/document/d/e/2P
@@ -191,7 +191,7 @@ DTEND;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
 UID:81c65c3a9d9a469d571c5d5fe5ee4ba3ae9156c4@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Norsk:
 DESCRIPTION:Prøve / innlevering\nRepeter substantiv ved å gjøre tildelt 
  læringssti på Skolen min. Naturfag: Føre journal (leveres neste nat.tim
@@ -207,7 +207,7 @@ DTEND;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
 UID:ed417e938ab253b11f2b95443eb7ff7573a1e24e@gimle-arbeidsplan
-DTSTAMP:20260921T145243Z
+DTSTAMP:20260921T150249Z
 SUMMARY:📝 Matematikk: Lekseboken skal leveres i leksekassen i klasseromm
  et.
 DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/

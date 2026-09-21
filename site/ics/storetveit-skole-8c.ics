@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:d30da93d9b3e6c3e7c83df479d2d074bfe1c1f6a@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:📝 Chroomebook utleveres på onsdag
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 34\nhttps://
  docs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZ
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:65ff059cecb8c6730f22e1e8361ae7be96d53b1e@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:🎒 Kroppsøving: Dere må ha med gymklær og gymsko (innesko)
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 34\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZNh-BPj
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:50b8f8e2f1448c9f8497954634ce3c2f3bd1c7bc@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 34\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -71,7 +71,7 @@ DTEND;VALUE=DATE:20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:d623c9a217dc0e477508399433315b22ec33d29d@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:📝 Presentasjon og informasjon om valgfagene mandag 17.08.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 34\nhttps://
  docs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZ
@@ -85,7 +85,7 @@ DTEND;VALUE=DATE:20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:33876ede6830b7aeabc57af8365b24f43d634d2a@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 35\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -99,7 +99,7 @@ DTEND;VALUE=DATE:20260825
 END:VEVENT
 BEGIN:VEVENT
 UID:aa6e4c3e6e69d7917ce85b949fefa099f929d731@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 37\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -113,7 +113,7 @@ DTEND;VALUE=DATE:20260908
 END:VEVENT
 BEGIN:VEVENT
 UID:3175f522bb164b4b110d534ec399cb922696c312@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 38\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -127,7 +127,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:c5c692f1926a67b253096e50c83c63f38c2c2546@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Velkommen til foresatte- og barnmøte onsdag 16.9 klokken 16.3
  0. Ta med Chromebook!
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 38\nhttps://d
@@ -142,7 +142,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:e57015f018f7d767aca5481448196e654a46ee03@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -156,7 +156,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:237df1dac8486088353abdb7237349692a91af33@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 40\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -170,7 +170,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:9f24439616d8a496e7da603ad04c034d208cd7a3@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 42\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -184,7 +184,7 @@ DTEND;VALUE=DATE:20261013
 END:VEVENT
 BEGIN:VEVENT
 UID:c4fecdc69c8412e2b5570995c8211107e2368a7e@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 43\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -198,7 +198,7 @@ DTEND;VALUE=DATE:20261020
 END:VEVENT
 BEGIN:VEVENT
 UID:d6588fee46dc8289c6e4e2b8846ed635085f71c5@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 44\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -212,7 +212,7 @@ DTEND;VALUE=DATE:20261027
 END:VEVENT
 BEGIN:VEVENT
 UID:9d624e9d3f4b93b60291746c1534d2db1ae2037c@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 45\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -226,7 +226,7 @@ DTEND;VALUE=DATE:20261103
 END:VEVENT
 BEGIN:VEVENT
 UID:4912a863e63ab70af59c3dfe3a202fcfcd5b08f2@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 46\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -240,7 +240,7 @@ DTEND;VALUE=DATE:20261110
 END:VEVENT
 BEGIN:VEVENT
 UID:d884efc267789290633d96444c42cc93893be78b@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 47\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -254,7 +254,7 @@ DTEND;VALUE=DATE:20261117
 END:VEVENT
 BEGIN:VEVENT
 UID:daed77e02d8d6c831a4550c08a9740eb9fee3c28@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 48\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -268,7 +268,7 @@ DTEND;VALUE=DATE:20261124
 END:VEVENT
 BEGIN:VEVENT
 UID:cf94ceb67244ccd1029994e1a4e69e3b57ce9b3f@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 49\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -282,7 +282,7 @@ DTEND;VALUE=DATE:20261201
 END:VEVENT
 BEGIN:VEVENT
 UID:7d7ca96ff782bf7a23723d11c97827c2c721dbc0@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 50\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -296,7 +296,7 @@ DTEND;VALUE=DATE:20261208
 END:VEVENT
 BEGIN:VEVENT
 UID:e3886c6f1a58627c9e0ed4fa3594248add392c05@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 51\nhttps://d
  ocs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZN
@@ -310,7 +310,7 @@ DTEND;VALUE=DATE:20261215
 END:VEVENT
 BEGIN:VEVENT
 UID:4d30970ad48803b804c0f7369142722d7cb749a5@gimle-arbeidsplan
-DTSTAMP:20260921T145449Z
+DTSTAMP:20260921T150506Z
 SUMMARY:👥 Musikk: Vi møtes på musikkrommet.
 DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 1\nhttps://do
  cs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZNh

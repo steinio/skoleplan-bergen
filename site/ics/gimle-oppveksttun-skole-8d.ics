@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:949e4cf753cca37d6ddd736890c4d3140be337cb@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:🎒 Husk Chromebook\, lader og pennal med skrivesaker
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 38\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYg
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:2029ec4e2cc476b15f4563948d8fc6a28bac9b77@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nMandag\, uke 38\nhttps://docs.google.com/documen
  t/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYgDDjyTudlBjrzTHvN6
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb7c801b94ab41d773fde8bb6af5c0de98d07345@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📝 Samfunnsfag
 DESCRIPTION:Prøve / innlevering\nTema: Roller\nMandag\, uke 38\nhttps://do
  cs.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh
@@ -76,7 +76,7 @@ DTEND;TZID=Europe/Oslo:20260914T104000
 END:VEVENT
 BEGIN:VEVENT
 UID:cd8bf19ef828b516ed7140015db7b2a6a6ab5dfb@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Samfunnsfag: Liten begrepstest Husk å øve godt på
   begrepene vi har jobbet med i samfunnsfag.
 DESCRIPTION:Lekser\nTema: Roller\nMandag\, uke 38\nhttps://docs.google.com/
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2fae92cd80077bf822fa56d5f303c734892b60bc@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema: Vi leser et siste debattinnlegg som vi snakker om
   i fellesskap. Etterpå starter dere å skrive debattinnlegget deres!\nMan
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ce91e649c1dc11a5d24bcf87781c380411633b73@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Matte: Lekse:
 DESCRIPTION:Lekser\nTema: Desimaltall\nTirsdag\, uke 38\nhttps://docs.googl
  e.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYgDDjy
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4eb26d75cad3dcaa38c18813705dd0c7ef6955c8@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema: Vi skal se ferdig filmen\nTirsdag\, uke 38\nhttps
  ://docs.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c2a46ee9a8648eae9b332149eb438302c41faddb@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema: Roller\nTirsdag\, uke 38\nhttps://docs.google.com
  /document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYgDDjyTudlB
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2b79a2a697fecab08ed92dcff81c93a4d7b53d@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Ha bestemt deg for hva du vil skrive debattin
  nlegg om
 DESCRIPTION:Lekser\nTema: Vi fortsetter å jobbe med debattinnlegget vårt\
@@ -195,7 +195,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6d78306d4e18bd3f35867f026145ebeda1232337@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema: Lesehalvtime\, vi leser videre i boken “Gangste
  r”\nOnsdag\, uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vS1-bGd
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:855cb1bd8e778ac4939c689dc6b9e0d6e26649e7@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Matte: Oppgave 1.155 og 1.156 på side 29 og 30 i op
  pgaveboken
 DESCRIPTION:Lekser\nTema: Deismaltall\nOnsdag\, uke 38\nhttps://docs.google
@@ -236,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:07ddca81d397bd9e6431d0bfc28f7d913218e942@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📝 Norsk (vi bytter om på KRLE og norsk)
 DESCRIPTION:Prøve / innlevering\nTema: Nasjonal prøve i lesing\nTorsdag\,
   uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS95
@@ -250,7 +250,7 @@ DTEND;TZID=Europe/Oslo:20260917T093000
 END:VEVENT
 BEGIN:VEVENT
 UID:0bcfbdb662679c8f46f699e6673a2d3d22af7970@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Engelsk: Lekse:
 DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 38\nhttps://docs.google.com/docume
  nt/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYgDDjyTudlBjrzTHvN
@@ -269,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:583486d7f826d841e0744cd5d8d03a7b6a5b34dd@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – KRLE: Finn ut hvilke tre hovedretninger som finnes i
   kristendommen.
 DESCRIPTION:Lekser\nTema: Nytt tema\, hellige hus. Vi starter med hellige h
@@ -291,7 +291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:79f3151a1324f6240103d9cffe30dbb946285255@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:🎒 Kroppsøving
 DESCRIPTION:Husk å ta med\nTema: Lek Møt i klasserommet kl 8:30. Vi skal 
  være inne i dag. Kom på skolen i treningstøy. Husk joggesko.\nFredag\, 
@@ -306,7 +306,7 @@ DTEND;TZID=Europe/Oslo:20260918T104000
 END:VEVENT
 BEGIN:VEVENT
 UID:89fcd008ee045754096c560af7803ccdf819075d@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Matte: Oppgave 1.159 og 1.160 på side 33 i oppgaveb
  oken
 DESCRIPTION:Lekser\nTema: Deismailtall og underveisvurdering\nFredag\, uke 
@@ -327,7 +327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2c71fdb6290422b0f14baad799554a085bd7bc06@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema: Den levende naturen\nFredag\, uke 38\nhttps://doc
  s.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_
@@ -346,7 +346,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d8d7ddd5bc88b24daab6580eae4d5d05d787fa3a@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:🎒 Husk Chromebook\, lader og pennal med skrivesaker!
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYg
@@ -360,7 +360,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5e88857dbb231d5be21253853a1eb47c005b9262@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Engelsk: Opinion piece Anger
 DESCRIPTION:Lekser\nTema: Becoming a teenager\nMandag\, uke 39\nhttps://doc
  s.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_
@@ -379,7 +379,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a79bb8fe92f4834e32137b44feb6148961b4339@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
 DESCRIPTION:Lekser\nTema:Kamp for rettigheter\nMandag\, uke 39\nhttps://doc
  s.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_
@@ -398,7 +398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:002aa5333e860eed9fd852d6fc5d4a34799706e9@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema: Leselogg\, hva har skjedd i boken “Gangster” 
  siden sist vi skrev? Vi jobber videre med debattinnlegget vårt\nMandag\, 
@@ -418,7 +418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c81936f0643f3cce6ab0e2d4d91bd98ae49b4201@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Matte: Oppgave 1.159 og 1.160 på side 33 i oppgaveb
  oken
 DESCRIPTION:Lekser\nTema: Sammensatte målenheter\nTirsdag\, uke 39\nhttps:
@@ -439,7 +439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adf32e3429f111a01fb016fde5b09f8cf1826abb@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema: Vi gir tilbakemelding på sidepersonens debattinn
  legg. Etterpå jobber vi mer med debattinnlegget.\nTirsdag\, uke 39\nhttps
@@ -459,7 +459,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3b25cc155fd2b4098a8806a2ce1dffdce29292b4@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema: Lesehalvtime\, vi leser videre i boken “Gangste
  r”\nOnsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vS1-bGd
@@ -479,7 +479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:03035e61ee769e80dc3afc411f2e2f25dbf02793@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Matte: Oppgave 1.175 og 1.176 på side 39i oppgavebo
  ken
 DESCRIPTION:Lekser\nTema: Sammensatte målenheter\nOnsdag\, uke 39\nhttps:/
@@ -500,7 +500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a4c5cda903202e31e7ccbf6d6b2cebbb8ba793@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – KRLE: Les s. 48-54 i KRLE-boken før timen i dag
 DESCRIPTION:Lekser\nTema: Hellige bygg - vi lærer mer om kirker\nTorsdag\,
   uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS95
@@ -519,7 +519,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9e711794e72a92fe33315c7f57ca149723c090f9@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Engelsk: Opinion piece. What should I write about? F
  ear
 DESCRIPTION:Lekser\nTema: Becoming a teenager\nTorsdag\, uke 39\nhttps://do
@@ -540,7 +540,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b69342e15ad2ad25cd8d8040ff8e018795120aa5@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Norsk: Lekse:
 DESCRIPTION:Lekser\nTema: Vi skriver debattinnlegget inn på pcen og ser om
   vi finner noen troverdige kilder som støtter påstandene våre.\nTorsdag
@@ -560,7 +560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a68e3ccd388863b037b46fadd799330413cd1885@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:🎒 Kroppsøving
 DESCRIPTION:Husk å ta med\nTema: Møt i klasserommet kl 8:30. Vi skal vær
  e ute i dag. Kom på skolen i treningsklær til å være ute med. Husk jog
@@ -576,7 +576,7 @@ DTEND;TZID=Europe/Oslo:20260925T104000
 END:VEVENT
 BEGIN:VEVENT
 UID:77db4c0b30350c1c91d5bf9ba25520337fe9712f@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Matte: Oppgave 1.177 og 1.178 på side 39 i oppgaveb
  oken
 DESCRIPTION:Lekser\nTema: Oversalgsregning\nFredag\, uke 39\nhttps://docs.g
@@ -597,7 +597,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bdda315a464d56bf250036a977dc02ad6f62bf49@gimle-arbeidsplan
-DTSTAMP:20260921T145010Z
+DTSTAMP:20260921T150014Z
 SUMMARY:📚 Lekse – Naturfag: Lekse:
 DESCRIPTION:Lekser\nTema:Karbonets kretsløp\nFredag\, uke 39\nhttps://docs
  .google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_T

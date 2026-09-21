@@ -28,8 +28,81 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:7f49524d4391fa49f9a6bfc19f3265699bda4879@gimle-arbeidsplan
+DTSTAMP:20260921T150106Z
+SUMMARY:📝 Matematikk
+DESCRIPTION:Prøve / innlevering\n1C primtall og faktorisering + utdeling a
+ v innleveringsoppgave om regnestrategier\nMandag\, uke 39\nhttps://docs.go
+ ogle.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4
+ Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T092500
+DTEND;TZID=Europe/Oslo:20260921T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:628a0e19c1147e9acd5bf4726971789b05c7c086@gimle-arbeidsplan
+DTSTAMP:20260921T150106Z
+SUMMARY:📝 Norsk
+DESCRIPTION:Prøve / innlevering\nInnlevering av biblioteksbok Elevrådsmø
+ te\nOnsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vR-KCOY8r
+ zVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T092500
+DTEND;TZID=Europe/Oslo:20260923T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:47b1e66e3b850cd47c13b2aabbf35c2ac2c7750f@gimle-arbeidsplan
+DTSTAMP:20260921T150106Z
+SUMMARY:📝 Matte\; Innlevering av oppgave om regnestrategier
+DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8
+ dbxjJ5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+BEGIN:VEVENT
+UID:e487df980d42f1864408fb657d8255f16fedf3f7@gimle-arbeidsplan
+DTSTAMP:20260921T150106Z
+SUMMARY:📝 Matematikk
+DESCRIPTION:Prøve / innlevering\n1C primtall og faktorisering / 1D negativ
+ e tall Innlevering av oppgave om regnestrategier\nFredag\, uke 39\nhttps:/
+ /docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4
+ YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T092500
+DTEND;TZID=Europe/Oslo:20260925T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ddd421aed2387c2fb3696427895b849fa5231f@gimle-arbeidsplan
+DTSTAMP:20260921T150106Z
+SUMMARY:📝 Engelsk
+DESCRIPTION:Prøve / innlevering\nVocabulary test: Focus words for “A wor
+ ld of English”\nOnsdag\, uke 40\nhttps://docs.google.com/document/d/e/2P
+ ACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD9
+ 45y8wHys9h/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260930T103500
+DTEND;TZID=Europe/Oslo:20260930T113500
+END:VEVENT
+BEGIN:VEVENT
 UID:5f17be35de9926fe8c74b9358014176a67a94658@gimle-arbeidsplan
-DTSTAMP:20260921T145107Z
+DTSTAMP:20260921T150106Z
 SUMMARY:🏖️ Høstferie! 🍂🍁
 DESCRIPTION:Fri / ikke skole\nMandag\, uke 41\nhttps://docs.google.com/docu
  ment/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxj
@@ -43,7 +116,7 @@ DTEND;TZID=Europe/Oslo:20261005T153000
 END:VEVENT
 BEGIN:VEVENT
 UID:ec3f3af09ed37b3e8eefe11f56d5a30f68177be5@gimle-arbeidsplan
-DTSTAMP:20260921T145107Z
+DTSTAMP:20260921T150106Z
 SUMMARY:🏖️ Høstferie! 🍂🍁
 DESCRIPTION:Fri / ikke skole\nTirsdag\, uke 41\nhttps://docs.google.com/doc
  ument/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbx
@@ -57,7 +130,7 @@ DTEND;TZID=Europe/Oslo:20261006T153000
 END:VEVENT
 BEGIN:VEVENT
 UID:64f6dbee287d1959447f348380d7d6ed48140636@gimle-arbeidsplan
-DTSTAMP:20260921T145107Z
+DTSTAMP:20260921T150106Z
 SUMMARY:🏖️ Høstferie! 🍂🍁
 DESCRIPTION:Fri / ikke skole\nOnsdag\, uke 41\nhttps://docs.google.com/docu
  ment/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxj
@@ -71,7 +144,7 @@ DTEND;TZID=Europe/Oslo:20261007T153000
 END:VEVENT
 BEGIN:VEVENT
 UID:690477c70190395c14d417b23cb64b032bc4e528@gimle-arbeidsplan
-DTSTAMP:20260921T145107Z
+DTSTAMP:20260921T150106Z
 SUMMARY:🏖️ Høstferie! 🍂🍁
 DESCRIPTION:Fri / ikke skole\nTorsdag\, uke 41\nhttps://docs.google.com/doc
  ument/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbx
@@ -85,7 +158,7 @@ DTEND;TZID=Europe/Oslo:20261008T153000
 END:VEVENT
 BEGIN:VEVENT
 UID:2806276e3a5abeaceba72de7d8afaffa11ec260c@gimle-arbeidsplan
-DTSTAMP:20260921T145107Z
+DTSTAMP:20260921T150106Z
 SUMMARY:🏖️ Høstferie! 🍂🍁
 DESCRIPTION:Fri / ikke skole\nFredag\, uke 41\nhttps://docs.google.com/docu
  ment/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxj
