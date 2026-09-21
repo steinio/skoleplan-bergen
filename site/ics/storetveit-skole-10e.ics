@@ -1,0 +1,1294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10E//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10E
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10E ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:21f8f914ea43424ae2926570dc5116a2d5337301@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 NYTTIGE LENKER GJENNOM HELE SKOLEÅRET
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 33\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+END:VEVENT
+BEGIN:VEVENT
+UID:be03a12407b217990221e9161cf13466ffebe6e4@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 ALF: Kjøkken Fransk: 13 Tysk Cecilie: 14 Tysk Kristin: 15 Spa
+ nsk Aimee: 11 Spansk Kristina: 10
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 34\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+END:VEVENT
+BEGIN:VEVENT
+UID:2eed1a200f839b653592ae52de90a407efaaa7b5@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 34\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+END:VEVENT
+BEGIN:VEVENT
+UID:444676114943326c573a625d5bdb0f54ee1d30e5@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Romfordeling språk:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 34\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+END:VEVENT
+BEGIN:VEVENT
+UID:66042ffdc60e5ec7ef5222b48bf1b266ff2efadf@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 35\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+END:VEVENT
+BEGIN:VEVENT
+UID:14d38569dba11e0374f5773b59ebcf3e4d5aba42@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 36\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+END:VEVENT
+BEGIN:VEVENT
+UID:275da7c3adc2de8d56fd35886e2d72b7d2192307@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 37\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:96970aeda03ddde1af12358ca506a5ac0ca2716d@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:634664447915ae26b39515cf9c35e6201b3ec02b@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Valgfag Utvikling av produkter og tjenester: Elever som skal d
+ elta på innovasjonscamp møter på Vilvite kl. 08.20. Ha med lunsj/ drikk
+ e. Les program: Innovasjonscamp - VilVite. Elevene som deltar kan dra dire
+ kte hjem fra byen etter innovasjonscampen denne dagen.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 38\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:5d719efd889638a976c27c2e24dc5957300ecfa2@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:f2fbc5d537399f3fcbe641873a72570e2024fd17@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9a938e33549f383e0a2f4991f169828d7b6ca4@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Elevene som har vært på Aktivane-kurset må passe på at de 
+ har fått gjort det vi gjorde på skolen disse dagene.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:d164f88087ce21e7aa5e22e0c4d6b92eae69f827@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 De jentene som er med på fagdag om jenter og teknologi på to
+ rsdag 23. må selv passe på at de tar igjen skolearbeidet de går glipp a
+ v den dagen. Sjekk presentasjoner i norsk\, engelsk (og les kap 8) og natu
+ rfag.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 43\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:d16ffb8f747df4871db39cc29ff04dae66c8936e@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Merk fagdag i samfunnsfag på onsdag. Mer informasjon finner d
+ u i Classroom samfunnsfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e8cbec3a0e0d118709c0ee5f6469ff4cd53343@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 De jentene som var med på fagdag om jenter og teknologi på t
+ orsdag 23. må selv passe på at de har tatt igjen skolearbeidet. Sjekk pr
+ esentasjoner i norsk\, engelsk (og les kap 8) og naturfag.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 44\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+END:VEVENT
+BEGIN:VEVENT
+UID:6225ff6fec973a0268c4a8801bd4a479978a2889@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Unge Abel konkurranse i de to siste timene på onsdag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 44\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+END:VEVENT
+BEGIN:VEVENT
+UID:e347689c9fa37f4bd21adc50067346b530ecc4a8@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 - Unge Abel konkurranse i de to siste timene på tirsdag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 45\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+END:VEVENT
+BEGIN:VEVENT
+UID:67db076a380450da5c5e7ab99150f43957d751a0@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE og samfunnsfag i uke 46 og 47
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 46\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+END:VEVENT
+BEGIN:VEVENT
+UID:c06bb567d0f2c16ff593f0ff6aad2308ba45af24@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Unge Abel onsdag i 4. og 5. time
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 46\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+END:VEVENT
+BEGIN:VEVENT
+UID:607785d46df604ca33b0372311501d18c3523aea@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i samfunnsfag og KRLE denne uken
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 47\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb6d713ca77b4273b9e86b699c8a9a9893b74c8@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 Cecilie har eksamen og er borte tirsdag-torsdag
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 49\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+END:VEVENT
+BEGIN:VEVENT
+UID:495b27e417565e29282bb4f5ac2230022e552772@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i samfunnsfag tirsdag\, onsdag og torsdag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 50\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+END:VEVENT
+BEGIN:VEVENT
+UID:cf893cda93cad0c20b039f4281ce5624bea28441@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Husk å ta med oppladet CB\, skrivesaker\, næringsrik mat og 
+ mattebøkene til fagdag i matematikk.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 51\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+END:VEVENT
+BEGIN:VEVENT
+UID:c8b2a5e0a9d96cb8f662d43d42f45fed0038589c@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Spiller du blåseinstrument? Vil du være med og spille postlu
+ dium på torsdag? Ta med instrumentet og Deilig er jorden mandag og onsdag
+  i storefri for en liten gjennomspilling på musikkrommet
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 51\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+END:VEVENT
+BEGIN:VEVENT
+UID:a50ff5f548049740fc5e0d0c56bfc36a9310e6a5@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 Ta med headset til heldagsprøven dersom du har.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 2\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+END:VEVENT
+BEGIN:VEVENT
+UID:e125bdf3822cc02a07006100e7f3bf62c7e2f9cf@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 3\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+END:VEVENT
+BEGIN:VEVENT
+UID:1af0bffba24a68116d010dd7ed4572c97b47cca2@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic: Leon og Torbjørn
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 5\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+END:VEVENT
+BEGIN:VEVENT
+UID:99a9fcb7d5d549154395efe88c9f3a5e6d1d7621@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 5\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+END:VEVENT
+BEGIN:VEVENT
+UID:26b64b4edc03f69a898c4a8a0544f5faa6b593ef@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic: Jakob S og Noah
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 6\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+END:VEVENT
+BEGIN:VEVENT
+UID:47a752280d534ef2f6e530fcdf2f892321e6d694@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE og samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 6\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+END:VEVENT
+BEGIN:VEVENT
+UID:77b69439044c2ba07a02d24c2a00d9879fe911bd@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic: Jakob N og Isak
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 7\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+END:VEVENT
+BEGIN:VEVENT
+UID:825b607e165682012f7c5ca0b18d0a6d1f0dcca2@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Husk å skrive på når dere ønsker utviklingssamtale
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 7\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0G
+ YdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+END:VEVENT
+BEGIN:VEVENT
+UID:b674be14ed71a8ee017298321cdfbc60f2e5eb56@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Unge Abel møtes mandag 09.25-10.25 og torsdag 10.35-11.35.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 7\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0G
+ YdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+END:VEVENT
+BEGIN:VEVENT
+UID:de4e1a0e83f09b59721b2f44e60c8691087ab04f@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic: Rezarta og Hallvard
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 8\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAy
+ aVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa5176468540bf143f5086114196d0836da563f@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Denne uken starter vi med utviklingssamtalene
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 8\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0G
+ YdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+END:VEVENT
+BEGIN:VEVENT
+UID:c43b01ed0587df639747a96bf2e7c23357df32d1@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic: Randa og Linde
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 10\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+END:VEVENT
+BEGIN:VEVENT
+UID:3ccb86fdb50d3f565e3e681e446654914d237fd6@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Husk utviklingssamtaler denne uken
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 10\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1bb94a5966cd0eb66b1f33e337eb192154c843@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE og samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 10\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+END:VEVENT
+BEGIN:VEVENT
+UID:133dd0227d5b8fe9585ab33e49be15801b4e4790@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 11\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+END:VEVENT
+BEGIN:VEVENT
+UID:6aad84afc42f2a3a86ebe22940da840f2360b58e@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Esma og Kamma
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 11\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+END:VEVENT
+BEGIN:VEVENT
+UID:702504066d7b67c1b4f1019f28f7b546131d9aa9@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE og samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 11\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbe49ab4ac27121197889057f1bcd6d26c82d31@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Choose your topic: Magnus og Eivind
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 12\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+END:VEVENT
+BEGIN:VEVENT
+UID:6debe08846abe54829836fb303833ea2190bdfac@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE og samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 12\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+END:VEVENT
+BEGIN:VEVENT
+UID:79dcb0a8770ddb54f3e1e4e0e3a93f56afa63d2c@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE + siste dag med Eirik i samfunnsfag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 13\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+END:VEVENT
+BEGIN:VEVENT
+UID:890daa140cc1a1af33a285336d68286ae91065df@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 - Se melding i Vigilo om annerledesdagene denne uken.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd46ffe8151df7b3946064b47dafc100dcfbfb9@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 - Til terminprøven kan du ta med kalkulator\, lærebok\, skri
+ vebok og regelbok. Husk skrivesaker.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 14\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:be1c5c55f003cf85f7503fef220c798e86ed5dee@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Annelin er på studiesamling onsdag til fredag.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:cb00c20cb3151e5342c5fbda122210ce23ee2781@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Cecilie er på studiesamling torsdag og fredag
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:62b39ab121c9988b90a3bf4826fff1db93cfe041@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Cecilie er på studiesamling torsdag og fredag\, sjekker Vigil
+ o sporadisk.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:950428b096f5ecc757d48cd0fc5a6191fed4f679@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 De neste ukene skal det være studenter i fagene norsk\, engel
+ sk\, KRLE og naturfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:0bae45d7e16f5ad1d58bf361e4103ab0f39e78b2@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Elevene har fått to tilbakemeldinger i engelsk
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:8edfed455cda46337d4e74f538c76e483fa24ea0@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Foreldre- og barnmøte onsdag 17. september kl. 18.30. Se info
+ rmasjon sendt i Vigilo 1.9.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:ef318833a7df312987d04e3b5ced76e5e5bcf391@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Fotografering ca kl. 13.00-14.10 torsdag.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:698da8fb35c3949949746f262b3c17111f044feb@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Friluftsliv skal møtes på onsdag.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:29fe5ffecdb3e7731be9cefad3f68589adb80518@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Første runde av Abel-konkurransen blir på onsdag. Unge Abel 
+ deltakerne møtes ved biblioteket onsdag 12.10
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:01d188c76d86db440819c8048434b237e89e47f0@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Husk foreldre-og-ungdom-møte neste uke.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:32e89bc951715b11b2d8e960ca0db3960982dd90@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Husk livberging på Gamlehaugen
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:6fa462eb0efc555f905168b4f0d01f29e657c7e3@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Husk når dere har satt dere opp til utviklingssamtale
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df7b03ded2d846a22fd2ff1570eae0c19e9ac6@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Husk overnatting torsdag
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:650592066b950d3b9bc5354436354905827e434d@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Husk å hente tingene du har laget i kunst og håndverk i år 
+ :)
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:05dba5839dd7064b4521585d065862ad8bbd8de0@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 I neste uke får vi studenter i KRLE\, engelsk\, norsk og natu
+ rfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:404dfa3e3c5ed434495b5cc78959ab6b235ee4d5@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Ikke ta på klær du er redd for/hvite klær når vi skal ha f
+ orsøk
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:69d619f01f352d9d302e316bc612a37c8b762fc0@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Kristina er borte på fredag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:f0561d3fd596b13ea3b9fb91f595a3a11e428b35@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Kroppsøving: Ha med utetøy og sko til å være i aktivitet u
+ te
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8706d82e93cdd7445b54965877e7a06451d977@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Matematikk: Husk skrivesaker og bøker til mattetimene.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:243b70e6c8cf0c87d65e60332d4b59113031ec96@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Matte: Husk skrivesaker og bøker til mattetimene.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:880a3d74f8a3bc5bab56080b1e53556e3ef52647@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Merk litt endringer i timeplanen denne uken (gule markeringer)
+ .
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:1154453f440c7745c84c2a0f54208ab21b8e79bd@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Nest siste helt vanlige uke!
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1b04ed5f075550bfcc55b311f2d8253d17a453@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Ta med head set på onsdag om du har!
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:c909f4db0f28ee5bc63425924c43127126d1d21b@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 Tysk torsdag: Hjemmeoppdrag: Innspilling om en tyskspråklig b
+ y. Gå hjem etter storefri\, ferdigstill presentasjonen og gjør et skjerm
+ opptak. Se Classroom for hjelp. Innleveringsfrist: Kl. 14.20
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 14\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:e54eee6437caa96b3ca4467c9aee5daa246ef319@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 Tysk: På testen kommer hobbyer og interesser\, hva du liker 
+ å gjøre\, hva du ikke liker å gjøre\, verb i presens\, klokken
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 14\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e3fdcc74630dc13bd2bc716167be489165f561@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🏖️ Uke 39 + 40 i kroppsøving: Vi øver sammen på en bevisstg
+ jøring rundt kjeden som redder liv - kunne bruke kasteline\, plan BLÅ(S)
+ \, dvs. Bevissthet-Luftveier- Åndedret (Sideleie) = et forarbeid til halv
+ dagskurs med Redningsselskapet Trygg i Vann = etter høstferien (uke 42)
+DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 14\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYd
+ N9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:390a80571a6561f6b79d824c85bd7d4733597637@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Unge Abel deltakerne møtes ved biblioteket onsdag 12.10.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 14\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:84c531c0717c692cb0d3f9f590a5f3f4b8918847@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Vi bytter klasserom til rom 11 (nede i underetasjen) fordi det
+  rommet er større og vi nå er 31 i klassen.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:a214c1b098cb35dbb0ade26a41e9c5afe77723b8@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Vi skal lese boken Born a crime av Trevor Noah. Alle elevene f
+ år låne boken på skolen (den går også an å få kjøpt om man ønsker
+  seg et helt eget eksemplar). Den finnes som lydbok på soundcloud.com (he
+ r må man registrere seg).
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:b882e70bc8479da987dad2651c3fb29f966cec8c@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Vi skal på forestilling med danse- og musikklinjen på Langha
+ ugen i Grieghallen på fredag\, de som får lov kan bli igjen i byen (send
+  melding i Vigilo). Det er ikke lov med snop eller brus.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 14\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:19286b2aab3fe57dbe111b305c43f92a0c65707c@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Vi skal på kino på fredag\, klassen reiser tilbake til skole
+ n etter filmvisningen for å avslutte dagen og hente mobiltelefonen. Det e
+ r ikke lov til å ha med snop eller brus til kinoen.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 14\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+END:VEVENT
+BEGIN:VEVENT
+UID:4bef1470c17e2898302697a2233e94dd01df87eb@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Studenter i KRLE
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 15\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+END:VEVENT
+BEGIN:VEVENT
+UID:02b8c49189dd8045e387ebe82aa4dcc1685c0e74@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Oppmøte direkte i byen ved Byparken bybanestopp kl. 09.30. De
+ rsom noen ønsker å reise med lærer til byen\, må foresatte svare på m
+ elding sendt i Vigilo 14. april. Da blir det oppmøte på Fantoft bybanest
+ opp kl. 09.10.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 17\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0f35157ab5b5e7db7baabebf5ca665540cd6d0@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Cecilie er på studiesamling mandag og tirsdag.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 18\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+END:VEVENT
+BEGIN:VEVENT
+UID:c816da0cb743444a6597795f3c67364488b1f405@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📝 Onsdag 6.mai: ALF / valgfaget utvikl. av produkter og tjeneste
+ r deltar på elevbedrift regionmesterskap på HVL - kl. 09.00- ca.13.30. D
+ e som har spansk tar igjen prøven neste onsdag.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 19\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+END:VEVENT
+BEGIN:VEVENT
+UID:ef344027f93e1c785fef1685db7cd07b5cf3dbb6@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Tips: Bruk tilbakemeldingene dine fra argumenterende tekst i n
+ orsk når du skal skrive engelsk på tirsdag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 19\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3f589d7891ba3bf1e96bc84dde52cf4b5a4bf7@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Husk annerledes-dager både tirsdag\, onsdag og torsdag
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 23\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3e5787e1cc4668ffdf857f4c2d29c8e28560f6@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Elever i valgfaget Utvikling av produkter og tjenester får mo
+ bilen etter halvtimen og går hjem kl. 12.40 mandag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 24\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+END:VEVENT
+BEGIN:VEVENT
+UID:76c7196ce7363b21efa517b368dbba70e39e4a58@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:📌 Fysisk aktivitet og helse: Hjemmeoppdrag - Se Classroom
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 24\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+END:VEVENT
+BEGIN:VEVENT
+UID:320eb3f07cfb494b1794bd0c477fa9df94ee3952@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:👥 Før vi møtes i Nygårdsparken fredag\, må du ha lastet ned 
+ Stolpejakten på telefonen din.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 24\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0
+ GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+END:VEVENT
+BEGIN:VEVENT
+UID:b556e4c3b013685e1152fa45f87e0bcbb9aad19f@gimle-arbeidsplan
+DTSTAMP:20260921T145436Z
+SUMMARY:🎒 Ta med head set på onsdag om du har!
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 25\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9
+ vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+END:VEVENT
+END:VCALENDAR

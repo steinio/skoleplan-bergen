@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8B//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8B
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8B ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:896e9da62cf1ac5d0eeb5bc164d382b1c74b2b4a@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:🎒 Kroppsøving: Dere må ha med gymklær og gymsko (innesko)
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 34\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B
+ 3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee6d9c4021e6d4017acbfc3d93200838d2273b1@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:👥 Musikk: Vi møtes på klasserommet\, og går deretter til musi
+ kkrommet sammen.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 34\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLL
+ pGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+END:VEVENT
+BEGIN:VEVENT
+UID:76093c2a1b309cb94f6cb5954080610ab4149da3@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:📌 Oppstartsamtaler: Det vil bli gjennomført oppstartssamtaler i
+  løpet av uke 36 og 37. Se egen innkalling fra kontaktlærer i Vigilo.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 35\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B3iciEFs
+ sM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+END:VEVENT
+BEGIN:VEVENT
+UID:a61fe43ce2c2d15882a277ddb0915ba4f3284e49@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:👥 Skolefotografering for 8B mandag 31. august
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 35\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLL
+ pGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+END:VEVENT
+BEGIN:VEVENT
+UID:76710df52e754e728f2ee8d03957f56118d4196f@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:🎒 Husk oppstartsamtaler denne uken! Se innkalling fra kontaktlæ
+ rer i Vigilo.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 36\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B
+ 3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+END:VEVENT
+BEGIN:VEVENT
+UID:3a9e56eff09a93c1188526f6c98b5746d84b420d@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:📌 Kroppsøving: Haukelandshallen er opptatt\, så vi må ha uteg
+ ym. Kle dere etter været!
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 36\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B3iciEFs
+ sM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+END:VEVENT
+BEGIN:VEVENT
+UID:16d1dc7ee8752cf13c7c958208b9f7409c50fb01@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:👥 Skolefotografering for 8B mandag 31. august
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 36\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLL
+ pGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+END:VEVENT
+BEGIN:VEVENT
+UID:b28efca43a7b1a3783dac860a336213c5f11c8be@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:🎒 Husk oppstartsamtaler denne uken! Se innkalling fra kontaktlæ
+ rer i Vigilo.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 37\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B
+ 3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:1c1481be34c2afce8a4a3c896cef8d8b8d03bef3@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 37\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B3iciEFs
+ sM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:c57965c7b42349d623cfdb34f5eaf3339ace8e2c@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:📝 Oppsamling nasjonale prøver onsdag 16. september i auditoriet
+ . Møt i klasserommet og lever telefon først.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 38\nhttps://
+ docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWL
+ LpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6ac6bafceaecc22e25d67d565d9306fb76af42@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:👥 Velkommen til foresatte- og barnmøte tirsdag 15.9 kl. 18.30 (
+ egen del for foresatte på rom 3 kl. 17.45).
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 38\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLL
+ pGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:15ad4f32613ac181da2364cd610c949203c2f071@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:📌 Ingeborg er borte tirsdag 29.9.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B3iciEFs
+ sM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:9c9ee81cca2a4126c5d48dd5231e81698778ab70@gimle-arbeidsplan
+DTSTAMP:20260921T145443Z
+SUMMARY:📌 Kroppsøving: Haukelandshallen er opptatt så det blir utegym
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B3iciEFs
+ sM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-s
+ PrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+END:VCALENDAR

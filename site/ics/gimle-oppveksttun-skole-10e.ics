@@ -1,0 +1,310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10E//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10E
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10E ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cbf8cd676479f1cbeb524034c543608bf47ca648@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nMandag\, uke 33\nhttps://docs.
+ google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3P
+ sF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+END:VEVENT
+BEGIN:VEVENT
+UID:3fcf58f1b7eb3866510e501abd1b5056c29a0519@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTirsdag\, uke 33\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3
+ PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+END:VEVENT
+BEGIN:VEVENT
+UID:8475424b13879b533801ab53c0b47ad22a7b8e17@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nOnsdag\, uke 33\nhttps://docs.
+ google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3P
+ sF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b34d1a71e4e8ea2ecc46c5213ca08532fcfd71@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTorsdag\, uke 33\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3
+ PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+END:VEVENT
+BEGIN:VEVENT
+UID:d830ae3ad3bff046d81aa3e06ee03b72acf11a0e@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📌 Velkommen tilbake!
+DESCRIPTION:Beskjed\nOversiktsplan\nFredag\, uke 33\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0vd
+ X8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+END:VEVENT
+BEGIN:VEVENT
+UID:910a2413f999716050ddc7e4b8c1d9c1b0ca7fc9@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🚌 Turdag
+DESCRIPTION:Tur / ekskursjon\nOversiktsplan\nTirsdag\, uke 34\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3
+ PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+END:VEVENT
+BEGIN:VEVENT
+UID:252309c19c6f10bc13d6a76372c0dab6e3c7a46a@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📝 Liten test med egenvurdering matte
+DESCRIPTION:Prøve / innlevering\nOversiktsplan\nFredag\, uke 36\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9ruj
+ Ob3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+END:VEVENT
+BEGIN:VEVENT
+UID:fd62584a9202bf917a29d5cd5e57c429f46a8690@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nMandag\, uke 37\nhttps://docs.
+ google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3P
+ sF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:852d8810b9808f2eddaaff09a922036cffa5b205@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📌 Fagsamtaler engelsk bokprosjekt
+DESCRIPTION:Beskjed\nOversiktsplan\nTorsdag\, uke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0v
+ dX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e96dbcf4e2290832dc893f5e4268cdda79003c@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📌 Fagsamtaler engelsk bokprosjekt
+DESCRIPTION:Beskjed\nOversiktsplan\nTirsdag\, uke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0v
+ dX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+END:VEVENT
+BEGIN:VEVENT
+UID:ed761305e0dd2de22e5589bb213c649cb8232332@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📌 Skriveøkt norsk
+DESCRIPTION:Beskjed\nOversiktsplan\nOnsdag\, uke 40\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0vd
+ X8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+END:VEVENT
+BEGIN:VEVENT
+UID:796d43e9e9541ad295b85bf13f0cbbc5fe644cfa@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📌 Mattevurdering
+DESCRIPTION:Beskjed\nOversiktsplan\nFredag\, uke 40\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0vd
+ X8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+END:VEVENT
+BEGIN:VEVENT
+UID:0564e15adb1baab31f142238e89b43fdd39d72e7@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Høstferie 🍁
+DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 41\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujO
+ b3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
+UID:a345a80b3b4cffa96e62f3ca27465c11b37ca0c0@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📝 Frist innlevering naturfag kap. 1
+DESCRIPTION:Prøve / innlevering\nOversiktsplan\nOnsdag\, uke 42\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9ruj
+ Ob3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+END:VEVENT
+BEGIN:VEVENT
+UID:75e93d75c3a472a9a01875bb7c4e2bf48ab89c83@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:📌 Livssynsvandring
+DESCRIPTION:Beskjed\nOversiktsplan\nOnsdag\, uke 43\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0vd
+ X8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+END:VEVENT
+BEGIN:VEVENT
+UID:a343512562ca0afb2022416d9c1095048e13bf8b@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 45\nhttps://docs.
+ google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3P
+ sF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+END:VEVENT
+BEGIN:VEVENT
+UID:aec1eb5b7881c2d61f4478702388a01831dddd24@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Lille julaften
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nOnsdag\, uke 52\nhttps://docs.
+ google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3P
+ sF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+END:VEVENT
+BEGIN:VEVENT
+UID:32213f1f067d28a0ef549a68b44a95d290e92e0e@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Julaften 🌟
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTorsdag\, uke 52\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3
+ PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+END:VEVENT
+BEGIN:VEVENT
+UID:bacc7dc27b5e179704363512319bc8211f55e51e@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Første juledag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 52\nhttps://docs.
+ google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3P
+ sF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+END:VEVENT
+BEGIN:VEVENT
+UID:2e386e9279bf5b248642a49759b6d228dae6a071@gimle-arbeidsplan
+DTSTAMP:20260921T145037Z
+SUMMARY:🏖️ Juleferie 🎄
+DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 53\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujO
+ b3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4y
+ yeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270102
+END:VEVENT
+END:VCALENDAR

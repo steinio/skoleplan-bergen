@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8A//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8A
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8A ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e8367bf1627eea6021f630aebc87aeafc126a5ab@gimle-arbeidsplan
+DTSTAMP:20260921T145208Z
+SUMMARY:🎒 Du skal alltid ha med skrivesaker\, bøker og oppladet Chromeb
+ ook til timene.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWGqvY1ka7w_S3Qx23v6
+ PfNF1Qkf6d773u2DkVIvdtIxp9oPUlvpI8h/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWG
+ qvY1ka7w_S3Qx23v6PfNF1Qkf6d773u2DkVIvdtIxp9oPUlvpI8h/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:899d9fed5b124ffb7125c050dfeb22b6c56344f2@gimle-arbeidsplan
+DTSTAMP:20260921T145208Z
+SUMMARY:🎒 Kroppsøving mandag: Møt 12:25 i Varegghallen. Ha med innetre
+ ningsklær og innesko.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWGqvY1ka7w_S3Qx23v6
+ PfNF1Qkf6d773u2DkVIvdtIxp9oPUlvpI8h/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWG
+ qvY1ka7w_S3Qx23v6PfNF1Qkf6d773u2DkVIvdtIxp9oPUlvpI8h/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3d53d95dbb10395e92c35048a5d3d6028fb7ed@gimle-arbeidsplan
+DTSTAMP:20260921T145208Z
+SUMMARY:📌 Kurskode Google Classroom Kunst og håndverk: xvrql6ol
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWGqvY1ka7w_S3Qx23v6PfNF1Qk
+ f6d773u2DkVIvdtIxp9oPUlvpI8h/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWG
+ qvY1ka7w_S3Qx23v6PfNF1Qkf6d773u2DkVIvdtIxp9oPUlvpI8h/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

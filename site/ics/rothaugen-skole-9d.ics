@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9D//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9D
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9D ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2e9bea0bd72a258ba046b46d99aec0d36aa88f9d@gimle-arbeidsplan
+DTSTAMP:20260921T145226Z
+SUMMARY:📝 Innleveringsfrist mandag 12.oktober.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOyt
+ MX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgy
+ N3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1be63ab39eccda7f8d5d5ab4fba8856814feba@gimle-arbeidsplan
+DTSTAMP:20260921T145226Z
+SUMMARY:👥 Kroppsøving: Denne uken og neste uke har vi gym i Vikinghalle
+ n. Adressen er Øvre Dreggsallmenningen 7. Dere møter meg der\, og så ta
+ r vi bybanen sammen opp til skolen etterpå.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOytM
+ X8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgy
+ N3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:b42aab88c9a26dc683cbad600042a9f1b00c8c8b@gimle-arbeidsplan
+DTSTAMP:20260921T145226Z
+SUMMARY:📌 M&H Lekse til uke 42:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOytMX8NzPDx3t7JY
+ sq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgy
+ N3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4dd0df0e2cad66437abf6cb45f9a9e1d0dde52@gimle-arbeidsplan
+DTSTAMP:20260921T145226Z
+SUMMARY:📌 Oppgave om bærekraftig mat.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOytMX8NzPDx3t7JY
+ sq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgy
+ N3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1883f316310398cb33e51fc888bae9e3f30b32@gimle-arbeidsplan
+DTSTAMP:20260921T145226Z
+SUMMARY:📌 Samfunnsfag: Liten skriveøkt på fredag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOytMX8NzPDx3t7JY
+ sq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgy
+ N3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:bce2559728ee07189f595f4b86ade5f7308bebf9@gimle-arbeidsplan
+DTSTAMP:20260921T145226Z
+SUMMARY:📌 Tlf til rådgiver Linn: 40815748 (SMS)
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOytMX8NzPDx3t7JY
+ sq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgy
+ N3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

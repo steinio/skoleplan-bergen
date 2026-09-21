@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9I//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9I
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9I ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5c4f1d4da5efa078d919ecd229ece69cdbb1b209@gimle-arbeidsplan
+DTSTAMP:20260921T145232Z
+SUMMARY:🚌 Valgfag friluftsliv skal på tur 10.-11. September. Årsplan l
+ igger ute på classroom\, sammen med informasjon og pakkeliste til turen. 
+ Se på det sammen med noen hjemme\, og sjekk at du har eller kan låne det
+  utstyret som trengs.
+DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 37\nhttps://docs
+ .google.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe5BcUWBDTpCkOXLi
+ qSWZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe
+ 5BcUWBDTpCkOXLiqSWZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:377ccc677ab1e1ee9d251c929aeae6452c7e65f8@gimle-arbeidsplan
+DTSTAMP:20260921T145232Z
+SUMMARY:🚌 Valgfag friluftsliv skal på tur torsdag denne uken (10.-11. S
+ eptember). Årsplan ligger ute på classroom\, sammen med informasjon og p
+ akkeliste til turen. Se på det sammen med noen hjemme\, og sjekk at du ha
+ r eller kan låne det utstyret som trengs.
+DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 38\nhttps://docs
+ .google.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe5BcUWBDTpCkOXLi
+ qSWZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe
+ 5BcUWBDTpCkOXLiqSWZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:841ea03ee0998f8df2054d3e6e4aaf687ca764d4@gimle-arbeidsplan
+DTSTAMP:20260921T145232Z
+SUMMARY:🎒 M&H: Denne uken er det fokus på mat som er i sesong. Dere ska
+ l lære litt om grønnsaker som er i sesong\, og vite hvorfor det er lurt 
+ og viktig å kjøpe/bruke mat som er i sesong. Husk å lage mat hjemme den
+ ne uken\, ta bilder og skriv litt om prosessen. Hva med en varmende og god
+  høstsuppe med sesongens grønnsaker. Bak horn eller rundstykker til\, s
+ å får du øvd til neste leksjon. Husk at dere skal bli bevisste forbruke
+ re\, så benytt sjansen til å se hva som er i sesong når du er innom but
+ ikken. Det er mye av det som er i sesong og det er ofte billigere.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 42\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe5BcUWBDTpCkOXLiqS
+ WZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe
+ 5BcUWBDTpCkOXLiqSWZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+END:VCALENDAR

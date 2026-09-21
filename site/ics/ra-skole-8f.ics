@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8F//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8F
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8F ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:29a412115f0e344f2c7c4a23dc8b46d00d152089@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 3\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261021T121500
+DTEND;TZID=Europe/Oslo:20261021T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b20ad626195633ba91e3754e773e4c1b38df06@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 4\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261028T121500
+DTEND;TZID=Europe/Oslo:20261028T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:577910afcd906cd43cb188f7132d25ef39a2df37@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 5\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261104T121500
+DTEND;TZID=Europe/Oslo:20261104T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4f0b239e4143f9294b8497f11fa03beb0f21de@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 6\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261111T121500
+DTEND;TZID=Europe/Oslo:20261111T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:fae15e5742a9a991bd7d49c916061efedeac6b2f@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 7\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261118T121500
+DTEND;TZID=Europe/Oslo:20261118T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:5850a1d9efdcc170e0b50f53539a3c0809fc04f2@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
+ r til å kunne være ute i.\nOnsdag\, uke 48\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5La
+ sG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261125T121500
+DTEND;TZID=Europe/Oslo:20261125T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2fd4d2abcbd577d61b18cc323c0af063cf253b@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
+ r til å kunne være ute i.\nOnsdag\, uke 49\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5La
+ sG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261202T121500
+DTEND;TZID=Europe/Oslo:20261202T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:e318728359e87d89a4203153773179771eb8b328@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
+ kl. sko). Skade.\nOnsdag\, uke 50\nhttps://docs.google.com/document/d/e/2P
+ ACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZ
+ xr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261209T121500
+DTEND;TZID=Europe/Oslo:20261209T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:e0db895c17cb165ccf563b05ff11e97432ba13fd@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
+ kl. sko). Ballaktiviteter.\nOnsdag\, uke 1\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG
+ 1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20270106T121500
+DTEND;TZID=Europe/Oslo:20270106T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:c4058e1709122f15dd937c9f6d7a85c3c8757098@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
+ kl. sko). Ballaktiviteter.\nOnsdag\, uke 2\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG
+ 1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20270113T121500
+DTEND;TZID=Europe/Oslo:20270113T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:0fa4a3178f89fe43911a1682e6fb689dca398405@gimle-arbeidsplan
+DTSTAMP:20260921T145117Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
+ kl. sko). Ballaktiviteter.\nOnsdag\, uke 3\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG
+ 1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20270120T121500
+DTEND;TZID=Europe/Oslo:20270120T142500
+END:VEVENT
+END:VCALENDAR

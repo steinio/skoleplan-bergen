@@ -1,0 +1,656 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8A//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8A
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8A ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1f527a98b636be2ff28e266584ceaa739861bdf7@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🎒 Husk å lade chromebooken hjemme hver dag!
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3
+ _YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:89907537d4975dccd2a8df3caeb9e175df4f9473@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🎒 Norsk
+DESCRIPTION:Husk å ta med\nTema: Lesestrategier Hva er lesestrategier? Hvo
+ rdan huske det du har lest?\nMandag\, uke 39\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFs
+ hq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T122000
+DTEND;TZID=Europe/Oslo:20260921T132000
+END:VEVENT
+BEGIN:VEVENT
+UID:f4dd4d312e4331fee4d9ab5c701065be27315420@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema: Kamp om rettigheter\nTirsdag\, uke 39\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfs
+ Tzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T122000
+DTEND;TZID=Europe/Oslo:20260922T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0003c6fd8e2a9ee6e0ced4249baac59ebe7c9265@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Engelsk: Lekse:
+DESCRIPTION:Lekser\nTema: Becoming a teenager\nTirsdag\, uke 39\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfs
+ Tzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T133000
+DTEND;TZID=Europe/Oslo:20260922T143000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4f2338f71c076c1e7f78118e43676aa2671e0f52@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Norsk: Gjør læringsstien som heter “Skumlesing
+ ” som er delt med dere på SKOLEN
+DESCRIPTION:Lekser\nTema Lesestrategier og besøk på skolebiblioteket!\nOn
+ sdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4L
+ unSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T122000
+DTEND;TZID=Europe/Oslo:20260923T140000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Gjør læringsstien som heter “Skumlesi
+ ng” som er delt med dere på SKOLEN
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da73a53e6b73c096b3f02e68a21b7ab75fecb566@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🎒 Matte
+DESCRIPTION:Husk å ta med\nTema: Desimaltall\nTorsdag\, uke 39\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfs
+ Tzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T083000
+DTEND;TZID=Europe/Oslo:20260924T093000
+END:VEVENT
+BEGIN:VEVENT
+UID:ccbcf90eee6a6b348132923076ecbcf2f060bd7e@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Matte: Svar på oppg. 1.148 og 1.149 s. 26 i oppgave
+ boken. Husk å velge nivå.
+DESCRIPTION:Lekser\nTema: Desimaltall\nTorsdag\, uke 39\nhttps://docs.googl
+ e.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSH
+ AlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T083000
+DTEND;TZID=Europe/Oslo:20260924T093000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Svar på oppg. 1.148 og 1.149 s. 26 i opp
+ gaveboken. Husk å velge nivå.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c6439175cbdcc5e1b8805d9e9e60af154fda65@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Engelsk: Lekse:
+DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 39\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T094000
+DTEND;TZID=Europe/Oslo:20260924T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df8dcf6dd9b0fbf79685897475b13c155e5d1749@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 39\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T133000
+DTEND;TZID=Europe/Oslo:20260924T143000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65d2ce83caeff18ae8ab9bb21950cccce40d248a@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🎒 Matte
+DESCRIPTION:Husk å ta med\nTema: Regne med desimaltall\nFredag\, uke 39\nh
+ ttps://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nid
+ TM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T111000
+DTEND;TZID=Europe/Oslo:20260925T121000
+END:VEVENT
+BEGIN:VEVENT
+UID:cf58ce6d9903b3a3e4e74036c81f51b793e65a0a@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Matte: Svar på oppg. 1.157 og 1.158 s. 32 i oppgave
+ boken. Husk å velge nivå
+DESCRIPTION:Lekser\nTema: Regne med desimaltall\nFredag\, uke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGf
+ sTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T111000
+DTEND;TZID=Europe/Oslo:20260925T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Svar på oppg. 1.157 og 1.158 s. 32 i opp
+ gaveboken. Husk å velge nivå
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22bdff22595bac36f2da1c82673a4d0b55db5de8@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:👥 Naturfag
+DESCRIPTION:Møte / arrangement\nTema: Påvisning av CO₂ og O₂ - Vi mø
+ tes i naturfagrommet\nFredag\, uke 39\nhttps://docs.google.com/document/d/
+ e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8
+ clHk9f6CW8n0Nu/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T122000
+DTEND;TZID=Europe/Oslo:20260925T132000
+END:VEVENT
+BEGIN:VEVENT
+UID:f92c398dad4d93d84cff71af902073509e086d76@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📌 På torsdag skal vi ta klassebilde og portrettbilder (1.time)
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlh
+ uqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:49d5b81ca8acc90679df60630834ac06da7a25f5@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Matte: Lekse:
+DESCRIPTION:Lekser\nTema:\nMandag\, uke 40\nhttps://docs.google.com/documen
+ t/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq8
+ 7_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260928T094000
+DTEND;TZID=Europe/Oslo:20260928T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd66915c43fd053f323ef487626110798d1c770@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nTema:\nMandag\, uke 40\nhttps://docs.google.com/documen
+ t/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq8
+ 7_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260928T122000
+DTEND;TZID=Europe/Oslo:20260928T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79bad6c606bf3e3627743859a44d73eda8df2f15@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:👥 Foreldremøte\, 18:00
+DESCRIPTION:Møte / arrangement\nOversiktsplan\nTirsdag\, uke 40\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGf
+ sTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+END:VEVENT
+BEGIN:VEVENT
+UID:920b895fe478f307239e9db2fb5f71675379f6b6@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – KRLE: Lekse:
+DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260929T101000
+DTEND;TZID=Europe/Oslo:20260929T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – KRLE: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1258737e8356b4fc26a7e5a060a1371a13041a@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – KRLE: Lekse:
+DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260929T111000
+DTEND;TZID=Europe/Oslo:20260929T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – KRLE: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75b348f182624e3028bb9c0326dc08576a1c800f@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260929T122000
+DTEND;TZID=Europe/Oslo:20260929T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13a6994ef9626c8a4cb1a23658f6b02e475f9c5c@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Engelsk: Lekse:
+DESCRIPTION:Lekser\nTema:\nTirsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260929T133000
+DTEND;TZID=Europe/Oslo:20260929T143000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cbfd687a943e03fb3088f1a60f115c764589f460@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:👥 Naturfag
+DESCRIPTION:Møte / arrangement\nTema:\nOnsdag\, uke 40\nhttps://docs.googl
+ e.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSH
+ AlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260930T111000
+DTEND;TZID=Europe/Oslo:20260930T121000
+END:VEVENT
+BEGIN:VEVENT
+UID:7444bd33f6f8c7ab3403a683d903cd91d922e10f@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Naturfag: Lekse: Fotografering
+DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 40\nhttps://docs.google.com/documen
+ t/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq8
+ 7_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260930T111000
+DTEND;TZID=Europe/Oslo:20260930T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Naturfag: Lekse: Fotografering
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bce760347142d9ce8acf93965abe2a622ab73550@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nTema:\nOnsdag\, uke 40\nhttps://docs.google.com/documen
+ t/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq8
+ 7_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260930T122000
+DTEND;TZID=Europe/Oslo:20260930T140000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af8d7f1c611d216876fbc527810308106082511a@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📌 Klassebilde og portrettbilder
+DESCRIPTION:Beskjed\nOversiktsplan\nTorsdag\, uke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlh
+ uqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+END:VEVENT
+BEGIN:VEVENT
+UID:57d2da4673988618d969e039b7032a3b12cbc701@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Engelsk: Lekse:
+DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261001T094000
+DTEND;TZID=Europe/Oslo:20261001T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b3daf4b1bb0f2233488cb696968fb6534906bbef@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261001T111000
+DTEND;TZID=Europe/Oslo:20261001T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33aa154dc94ab0dfeaba2e0391f704f445356872@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema:\nTorsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq
+ 87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261001T133000
+DTEND;TZID=Europe/Oslo:20261001T143000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c83257bd669443f8c054dffac844f426b42f46d@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Matte: Lekse:
+DESCRIPTION:Lekser\nTema:\nFredag\, uke 40\nhttps://docs.google.com/documen
+ t/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq8
+ 7_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261002T111000
+DTEND;TZID=Europe/Oslo:20261002T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0c32937be5180db93e98e9bed9562180925e3a@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📚 Lekse – Naturfag: Lekse:
+DESCRIPTION:Lekser\nTema:\nFredag\, uke 40\nhttps://docs.google.com/documen
+ t/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq8
+ 7_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261002T122000
+DTEND;TZID=Europe/Oslo:20261002T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Naturfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:54cb2f895686a6b9c1aaddd1a730439b6696961e@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🏖️ Høstferie 🍁
+DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 41\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfs
+ Tzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
+UID:03f9d8c53c7a4d4ba59e5fc2ab31636bdd8366e4@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📌 MOT - økt 3
+DESCRIPTION:Beskjed\nOversiktsplan\nOnsdag\, uke 42\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhu
+ qcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+END:VEVENT
+BEGIN:VEVENT
+UID:03b9e1620b8cbd36e292bd68e7dc064ca46315ac@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 45\nhttps://docs.
+ google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw
+ 3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+END:VEVENT
+BEGIN:VEVENT
+UID:695992787f38b05bff241da53e59dd03aed69173@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:📌 MOT - økt 4
+DESCRIPTION:Beskjed\nOversiktsplan\nFredag\, uke 46\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhu
+ qcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+END:VEVENT
+BEGIN:VEVENT
+UID:92b2c4d389f7cbf7272b21380157a5106c1bf12c@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🏖️ Lille julaften
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nOnsdag\, uke 52\nhttps://docs.
+ google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw
+ 3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e7d17097d44f7bbf3598582900c020730e629d@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🏖️ Julaften 🌟
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTorsdag\, uke 52\nhttps://docs
+ .google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTz
+ w3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb083115406cfd74d877b336808cca5c51caac4@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🏖️ Første juledag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 52\nhttps://docs.
+ google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw
+ 3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+END:VEVENT
+BEGIN:VEVENT
+UID:92b64fa4e792610039bee67c6bbe5c93db07cf6e@gimle-arbeidsplan
+DTSTAMP:20260921T145005Z
+SUMMARY:🏖️ Juleferie 🎄
+DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 53\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfs
+ Tzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r
+ 3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270102
+END:VEVENT
+END:VCALENDAR

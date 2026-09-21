@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9A//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9A
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9A ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a45b8728ff0bb09f20b1823161cbb02c68d0a5bb@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – Ukens ord: Bekreftelsesfellen
+DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Ukens ord: Bekreftelsesfellen
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8cd3cc614bc035913f1e8e64f3bf0723fa603b02@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:🏖️ KRLE
+DESCRIPTION:Fri / ikke skole\nRom 15 Overgangsritualer i ulike religioner (
+ siste time. framføringer etter høstferien)\nOnsdag\, uke 39\nhttps://doc
+ s.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzy
+ MRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T121500
+DTEND;TZID=Europe/Oslo:20260923T131500
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f43f754e31aeb03b894151448ccc9a9e9fbe29@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – Matte: lekseark
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: lekseark
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:14a8337189b2b078515e761b9714bf6412231ff6@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – mat og helse: Lekseplan - og plan for økt
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – mat og helse: Lekseplan - og plan for økt
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2313768308eaf12d927087c3271b0aa7756b89d8@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:🎒 Mat og helse
+DESCRIPTION:Husk å ta med\nTa med nistepakke - det blir ingen spising i ma
+ t og helse\nFredag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1v
+ TQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8
+ Vnbx/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T092500
+DTEND;TZID=Europe/Oslo:20260925T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:a5050f4b29e3f29fd16d1164612b6f8c0e03e94a@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – Innlevering: Omtale.
+DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Innlevering: Omtale.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98dfdb87694505cf0bd7a7284ab0b53ffda6d80b@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – Ukens ord:
+DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Ukens ord:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d3d9cdb956f218a1ae2c90efc5e131ead432886@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📝 Ukens ord:
+DESCRIPTION:Prøve / innlevering\nInnlevering: Omtale.\nMandag\, uke 40\nht
+ tps://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwt
+ s9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:92415552b1563d5fb81249cf0fec0131f3ddf8c4@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – Mat og helseLekseplan - og plan for økt
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Mat og helseLekseplan - og plan for økt
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0fe22b6e07e558fa4ab37a4baf23428ffd1ca9be@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📚 Lekse – Matte: Lekseark uke 34
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5Hl
+ LqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Lekseark uke 34
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee5cfc9eea07404f8ef5c90a018b07c87289134@gimle-arbeidsplan
+DTSTAMP:20260921T145119Z
+SUMMARY:📝 MATEMATIKK
+DESCRIPTION:Prøve / innlevering\nRom 15 PRØVE\nFredag\, uke 40\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwy
+ zyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0k
+ XOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261002T132500
+DTEND;TZID=Europe/Oslo:20261002T142500
+END:VEVENT
+END:VCALENDAR

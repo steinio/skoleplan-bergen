@@ -1,0 +1,4355 @@
+{
+ "built_at": "2026-09-21T14:49:55+00:00",
+ "schools": [
+  {
+   "slug": "adnamarka-skule",
+   "name": "Ådnamarka skule",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/adnamarka-skule/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Veke 39/uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881473",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Uke 38/Veke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842357",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Uke 39/Veke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881880",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Uke/veke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882855",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882183",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Uke/veke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882426",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882684",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "alvoen-skole",
+   "name": "Alvøen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/alvoen-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "apeltun-skole",
+   "name": "Apeltun skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/apeltun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 1. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882949",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 2.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882726",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 3. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882733",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 4.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882892",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 5. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882474",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 6. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882883",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 7. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882869",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "astveit-skole",
+   "name": "Åstveit skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/astveit-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "aurdalslia-skole",
+   "name": "Aurdalslia skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/aurdalslia-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 38+39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882773",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "bjorndalsskogen-skole",
+   "name": "Bjørndalsskogen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/bjorndalsskogen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882692",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882654",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Ukeplan 3. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882947",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Ukeplan 4. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882453",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882631",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882319",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882936",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "blokkhaugen-skole",
+   "name": "Blokkhaugen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/blokkhaugen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8A Uke 39 - 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920979",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8B Uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920925",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8C uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920930",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8D",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8D Uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921020",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9A Uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921038",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9B Uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921030",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9C uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921036",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10A Uke 37 - 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70841602",
+     "week": 37
+    },
+    {
+     "tier": "pdf",
+     "name": "10B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10B uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921084",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10C Uke 39-40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920905",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "bones-skole",
+   "name": "Bønes skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/bones-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Trinn 5 – Timeplan 5.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70753504",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "breimyra-skole",
+   "name": "Breimyra skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/breimyra-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "8A – 8A - Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882688",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "8B – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842683",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "8C – 8C-uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882705",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "9A – 9A - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882535",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "9B – 9B - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882537",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "9C – 9C - uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842743",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "10A – 10A - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882864",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10B",
+     "label": "10B – 10B - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882459",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "10C – 10C - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882488",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "christi-krybbe-skoler",
+   "name": "Christi Krybbe skoler",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/christi-krybbe-skoler/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn - uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882273",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2. trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882503",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3.trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70914023",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4.trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882539",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5.trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882924",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 6. trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882805",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 7. trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882492",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "damsgard-skole",
+   "name": "Damsgård skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/damsgard-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn: – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882570",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882531",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn: – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882527",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn: – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882845",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "eidsvag-skole",
+   "name": "Eidsvåg skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/eidsvag-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "25",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 25 og 26",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70355221",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "26",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 25/26",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70355372",
+     "week": 25
+    }
+   ]
+  },
+  {
+   "slug": "fjellsdalen-skole",
+   "name": "Fjellsdalen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/fjellsdalen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1.trinn,uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882499",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882557",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882897",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882708",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 7 trinn - Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882331",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan 7A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70712524",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan 7B",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70712526",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan 7C",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70712529",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "flaktveit-skole",
+   "name": "Flaktveit skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/flaktveit-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – 1. trinn arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920866",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – 2. trinn arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882614",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – 3. trinn arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882342",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – 4.trinn arbeidsplan uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881131",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – 5. trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882262",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – 6.trinn - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882940",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Læringsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882438",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "forberedende-opplaring-for-voksne-i-bergen",
+   "name": "Forberedende opplæring for voksne i Bergen",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/forberedende-opplaring-for-voksne-i-bergen/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "2F",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 2F uke 39, 21. - 25. september 2026",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882648",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2G",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 2G, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882886",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 4A uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70880951",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "fridalen-skole",
+   "name": "Fridalen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/fridalen-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "garnes-skule",
+   "name": "Garnes skule",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/garnes-skule/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "plan",
+     "name": "1. trinn",
+     "label": "1. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQCgy2y1Doe1F4QVAU-NZ631k6lwt4lnEJZ4YTvkLvRjhUmsbex6AZBME0DgBaYRrjQCvncul5KniNf/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "2. trinn",
+     "label": "2. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSsl1dOztyihBEuqp1Mk337tLZvKO2kjEvBg6hBpFGoRxz_YqQpiTsP_uLNZXiVhOnsb8chJfwZn77B/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "3. trinn",
+     "label": "3. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS9LIFoCzelTDaN0VT9iihpm2ktcwFrUH-pbwZz_wWRwZASh3IUu8BYwoAqgGb7LPl0UdVfuo-ApC9d/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "4. trinn",
+     "label": "4. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "5. trinn",
+     "label": "5. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "6. trinn",
+     "label": "6. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3HBnocG422AjOxRjNPNefaymU77LS5lKkx3HTDccAOYzZY8Bmz57Gq/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "7. trinn",
+     "label": "7. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSSZB1CqHTH0YuR5HAl6inHEKAiK_3x8CJNKv0V4YGwuz5gAvYzGd-Ai1KAomEVozq8dwC4DkRZHyEX/pub",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "garnes-ungdomsskule",
+   "name": "Garnes ungdomsskule",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/garnes-ungdomsskule/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70791984",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8B",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70791985",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8C",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70791986",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 9A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792694",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 9B",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792695",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 9C",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792696",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 10A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V63231560",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 10C",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V63231562",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "10D",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 10D",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V63231563",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "gimle-oppveksttun-skole",
+   "name": "Gimle oppveksttun - skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/gimle-oppveksttun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "kalender",
+     "name": "8A",
+     "label": "8A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTbI_FyO4xKGf4LunSEsOaXQC-r3nidTM0zPEGfsTzw3_YSHAlhuqcdMFshq87_W8clHk9f6CW8n0Nu/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8a.ics",
+     "events": 37,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8B",
+     "label": "8B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTquUbqquy4LP15GQhWv7J58hb1Y-M-GqhYLxAJsXvVjSaQevKfoP2VR65PRo_lFyRhQj4SYVvNSSqj/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8b.ics",
+     "events": 176,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8C",
+     "label": "8C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8c.ics",
+     "events": 30,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8D",
+     "label": "8D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS1-bGdhY8dJUuat0hS950yemHT5Li334F8rteyh_TYgDDjyTudlBjrzTHvN6Wt8ffXox9ryZ_UgEah/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8d.ics",
+     "events": 31,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8E",
+     "label": "8E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQbbcVbMvNGd3vNHxIKX_wiztDOfNgfYhMryrSUPo9U40xqWwO1Fc-fA8NkpIKMItnI6tjzvR6yDWn9/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8e.ics",
+     "events": 36,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8F",
+     "label": "8F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT0OPaHYX7KsBDahF0r1FyesuFHFlHwaZ0xQYPFeXC732jjiATMnrX3lvMe_PNUVtyMOfCIPC8Csfo8/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8f.ics",
+     "events": 36,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8G",
+     "label": "8G",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTWVBjzBTevmOmFReQsOnATEcwht0xyle9GH4vzMID-ACl_tN0KuBBEcw-0TrODFGEmyrziyYdJgVqS/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8g.ics",
+     "events": 23,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8H",
+     "label": "8H",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT7ujlr0bnprrmeLXucl6UzusXW_PYlWdWUgTH7cpn3-QOjXVPrmdkY5H_BZ8tmv97nLdAly411CKbi/pub",
+     "ics": "ics/gimle-oppveksttun-skole-8h.ics",
+     "events": 23,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9A",
+     "label": "9A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ7j8OOZjBGlYRjyO2Vps0rpu2D_Ad036uBYpvJpFlfnlJUwDOVOpTut1699pRB-nFLC4QL2j7FdmBj/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9a.ics",
+     "events": 44,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9B",
+     "label": "9B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT8wg4I5lR4b1BODE8tPkWeFc17lN-2LW6XSWNIbG5sY6X8vkN6ZEyuoO4IoEKK0vjceNUqhhSPmQqm/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9b.ics",
+     "events": 43,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9C",
+     "label": "9C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9c.ics",
+     "events": 30,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9D",
+     "label": "9D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR8Rbch60KJli9dZnH--OTRTyK73S9Ojo2YPE_c0UM0CeMpuSQrnbklll5wDODO_V0HqaQM1hB5YVnO/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9d.ics",
+     "events": 29,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9E",
+     "label": "9E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ-KqUZOl8cq6X9v-ANdX6SXwrI1rvTspkKhFOJOb9r5yztD4Lmzrejk-z8j4jyrwXnovD3aACSPKz3/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9e.ics",
+     "events": 14,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9F",
+     "label": "9F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSEl70m3-_J-URagKqF6bwP2q8_Z5w5X1UByGAGdcqjlQCti9QibTh7gTHAXO0yYYltOIbj1X9DI1Qf/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9f.ics",
+     "events": 16,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9G",
+     "label": "9G",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ7z6CqJojStf4_RwJH4GEA8n2X2cH_GX-bFKRQPmLG1OqSFuzwR4FOwowQ6RD1zaK-PSKuEUMP7Cau/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9g.ics",
+     "events": 77,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9H",
+     "label": "9H",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRWUNi__dVk6sa7a70uHADzz7i2SLcHoZHTyMOcUIjyLwZjR2J4khbMZVwCP2VkD2HGM9tDEfzz90kR/pub",
+     "ics": "ics/gimle-oppveksttun-skole-9h.ics",
+     "events": 78,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10A",
+     "label": "10A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTOps9-HtLaB9SsFzfBNJE5YZ05xu-SDSgzea47ETtZhwY_qaOunzH3t2QW6bZWk7okfrxehCG1m9xZ/pub",
+     "ics": "ics/gimle-oppveksttun-skole-10a.ics",
+     "events": 31,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10B",
+     "label": "10B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vToRS-jE8vlI0wnKm8Ez7eBrMxdtaI62Zq3-hcABf0KVGNjWJaYxq2a91Mmi5yT9n8AMBk3kX3emvyj/pub",
+     "ics": "ics/gimle-oppveksttun-skole-10b.ics",
+     "events": 28,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10C",
+     "label": "10C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSTAG9TTmX48puRkHBN_3_75g3CWgUYqjd1lQr1ca_EfpXY2vpZKARnph9XupS-bIOQONVJyVgWtAZb/pub",
+     "ics": "ics/gimle-oppveksttun-skole-10c.ics",
+     "events": 15,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10D",
+     "label": "10D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR5S4raYClr5u9M-A5QOk0n5nJTvVlElOk050tul7IMQilfK6SEcTTQoaUxXUc-_10DyP3KG6QjoYXc/pub",
+     "ics": "ics/gimle-oppveksttun-skole-10d.ics",
+     "events": 14,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10E",
+     "label": "10E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRxY64zusv9u9NgOwHMDRBh-G4yyeTRakus9rujOb3PsF9vfp0vdX8RDNsv6c_aEnrBzXD-tjgY_Rnq/pub",
+     "ics": "ics/gimle-oppveksttun-skole-10e.ics",
+     "events": 20,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10F",
+     "label": "10F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTIo3syN8R01PpfQeY4A5O9vEB9Oss-EpOm2IaHQUB2ADcYHTpChfAXHnL-Ov989nkPRIAXYxlqfCbz/pub",
+     "ics": "ics/gimle-oppveksttun-skole-10f.ics",
+     "events": 26,
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "haukas-skole",
+   "name": "Haukås skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/haukas-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882931",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882552",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921032",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842929",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882678",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882877",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882695",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "haukedalen-skole",
+   "name": "Haukedalen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/haukedalen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Ukeplan: – 5. trinn - Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882146",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5A",
+     "label": "Timeplaner: – 5A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70753663",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "5B",
+     "label": "Timeplaner: – 5B",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792958",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan 7. trinn 2026-27",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70713440",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70880975",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "40",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – UKE 39 + 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882439",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "haukeland-skole",
+   "name": "Haukeland skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/haukeland-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "hellen-skole",
+   "name": "Hellen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/hellen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882616",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882470",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882597",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882517",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882651",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 6. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882837",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 7. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882370",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "hjellestad-skole",
+   "name": "Hjellestad skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/hjellestad-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "38",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842942",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882261",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "holen-skole",
+   "name": "Holen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/holen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8A, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882871",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8B, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882853",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882717",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9B uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882938",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882891",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10B uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882725",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "hop-oppveksttun-skole",
+   "name": "Hop oppveksttun skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/hop-oppveksttun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "8A – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882794",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "8B – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882515",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "8C – uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882646",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8D",
+     "label": "8D – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882934",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8E",
+     "label": "8E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882516",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "9A – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920878",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "9B – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920980",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "9C – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882418",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9D",
+     "label": "9D – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882670",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9E",
+     "label": "9E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882496",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "10A – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882526",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "10C – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882880",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10D",
+     "label": "10D – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882502",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10E",
+     "label": "10E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882226",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "hordvik-skole",
+   "name": "Hordvik skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/hordvik-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842712",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "kaland-skole",
+   "name": "Kaland skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kaland-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882709",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "kalvatraet-skole",
+   "name": "Kalvatræet skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kalvatraet-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan 1. trinn uke 47",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V47918882",
+     "week": 47
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan uke 23 2. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70228436",
+     "week": 23
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan 3.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882697",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan 4. trinn uke 6",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V52186948",
+     "week": 6
+    }
+   ]
+  },
+  {
+   "slug": "kirkevoll-skole",
+   "name": "Kirkevoll skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kirkevoll-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "kalender",
+     "name": "8A",
+     "label": "8a",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT2X-mLN6U5Xw7aP0cAg08UTkqRlNr85Oj4_aDxnd3WUNSPH0RqxslYpas-RI-vm-4Np5OWTtParcXu/pub",
+     "ics": "ics/kirkevoll-skole-8a.ics",
+     "events": 2,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8B",
+     "label": "8b",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6DKai9Dh2s1Po8yTZSYHyh9SIMu3cuqw_z5kLNirrYfyr97oE1UXq/pub",
+     "ics": "ics/kirkevoll-skole-8b.ics",
+     "events": 2,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "8C",
+     "label": "8c",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSgit7yNfS8JZyZrjDXuEjqcIqMDC-HjZIhHsxdDPXL_D9lJ0xy5K4wZEjWjGge1CnayYWhJ4j-BoRR/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9A",
+     "label": "9a",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQt-_ZvIgZ_LqSZKD7SfjRXSDY-DREkNRrqGSKPbH-svSRhrxDHUyzJ39uAzGGCL1jQDe8Q0jW7w7g4/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9B",
+     "label": "9b",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTop9k3WhAxMFDIAloo2mNVSVf2_bNHmMRxEaZuzau_hZsH4gXgNRrTu_kCJ2nJxvloU8ckMm5Ycst6/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10A",
+     "label": "10a",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ-DVDfvNzZ-64SRMTBdr-kboxmKBmxYemkydc1ltFGLyvsfk4XYf1jQvKkiLXpzVUCCelcj7vy3R6N/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10B",
+     "label": "10b",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT7AaXmKCLBNJhB_drbTNhRqOpFVAwXaU79JVGrWZk5wPvLYJts5VSS2DhvaN3EozOw_Do8Uc5DdG6H/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10C",
+     "label": "10c",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTdwn-P1b2Mki5ht6epgEvcB0KFg0VKrKz_XRDTHHkppwJJxD3GJ-Mb0wYbeWyb3-d-oS2aRIaD_wAV/pub",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "kjokkelvik-skole",
+   "name": "Kjøkkelvik skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kjokkelvik-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882926",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882927",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882928",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882930",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.Trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920906",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.Trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920907",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.Trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920908",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8. trinn",
+     "label": "Arbeidsplan 8.trinn – Uke 38 - 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842814",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "9. trinn",
+     "label": "Arbeidsplan 9.trinn – Uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842436",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Arbeidsplan10.trinn – Uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842427",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "kringlebotn-skole",
+   "name": "Kringlebotn skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kringlebotn-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 4.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882655",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 39 - 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882690",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "40",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882836",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "krohnengen-skole",
+   "name": "Krohnengen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/krohnengen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1E",
+     "label": "1E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920872",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "1K",
+     "label": "1K – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882644",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2E",
+     "label": "2E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882530",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2K",
+     "label": "2K – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882141",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3E",
+     "label": "3E – Uke 39 & 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882628",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3K",
+     "label": "3K – Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882665",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4E",
+     "label": "4E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882887",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4K",
+     "label": "4K – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882566",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882054",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882086",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882272",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "krokeide-skole",
+   "name": "Krokeide skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/krokeide-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "1.-3. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882729",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "4.-7. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882753",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "kronstad-oppveksttun-skole",
+   "name": "Kronstad oppveksttun - skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kronstad-oppveksttun-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "kyrkjekrinsen-skole",
+   "name": "Kyrkjekrinsen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/kyrkjekrinsen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1A, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882945",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2A, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882720",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882495",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882943",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8B uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882723",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8C uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882728",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882948",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9B uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882803",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9C uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882830",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882173",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10B uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882520",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10C uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882232",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "landas-skole",
+   "name": "Landås skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/landas-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Småtrinnet 1.-4. – Ukeplan 1. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882767",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Småtrinnet 1.-4. – Ukeplan 2.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882647",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Småtrinnet 1.-4. – Ukeplan 3.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882466",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Småtrinnet 1.-4. – Ukeplan 4.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882460",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Mellomtrinnet 5.-7. – Ukeplan 5. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920867",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Mellomtrinnet 5.-7. – Ukeplan 6.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882416",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Mellomtrinnet 5.-7. – Ukeplan 7.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882497",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "li-skole",
+   "name": "Li skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/li-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "liland-skole",
+   "name": "Liland skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/liland-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882686",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882872",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3. trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882744",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882875",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882828",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882757",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882923",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "loddefjord-skole",
+   "name": "Loddefjord skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/loddefjord-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. trinn – Uke 38 og 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70843041",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Uke 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882268",
+     "week": 40
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3. trinn – Uke 38 og 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842341",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882885",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881077",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882962",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920973",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "lone-skule",
+   "name": "Lone skule",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/lone-skule/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. Trinn – 1.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882130",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. Trinn – 4. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882857",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. Trinn – Veke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882846",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. Trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882300",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. Trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920891",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "2. tri nn – Veke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882259",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "lovas-oppveksttun-skole",
+   "name": "Løvås oppveksttun - skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/lovas-oppveksttun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882604",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882274",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882611",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882615",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882691",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Ukeplan for uke 36 og 37",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70841677",
+     "week": 36
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882464",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "lynghaug-skole",
+   "name": "Lynghaug skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/lynghaug-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "plan",
+     "name": "8. trinn",
+     "label": "8. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTokhzL9WGPSL07pSwE79fFqtBCSwbrteD5jDm6OA50P1YUzE3nHK6YoeonP0KPC7_c9im3zCK98kUK/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9. trinn",
+     "label": "9. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQT9ltncofk3dMeKxkOS5IitOu0l8dYwwdhxfFOO0HJZg3IzItpiJPgUFgeSsi79g/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10. trinn",
+     "label": "10. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQwLkqbbqS4FN3cchdSlb0stSYzNqqmp7N7miYCizq1u_zT1ROacoZ56AQQzqQoZ0u6ynKFwaUxeiPM/pub",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "lyshovden-oppveksttun-skole",
+   "name": "Lyshovden oppveksttun - skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/lyshovden-oppveksttun-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "mathopen-skole",
+   "name": "Mathopen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/mathopen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920857",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882851",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882568",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882743",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882718",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882937",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842865",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "midtun-skole",
+   "name": "Midtun skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/midtun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882213",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882693",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70921044",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882666",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882441",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882752",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Ukeplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882834",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "40",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920856",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "minde-skole",
+   "name": "Minde skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/minde-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882538",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842590",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882442",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882533",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882760",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882703",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842846",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "mjolkeraen-skole",
+   "name": "Mjølkeråen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/mjolkeraen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882532",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882534",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882536",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882795",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882545",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 6. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882546",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 7. trinn uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882942",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8A uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189382",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8B uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189383",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8C uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189384",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "8D",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8D uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189386",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "8E",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 8E uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189388",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9A uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189389",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9B uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189390",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 9C",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V69508588",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10A uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189391",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "10B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10B uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189392",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10C uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189393",
+     "week": 22
+    },
+    {
+     "tier": "pdf",
+     "name": "10D",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 10D uke 22",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70189394",
+     "week": 22
+    }
+   ]
+  },
+  {
+   "slug": "mohlenpris-oppveksttun-skole",
+   "name": "Møhlenpris oppveksttun skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/mohlenpris-oppveksttun-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "nattland-skole",
+   "name": "Nattland skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/nattland-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "nordnes-skole",
+   "name": "Nordnes skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/nordnes-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882285",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Ukeplan 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882122",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Ukeplan - 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842726",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4.trinn – Ukeplan 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842231",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Ukeplan - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882234",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Ukeplan - uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882669",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Ukeplan for uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882471",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "ny-krohnborg-avdeling-skole",
+   "name": "Ny-Krohnborg - avdeling skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ny-krohnborg-avdeling-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 8. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920913",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 9. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882852",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 10. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882859",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "nygardslien-skole",
+   "name": "Nygårdslien skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/nygardslien-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882681",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882759",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882587",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882187",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882334",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 6. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882618",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 7.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882721",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "olsvik-skole",
+   "name": "Olsvik skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/olsvik-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 5. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882325",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 6.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882856",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan for 7. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882822",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8. trinn",
+     "label": "8. trinn – Periodeplan for 8AB - Uke 38 og 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842626",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "9. trinn",
+     "label": "9. trinn – Periodeplan 9AB uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70880974",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "10. trinn",
+     "label": "10. trinn – Periodeplanen 10AB uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842596",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Innføringsklassen – Periodeplan for Innføringsklassen, uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881290",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "ortun-skole",
+   "name": "Ortun skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ortun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "8A – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882935",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "8B – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882954",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "8C – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882953",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8D",
+     "label": "8D – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882854",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "8E",
+     "label": "8E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920873",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9A",
+     "label": "9A – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920909",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "9B – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842824",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "9C",
+     "label": "9C – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882487",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9D",
+     "label": "9D – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882873",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "9E",
+     "label": "9E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882462",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10A",
+     "label": "10A – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882541",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10B",
+     "label": "10B – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882553",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10C",
+     "label": "10C – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882372",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10D",
+     "label": "10D – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882745",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "10E",
+     "label": "10E – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882465",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "paradis-skole",
+   "name": "Paradis skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/paradis-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Årsplan/blokkoversikt 1.trinn høsten 2026",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792821",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Halvårsplan 7. trinn - 2026",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70841788",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "26",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Halvårsplan høst 26",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842839",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882258",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "ra-skole",
+   "name": "Rå skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ra-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "kalender",
+     "name": "8A",
+     "label": "Arbeidsplan 8A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQy4ygFL8K8qBsyjbmU7sA40b0EK0e5o2CKghedgPq0MDDVcanS7KJH3B3h8L7vKM8ObkVSptGCCb_S/pub",
+     "ics": "ics/ra-skole-8a.ics",
+     "events": 9,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8B",
+     "label": "Arbeidsplan 8B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub",
+     "ics": "ics/ra-skole-8b.ics",
+     "events": 8,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "8C",
+     "label": "Arbeidsplan 8C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTMsbKkBDOclhAFf2OLUWhqi0DFbEbKe8P8baKRZybdTAwbfWG1ALsbLsyYcwyNvYrgI6oyaajMc5Fi/pub",
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8D",
+     "label": "Arbeidsplan 8D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub",
+     "ics": "ics/ra-skole-8d.ics",
+     "events": 5,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8E",
+     "label": "Arbeidsplan 8E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub",
+     "ics": "ics/ra-skole-8e.ics",
+     "events": 17,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8F",
+     "label": "Arbeidsplan 8F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub",
+     "ics": "ics/ra-skole-8f.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9A",
+     "label": "Arbeidsplan 9A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTQ2ECPUOrYTC-VnumDSdXiDC0kXOMwts9o7kwyzyMRs8rfi0pu5HlLqxCVCGJ1F7xZgtQzEka8Vnbx/pub",
+     "ics": "ics/ra-skole-9a.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9C",
+     "label": "Arbeidsplan 9C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZvFPlEV7Ir-NYkJkZ8tXqcpY0RW/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9D",
+     "label": "Arbeidsplan 9D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRkXoAu-_RWKZ8kgOlOlKSihRaOHg7EgsLJn1DrTWCqwGK4YgEtHmwWZe-0s_IxqfFSEwkoiCHwivwk/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9E",
+     "label": "Arbeidsplan 9E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQx2C-cajAi-rBKrREpp5fgk75VuS6HSTX5lejW7lYhmRffApdZswkke8OP7S6EVVJNGBQwR_KiWQaB/pub",
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9F",
+     "label": "Arbeidsplan 9F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSaLecA8b_jRIRkR_-jj8yV0wy4cHfba2crDkSlrhzw8x_wqGov0kbAiqMco9ImLAHeoj_6n4e2qYgX/pub",
+     "ics": "ics/ra-skole-9f.ics",
+     "events": 35,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10A",
+     "label": "Arbeidsplan 10A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10B",
+     "label": "Arbeidsplan 10B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6ez5bDVWOB2fRfeFApenYbfOJXzfgxj9RdNAPpWjcNtK1Lm8P15hSlkjZPWqn/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10C",
+     "label": "Arbeidsplan 10C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlROLu0XsHwwcH35JdecaE_6tRfX37n_15v6y4Djs4Y7eeUppJsR6w/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10D",
+     "label": "Arbeidsplan 10D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86ObYY-VrC6ECPmzdkcd4lH26DtiPPNbmyHVAiZ11vw1lk8HxxlbDNclt/pub",
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10E",
+     "label": "Arbeidsplan 10E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub",
+     "ics": "ics/ra-skole-10e.ics",
+     "events": 16,
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "radalslien-skole",
+   "name": "Rådalslien skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/radalslien-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "plan",
+     "name": "101",
+     "label": "10-1",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTovU7kH6faWiFC40pY4l2K8t-jyNkOj0asT-6WUXEHaaKWnt8QNnmqbM1UrItSvIuw_dKR65KIT9CP/pub ",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "102",
+     "label": "10-2",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSd010zqzHytuaBy3kaGFHp3W3i4KJ3lGHAPJigNhfUcWXRt50-lS6VLk9FXBuwieYdoZSgTpejIIu8/pub ",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "103",
+     "label": "10-3",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR0PIgL3A6q8dM6lC4A2BA7ieTmtnvdvNgfzEV9mV-QrOE4crVfEv-8zAM55G8EujPBniX-Mza9j8OC/pub ",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "104",
+     "label": "10-4",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSZHBzh0bAxl2usc_2s-SuiopNGgzcshtyqfb6EUqMpGvoWDC8fkulB83uwBMNaIx-ROE8UEbYiP0ab/pub ",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "105",
+     "label": "10-5",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRMVr96k81_S7LYo6uam91Dyh-AZHo0UL8OTKVBktlKh1FzZHFH0okz0nuwJ-jz_aLP5TlkARKV0b_1/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "81",
+     "label": "8-1",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSBgMHY3yeFKGT4YghDiaLtAF7hs8D_0si3ROIUcZwgw3d2suZn-tCxu1EUE7uaaJM_J1exSgZop9Z5/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "82",
+     "label": "8-2",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRboBht-agRoS7_wvbcapLr3JHqMx_vPm29CFUJQJqz7u8AtRFIMAKs-OpsJCheopcxGXnK9dklcPEP/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "83",
+     "label": "8-3",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRAol5WMFL91QtkAdfIdSGNxSQVlFolt4VcU4syeUZhRCi0fL1_2SUMRfHj-rqmGHP4AQuA8clKhsnF/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "84",
+     "label": "8-4",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSUQSKUydhHB0yC00Q7y4ZM58E8hacd9eXMiQ7gyaIvU59PcngZO6-sVb2Iy35IMIByi9PLKsw4fVOL/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "85",
+     "label": "8-5",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR9L7CoJuGYcUkd6RmCXd5r0AY9xVTIYGUj_JCr_JYep27rcK5FCCs1V6P2xfE3ur79gH_1W1nBWqig/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "91",
+     "label": "9-1",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS4dVdHXCysnjnAJmmIpIJgkr_r8i-k10J9B83ehC1KyvnhAzit4VTLSdCntF4rZ_M_P6CzkCLLwqZg/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "92",
+     "label": "9-2",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR0eO3Dj_bbRKBZmpJYMRY7C4B5wKo66eQCyfRTT8IPjv-Gp2HT3_QkJ-1luAwnkc68F_U5KNwrF1jA/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "93",
+     "label": "9-3",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT8oBWViF4BQR_TGdumdd8hpql0k7RjU8HF6hhhFLuLlcVjUiieO3VfW7SjTpYXCP7UaX6AScqcKIcW/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "94",
+     "label": "9-4",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSm5exwq2CXyFi0DY4zosErb9WaCQFY8DPBIBsyGAzgYYWIROIUje9kUozk_iubIptIAe4Iaqnq_sFn/pub",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "rolland-skole",
+   "name": "Rolland skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/rolland-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. trinn – Uke 39 1A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70914024",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Uke 39 2a",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920839",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3. trinn – Uke 39 3A",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920962",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn – Uke 35",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792022",
+     "week": 35
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn : – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882591",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn: – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882263",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn: – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882675",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "rothaugen-skole",
+   "name": "Rothaugen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/rothaugen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "kalender",
+     "name": "8A",
+     "label": "8A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTwfgUgZ9ebngHWi2diMnC6aMWGqvY1ka7w_S3Qx23v6PfNF1Qkf6d773u2DkVIvdtIxp9oPUlvpI8h/pub",
+     "ics": "ics/rothaugen-skole-8a.ics",
+     "events": 3,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8B",
+     "label": "8B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTO10yIDaThNeFnbZ0oLPVBVFm6gS4RQomt-6a6WW7KGweDt4Rtg-HrVV-Va3r9r0JStxSFXvoMcUcy/pub",
+     "ics": "ics/rothaugen-skole-8b.ics",
+     "events": 4,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8C",
+     "label": "8C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRCjRYSapPbEg1IGXviFDVuIXKh6IcuKJf7NJe1-ciCfX3jpN5CWEgDj_XS9IQxFTvxLMZCmCGsDcES/pub",
+     "ics": "ics/rothaugen-skole-8c.ics",
+     "events": 9,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8D",
+     "label": "8D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4LmszmfdJYd7qqwt_h1i5k9fCRY5ta/pub",
+     "ics": "ics/rothaugen-skole-8d.ics",
+     "events": 8,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8E",
+     "label": "8E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub",
+     "ics": "ics/rothaugen-skole-8e.ics",
+     "events": 8,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8F",
+     "label": "8F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTLWKW-tW4KdoAHFuVjS8Z87_yyVrXjX3J3hV1FqzAdZH8vVobGbdn30B1UXFxrV5lsjlIOP8004VPX/pub",
+     "ics": "ics/rothaugen-skole-8f.ics",
+     "events": 8,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8G",
+     "label": "8G",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQnpRyAxODRqS3oKoES1IuhSlE-ir452hDru3yjBFquYnhImSKFLyEPzfmwRx6Q2GLM165EOeQ28LsF/pub",
+     "ics": "ics/rothaugen-skole-8g.ics",
+     "events": 2,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8H",
+     "label": "8H",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQZ2IeHkbJDeU57XNQCuPTNHSoMdetLyw_afBCpi2iwcojBwmL4oKCluETJNn4Ky5Ha6YXY7V9MGxks/pub",
+     "ics": "ics/rothaugen-skole-8h.ics",
+     "events": 2,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8I",
+     "label": "8I",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTthVu70Bo0FBrQyvBVMsJAt8zlE3L88OfPI4ZNYKJvuzrbHv8L9QTDRgqj-AmpVCn2MBfAYxYQuKML/pub",
+     "ics": "ics/rothaugen-skole-8i.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8J",
+     "label": "8J",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub",
+     "ics": "ics/rothaugen-skole-8j.ics",
+     "events": 5,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9A",
+     "label": "9A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opdtjtAOUvJefvKv373TQkArzG1-Hsf/pub",
+     "ics": "ics/rothaugen-skole-9a.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9B",
+     "label": "9B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub",
+     "ics": "ics/rothaugen-skole-9b.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9C",
+     "label": "9C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub",
+     "ics": "ics/rothaugen-skole-9c.ics",
+     "events": 6,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9D",
+     "label": "9D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQpeWXRnYi_88N0AVp8IzhXzGgyN3Odvr1dOytMX8NzPDx3t7JYsq4_u3GdXHTF2fJYgfps_b-YJyQR/pub",
+     "ics": "ics/rothaugen-skole-9d.ics",
+     "events": 6,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9E",
+     "label": "9E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT2UY-_i2R6si4ntAYiWHodoIi3VbWhEmNFL_LkoE6c1I4l_-twi_koy6EO6Jx6iSfF19QZ_8CN_Hc-/pub",
+     "ics": "ics/rothaugen-skole-9e.ics",
+     "events": 19,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9F",
+     "label": "9F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSHk9vwxgx6H2wtWPmThQDaD2aCKSQYHlZJGB8rWwweJILq7igRT82-tj-NYgCUBtuX9oVfw7W68vXp/pub",
+     "ics": "ics/rothaugen-skole-9f.ics",
+     "events": 9,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9G",
+     "label": "9G",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS3wVLQoIau3vkYGIgldKMECPGsttENjuhSlWqUdsm8Y87J2QRmzIgQJ8mi-qKkV4aiX4DWZ0diRhTU/pub",
+     "ics": "ics/rothaugen-skole-9g.ics",
+     "events": 10,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9H",
+     "label": "9H",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub",
+     "ics": "ics/rothaugen-skole-9h.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9I",
+     "label": "9I",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQJ0eYMK3uIQLBpZegPacUVJ9Pe5BcUWBDTpCkOXLiqSWZYatoLntVI837FtsaCVj4cBg8wm966Ez7H/pub",
+     "ics": "ics/rothaugen-skole-9i.ics",
+     "events": 3,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9J",
+     "label": "9J",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ199PMHd9bhNdFWvm4lxLHpfCmG28Lw0yFTt493mmRpTwPPDLuDnia-zruIDtdLy_jrdBiK1y-_aUX/pub",
+     "ics": "ics/rothaugen-skole-9j.ics",
+     "events": 4,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10A",
+     "label": "10A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub",
+     "ics": "ics/rothaugen-skole-10a.ics",
+     "events": 5,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10B",
+     "label": "10B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQvtVvYtfPqnqYIliFOTsqtCmoyzxu4ofn_tOkr-aa2Szhb_SuyoiReWqGJN1Llz-DC6GAWk3HDlHs8/pub",
+     "ics": "ics/rothaugen-skole-10b.ics",
+     "events": 6,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10C",
+     "label": "10C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSYKVWEui64V81HNO1Y4BXi41hv-G8cq7sorB2K0fgsGleRuOOy3GAIXtL3xQ1RLQgNrgzVH5ABUPct/pub",
+     "ics": "ics/rothaugen-skole-10c.ics",
+     "events": 14,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10D",
+     "label": "10D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_oOX1CaOMf-8XMKuKF27wIOj73fgi/pub",
+     "ics": "ics/rothaugen-skole-10d.ics",
+     "events": 13,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10E",
+     "label": "10E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2DpttlVvsj4RYHAhXKAx_txPUTDug0A/pub",
+     "ics": "ics/rothaugen-skole-10e.ics",
+     "events": 25,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10F",
+     "label": "10F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRth23gI8sd8ZFXheRekj5I4C3xzlPKJ7uJQFSZRJT1mhiVVvtMW4gN9fL2JwyoJ5Ox3cPrsvMYTOv6/pub",
+     "ics": "ics/rothaugen-skole-10f.ics",
+     "events": 25,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10G",
+     "label": "10G",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSnXWZkxoQYvDOXGxcj4cT1GtuSN8g_8I-OUNiadvDa4n3PZ6aPjRdhG2KbH65L4hebvfSPLcY-z7PE/pub",
+     "ics": "ics/rothaugen-skole-10g.ics",
+     "events": 5,
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "sadalen-skole",
+   "name": "Sædalen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/sadalen-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan 3.trinn uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70843032",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan 4.trinn uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70843031",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Læringsplan uke 35 - 5. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792202",
+     "week": 35
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 35 - 6. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792410",
+     "week": 35
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 35 - 7.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792411",
+     "week": 35
+    }
+   ]
+  },
+  {
+   "slug": "salen-oppveksttun-skole",
+   "name": "Sælen oppveksttun skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/salen-oppveksttun-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "5A",
+     "label": "Trinn 6 – Ukeplan 5A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882685",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6A",
+     "label": "Trinn 6 – Ukeplan 6A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882450",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7A",
+     "label": "Trinn 7 – Ukeplan 7A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882775",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "salhus-skule",
+   "name": "Salhus skule",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/salhus-skule/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 23, 1. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70273044",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39 på 2.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882290",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39, 3. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882235",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39, 4. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882602",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39, 5. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882271",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39, 6. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882633",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Veke 39, 7.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882626",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "sandgotna-skole",
+   "name": "Sandgotna skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/sandgotna-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "8A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8A uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881523",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "8B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8B uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881522",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "8C",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8C uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881524",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "8D",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 8D uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881525",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "9B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 9B uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881287",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "9D",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan 9D uke 38-39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881288",
+     "week": 38
+    }
+   ]
+  },
+  {
+   "slug": "seljedalen-skole",
+   "name": "Seljedalen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/seljedalen-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "skeie-skole",
+   "name": "Skeie skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/skeie-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882652",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882764",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882564",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882440",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5.trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920877",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 6.trinn, uke 39'",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882700",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 7. trinn, uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882894",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "skjold-skole",
+   "name": "Skjold skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/skjold-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1. trinn – Arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882409",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2.trinn – Arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882296",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3.trinn – Arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920926",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn. – Arbeidsplan - Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882399",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Arbeidsplan 5. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70920860",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Arbeidsplan 6A uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882579",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Arbeidsplan uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881828",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "skranevatnet-skole",
+   "name": "Skranevatnet skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/skranevatnet-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "kalender",
+     "name": "8. trinn",
+     "label": "Arbeidsplan 8.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub",
+     "ics": "ics/skranevatnet-skole-8trinn.ics",
+     "events": 12,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9. trinn",
+     "label": "Arbeidsplan 9.trinn 2026/2027",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT4WJ9otD88ouyGofnI3vCr6YDSwZbRdL1n6G7nlmBrZ75jwW_5MlYoH2sBAgBr32lV8hEzvfCipPRY/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10. trinn",
+     "label": "Arbeidsplan 10.trinn 2026/2027",
+     "url": "https://docs.google.com/document/d/1iJCiOj3UyzlDeT2oLgxZdS92pvIGJIgdPk1kYPzEVT0/edit?tab=t.ypd0w6wdbp5r#heading=h.yzlne6lfjhah",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "39",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 38 og 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842852",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "40",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882398",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "slatthaug-skole",
+   "name": "Slåtthaug skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/slatthaug-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "plan",
+     "name": "8A",
+     "label": "8A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQFKPDPJoE-NtEcUNQPmR3dTE8kWL4WNTaFxdar2dXYL3U9LwIRKaQEm1hbHUMY1Mh0bdbtMEE8bacM/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "8B",
+     "label": "8B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQelW2LonV22RWvaV86Eg6CqhPYkLcVxZBtOyWWZ4QqXfVtG4r17UO-te2LXqXnL5lFqjjf-CAu43na/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "8C",
+     "label": "8C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQzvy33xRb-WH_9UL7g77Rr_XyYeZuTGMs3IuIbJLZSjOwN2b2MR0iTP8RWKUP-ZU0zLBqZDt90UyT3/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "8D",
+     "label": "8D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRiCg3s0OP3gz8JNma_pXtrR1pyH2SOCw6_47oiRy55x-jhHa4B_Fu7oRO3Fmet1zJGtU_sDSxKAeJb/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9A",
+     "label": "9A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT_MVP6ov6IlT0E111gB0WAxe4TMJnfPrUFJ7SEUAffHUD89lRqmrTuEFG-o43FTVvaz4Oz1-wzSp5g/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9B",
+     "label": "9B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSrTLfxJJQrGC0DmWu8QujdrSgKOI7qPXyFdJ07qNJj9T2MAafae_HGcIgAX6R6uiRm2iXJ8AdBrP7I/pub",
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9C",
+     "label": "9C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub",
+     "ics": "ics/slatthaug-skole-9c.ics",
+     "events": 5,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9D",
+     "label": "9D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSrTChpW-ZQia4Zcx8Vv6dg_FI26TlFVJz01DgpGgDGglVQtPVrkAiV7-YjMx6me0A3L4n8uSpbW8J2/pub",
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9E",
+     "label": "9E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTisVVFVFjo-Smo-NstVR2Zo5wO8zqWhGOgr5El0Dxcr-vpGGLtNWOiI79vcS4Iw8ZT3F1UBK-JBsm7/pub",
+     "ics": "ics/slatthaug-skole-9e.ics",
+     "events": 4,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10A",
+     "label": "10A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQfwYPb1o6i5PVEGBVsC7H0xG4yH5ywcqi5TuDn3Ej4vt2aw7-FRhM4eZcfkdTBCBcamVid4un4_BQ-/pub",
+     "ics": "ics/slatthaug-skole-10a.ics",
+     "events": 2,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10B",
+     "label": "10B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQMtCMnOkxopiDO0m_RnS6NepUvW6gTwboT4DsW58ZHF4UZo85uKBmvKTGXhLh_SFx9SFRkJQMz81_n/pub",
+     "ics": "ics/slatthaug-skole-10b.ics",
+     "events": 3,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10C",
+     "label": "10C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRsKrZsUOF0bp7nSFNWeWskYN2ih68Jn0IWX6uRyPuRfDVVyyHjMbUbi_DCDWwAzT1tAbzFTi5zs-zC/pub",
+     "ics": "ics/slatthaug-skole-10c.ics",
+     "events": 3,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10D",
+     "label": "10D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTTa6yoGPGHAMvi-nbr-M5bR8B612q36TS-4j3Ut_vGExWX9XJfzFuXwjshCL18w7-hAgG4TI57WDwb/pub",
+     "ics": "ics/slatthaug-skole-10d.ics",
+     "events": 1,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10E",
+     "label": "10E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSt9bOOEJ9SyYqwvq0NlBQfWIB7t6PQNBkPgFXXqQBBSH_WGGJPTkYJqL5_DNRtYqOwv8SayN9rdf8H/pub",
+     "ics": "ics/slatthaug-skole-10e.ics",
+     "events": 3,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10F",
+     "label": "10F",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS1uj-Epk3P_tm7CM3GXRZBjYRjhRNN2hQ_mtviDfFbxdAri7mLSwur9IX211EmmKAiScWdgUuL-gsK/pub ",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "10G",
+     "label": "10G",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQqaCGLAddXbU3JcgVQmtSB8Xv_TByWd_5jNb9v0vrWHHo3Xw2vnxl5No5KdNGZvoF6FUcaH-6U4GQM/pub",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "slettebakken-skole",
+   "name": "Slettebakken skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/slettebakken-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn uke 37",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70803242",
+     "week": 37
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2 trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882131",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882704",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882189",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – ukeplan 34, 6.trinn.",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70751764",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "35",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – ukeplan 35",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70792705",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "36",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – ukeplan 36.",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70793739",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "38",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – ukeplan 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881114",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "smoras-skole",
+   "name": "Smørås skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/smoras-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "1.trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842182",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "2. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882617",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "3. trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842164",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "4. trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882125",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882231",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6.trinn – Uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842511",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7.trinn – Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882768",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "sorashogda-skole",
+   "name": "Søråshøgda skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/sorashogda-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 1. trinn: Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882881",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 2. Trinn: Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882673",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 3.trinn: Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882638",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 4. trinn: Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882707",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5A: Periodeplan uke 38 og 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842871",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "5B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – 5B: Periodeplan uke 38 og 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842370",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "6A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Periodeplan 6A: Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882701",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Periodeplan 6B: Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882634",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7A",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Periodeplan 7A: Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882475",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7B",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Periodeplan 7B: Uke 39 og 40",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882952",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "soreide-skole",
+   "name": "Søreide skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/soreide-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 1.trinn. Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882677",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 2. trinn. Uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882556",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 3. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882498",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan 4.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882714",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan uke 39 - 5. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882791",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan uke 38 - 6. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842457",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Ukeplan uke 39 - 7. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882850",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "storetveit-skole",
+   "name": "Storetveit skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/storetveit-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "kalender",
+     "name": "8A",
+     "label": "8A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSfa6A1L6fMe4tKry0czwSh9fcspgO-xVPsn_j5dM3WulHF7jH7Hyu_rLu9ESwtnZH5QAuN_4DYx78L/pub",
+     "ics": "ics/storetveit-skole-8a.ics",
+     "events": 13,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8B",
+     "label": "8B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTGbLuWHeDJtyGSkqAk-8GAOT-sPrgE37hkdWLLpGr6B3iciEFssM6X2-COKbhRw4gh-nDzJYyQzjj6/pub",
+     "ics": "ics/storetveit-skole-8b.ics",
+     "events": 13,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8C",
+     "label": "8C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSRnnGW3vu8uiOxHjpzGqsV6QaPkr-pnO5-9BZNh-BPjsoNEmkJ1zEbDgcXcD0jXeDVA-s0HGY8JNdQ/pub",
+     "ics": "ics/storetveit-skole-8c.ics",
+     "events": 21,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8D",
+     "label": "8D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT5BNW806hiBvxK3zQmlTNPUHATe4DRuOxJZf0o66VbALdXEXRpNo4psy3BGbzQsGCEk5Gfxt7BVjuT/pub",
+     "ics": "ics/storetveit-skole-8d.ics",
+     "events": 10,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "8E",
+     "label": "8E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRs2J-iQyueeT8EwGxukG6NP_Kf9b3omMNljNa-2S3SvLWnZ9nE9K4Whi-jsh5BwJAdV0YxJmEglBV4/pub",
+     "ics": "ics/storetveit-skole-8e.ics",
+     "events": 11,
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "9. trinn",
+     "label": "Se hva som skjer - diverse informasjon og annerledesdager på 9. trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTjmTQJSU02yM-8_6Yo8Gvpo7smEN9129_JcE1X6RO8Bgh3R4tUZt2MPR9r7o140QCNhk7jy0kKMori/pub",
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9A",
+     "label": "9A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTDONi08ey4p0lBbXmK2CDjgs7DoFGzTzDrQDX5Rb258gMAMyM_sykrVXsCNQpDkczUeKOHm-UgrHy5/pub",
+     "ics": "ics/storetveit-skole-9a.ics",
+     "events": 131,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9B",
+     "label": "9B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lgwhagPA3pLoZbWAVBphAwx-muZ-QywkqTnsjfkHyKj9IXPHszE1Yu/pub",
+     "ics": "ics/storetveit-skole-9b.ics",
+     "events": 79,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9C",
+     "label": "9C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vThME4pI3YxB51-zhXzCLym0kMqxlf95qV5c1uPa4zx30crWeGuKtzLVwDf6902LLvTQXxxz1WehUV6/pub",
+     "ics": "ics/storetveit-skole-9c.ics",
+     "events": 85,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9D",
+     "label": "9D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTMBl1Xm6Kl6_E8v-jgjVeb-ojUvqqyT3IWU5BwO-Z4GNXJuS3F46LiA8XBUSqjPfnCyyuLT8hpsHeF/pub",
+     "ics": "ics/storetveit-skole-9d.ics",
+     "events": 39,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "9E",
+     "label": "9E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQzyGTSEbT7nUOIGVR8qU9Rp8PDkEqT9-Wf9EdXL8ctNArvO6cIDmJic1VSzX8aaUI0l0xvJ7xKT8B7/pub",
+     "ics": "ics/storetveit-skole-9e.ics",
+     "events": 33,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10A",
+     "label": "10A",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub",
+     "ics": "ics/storetveit-skole-10a.ics",
+     "events": 161,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10B",
+     "label": "10B",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub",
+     "ics": "ics/storetveit-skole-10b.ics",
+     "events": 147,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10C",
+     "label": "10C",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93mvbEk_4SOTRlgegpkV5HwO16qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub",
+     "ics": "ics/storetveit-skole-10c.ics",
+     "events": 161,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10D",
+     "label": "10D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub",
+     "ics": "ics/storetveit-skole-10d.ics",
+     "events": 103,
+     "week": null
+    },
+    {
+     "tier": "kalender",
+     "name": "10E",
+     "label": "10E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub",
+     "ics": "ics/storetveit-skole-10e.ics",
+     "events": 87,
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "tertnes-skole",
+   "name": "Tertnes skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/tertnes-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan 2.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70713060",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan for 3. trinn Snipp og Snapp",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70753091",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Timeplan - 6.trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70713568",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "ulsetskogen-skole",
+   "name": "Ulsetskogen skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ulsetskogen-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "ulsmag-skole",
+   "name": "Ulsmåg skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ulsmag-skole/arbeidsplaner",
+   "entries": []
+  },
+  {
+   "slug": "vadmyra-skole",
+   "name": "Vadmyra skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/vadmyra-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan for 1. trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882149",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan for 2.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70881885",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan for 3.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882168",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan for 4.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882145",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "5. trinn – Arbeidsplan for 5.trinn uke 38",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70842468",
+     "week": 38
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "6. trinn – Arbeidsplan for 6.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882866",
+     "week": 39
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "7. trinn – Arbeidsplan for 7.trinn uke 39",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70882501",
+     "week": 39
+    }
+   ]
+  },
+  {
+   "slug": "varden-skole",
+   "name": "Varden skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/varden-skole/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "pdf",
+     "name": "1. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 1. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447194",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "2. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 2. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447195",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "3. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 3. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447196",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "4. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 4. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447197",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "5. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 5. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447198",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "6. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 6. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447199",
+     "week": null
+    },
+    {
+     "tier": "pdf",
+     "name": "7. trinn",
+     "label": "Du har en eldre versjon av nettleseren Internet Explorer! – Arbeidsplan, 7. trinn",
+     "url": "https://www.bergen.kommune.no/api/rest/filer/V70447200",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "ytre-arna-skule",
+   "name": "Ytre Arna skule",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ytre-arna-skule/arbeidsplaner",
+   "entries": [
+    {
+     "tier": "plan",
+     "name": "1. trinn",
+     "label": "1.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRG7HvMxIcURA07I9h2vRaMpLiJxKb6vrIcjWtzYjY76GbSQDFy-10wzoVRr9AJPXM71z1oPtMjvwsd/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "2. trinn",
+     "label": "2.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRNyf3rk1toEiCTxwsDPl7xORS-KxhAkccltf-I8SKd08NAAG7OkIhfYG2TAzwRrn68BPrsl6r5RHr2/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "3. trinn",
+     "label": "3.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS7kUtZ8tgUfYotsNIm9wk0zce7yRJD8OKoEdjBOvR5nXNPKcQzC0wO8cwM63qxZ6qIh2eHcCcA75Ja/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "4. trinn",
+     "label": "4.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRx1qH3BuIoXwM3mnpQLReaU16xm_C-Hazr-7Gq5r3IPx-IozNJ82qPS1pg9nvdh8fwuhvFVda8gJCg/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "5. trinn",
+     "label": "5.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRm3_UvIQIsqtjIjizdjqiZS0XXt9uNkADKn20pNHzvVb55jfTQPBiWtwcpt4kHXQyzxp63ZO2MorE9/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "6. trinn",
+     "label": "6.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYsHgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfhm1wZvoSCC6U1OMrR/pub",
+     "week": null
+    },
+    {
+     "tier": "plan",
+     "name": "7. trinn",
+     "label": "7.trinn",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSpedzXhsxHOmNz46H8Sdr3EtfcUWnrPHLW3LleR5HZVE4LmDnSQcUsHD2yS1XO9-QwM-vfvfs0zjS7/pub",
+     "week": null
+    }
+   ]
+  },
+  {
+   "slug": "ytrebygda-skole",
+   "name": "Ytrebygda skole",
+   "url": "https://www.bergen.kommune.no/omkommunen/avdelinger/ytrebygda-skole/arbeidsplaner",
+   "entries": []
+  }
+ ],
+ "stats": {
+  "schools": 81,
+  "kalender": 82,
+  "plan": 57,
+  "pdf": 379
+ }
+}

@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8E//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8E
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8E ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a07705412d3e4bc7ab308e3f9e84a7aa47c87b3@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Avdelingsleder:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:5a336754ecd07ce39f605b766ef9460551f53b15@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Kontaktlærerer:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:f6f8e9666f0de33b97d421586e6dd4e184bc7aad@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Kristin Barca Hjetland - kan kontaktes på e-post eller i Vigi
+ lo .
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6f656435e1e56129baa1141f88e74f9bc434ad@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Vanja og Mads - send oss melding i Vigilo hvis det skulle vær
+ e noe
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:a5178227d68b3a93e845b817604fd84c416533ba@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Avdelingsleder:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:65f98ad6cd529fcaf20db3fbbb21944c2c994b2d@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Kontaktlærerer:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:16c0dab2abbecb0d7fa9c3a1215f60050f15f754@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Kristin Barca Hjetland - kan kontaktes på e-post eller i Vigi
+ lo .
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c5700a82341ef887216c0479187fd0a9c628c1@gimle-arbeidsplan
+DTSTAMP:20260921T145214Z
+SUMMARY:📌 Vanja og Mads - send oss melding i Vigilo hvis det skulle vær
+ e noe
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0muF81gAifp9dYGq5S5QcBZtKE
+ KSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRd66DOqn-TsE5gGdZ-SmwODD0m
+ uF81gAifp9dYGq5S5QcBZtKEKSiMWfYyRWlDaqtHOH0zin8Vevbo/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9C//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9C
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9C ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:22a8cd80f35cbe80dc5ab0c72851d55fb2dfd668@gimle-arbeidsplan
+DTSTAMP:20260921T145224Z
+SUMMARY:🎒 Engelsk:Ta med skjønnlitterær bok.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV7YvMK-
+ l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4Z
+ btwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:847564421e2d2bdbff3a9b1ef9373749dd2696cc@gimle-arbeidsplan
+DTSTAMP:20260921T145224Z
+SUMMARY:📌 INFO:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV7YvMK-l_ihlCf
+ UkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4Z
+ btwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:74bf3876277f574ffcc83a95b8f16147c9cf9608@gimle-arbeidsplan
+DTSTAMP:20260921T145224Z
+SUMMARY:📝 Innleveringsfrist mandag 12.oktober.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV
+ 7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4Z
+ btwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:8306c71c76081212f3999e0f7e7430118418e02a@gimle-arbeidsplan
+DTSTAMP:20260921T145224Z
+SUMMARY:📌 M&H Lekse til uke 42
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV7YvMK-l_ihlCf
+ UkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4Z
+ btwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab2a4b2b39d9611fb745eab271e1b56556b35ec@gimle-arbeidsplan
+DTSTAMP:20260921T145224Z
+SUMMARY:📌 Oppgave om bærekraftig mat.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV7YvMK-l_ihlCf
+ UkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4Z
+ btwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:4a36ed7564cfe80100eee32253276eee1fe47d60@gimle-arbeidsplan
+DTSTAMP:20260921T145224Z
+SUMMARY:📌 Tlf til rådgiver Linn: 40815748 (SMS)
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4ZbtwCaw1cueV7YvMK-l_ihlCf
+ UkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vS5sv53H9ZbB2RHQBdaXN-Guo4Z
+ btwCaw1cueV7YvMK-l_ihlCfUkOL44-Vuh_4uZsgMT7KADhsHlBh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

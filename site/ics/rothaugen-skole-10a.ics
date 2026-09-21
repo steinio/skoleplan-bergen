@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10A//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10A
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10A ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c50674eeaf30f3a9b7d6da990e5a50fedcb91e4b@gimle-arbeidsplan
+DTSTAMP:20260921T145235Z
+SUMMARY:📝 Engelskprøve fredag. En liten lyttedel + en større skriftlig
+  del. Bruk oversikten på classroom til å forberede deg.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO
+ 3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5
+ gojRS6vNTbO3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:6692a65a25020bc152705377d7e2e030beb06700@gimle-arbeidsplan
+DTSTAMP:20260921T145235Z
+SUMMARY:🎒 Husk oppladet chromebook og bøker.
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Ia
+ e1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5
+ gojRS6vNTbO3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:e90e87fe8376949ea934651029bb8864764ec02d@gimle-arbeidsplan
+DTSTAMP:20260921T145235Z
+SUMMARY:📌 Linn mob: 40815748.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Iae1fTw3C
+ ebniCcWM7bu-KHefjwatNvUrX7fg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5
+ gojRS6vNTbO3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:de00a81b7f3d130ae50bb4f9a67376c58d447604@gimle-arbeidsplan
+DTSTAMP:20260921T145235Z
+SUMMARY:📌 Trenger du å snakke med rådgiver?
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Iae1fTw3C
+ ebniCcWM7bu-KHefjwatNvUrX7fg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5
+ gojRS6vNTbO3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:05286ecb14bfda31185f7fd3b72aeaef629bf798@gimle-arbeidsplan
+DTSTAMP:20260921T145235Z
+SUMMARY:📌 Årshjul med oversikt over aktiviteter og vurderinger finner d
+ u her.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5gojRS6vNTbO3Gu6Iae1fTw3C
+ ebniCcWM7bu-KHefjwatNvUrX7fg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSzRouiGFTcTjPoh6Un_YIy1zK5
+ gojRS6vNTbO3Gu6Iae1fTw3CebniCcWM7bu-KHefjwatNvUrX7fg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

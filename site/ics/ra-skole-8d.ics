@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8D//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8D
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8D ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5f17be35de9926fe8c74b9358014176a67a94658@gimle-arbeidsplan
+DTSTAMP:20260921T145107Z
+SUMMARY:🏖️ Høstferie! 🍂🍁
+DESCRIPTION:Fri / ikke skole\nMandag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxj
+ J5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261005T081500
+DTEND;TZID=Europe/Oslo:20261005T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3f3af09ed37b3e8eefe11f56d5a30f68177be5@gimle-arbeidsplan
+DTSTAMP:20260921T145107Z
+SUMMARY:🏖️ Høstferie! 🍂🍁
+DESCRIPTION:Fri / ikke skole\nTirsdag\, uke 41\nhttps://docs.google.com/doc
+ ument/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbx
+ jJ5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261006T081500
+DTEND;TZID=Europe/Oslo:20261006T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:64f6dbee287d1959447f348380d7d6ed48140636@gimle-arbeidsplan
+DTSTAMP:20260921T145107Z
+SUMMARY:🏖️ Høstferie! 🍂🍁
+DESCRIPTION:Fri / ikke skole\nOnsdag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxj
+ J5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261007T081500
+DTEND;TZID=Europe/Oslo:20261007T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:690477c70190395c14d417b23cb64b032bc4e528@gimle-arbeidsplan
+DTSTAMP:20260921T145107Z
+SUMMARY:🏖️ Høstferie! 🍂🍁
+DESCRIPTION:Fri / ikke skole\nTorsdag\, uke 41\nhttps://docs.google.com/doc
+ ument/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbx
+ jJ5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261008T081500
+DTEND;TZID=Europe/Oslo:20261008T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:2806276e3a5abeaceba72de7d8afaffa11ec260c@gimle-arbeidsplan
+DTSTAMP:20260921T145107Z
+SUMMARY:🏖️ Høstferie! 🍂🍁
+DESCRIPTION:Fri / ikke skole\nFredag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBuJVJqlTszg4YXXd_jI4Ckc383gW8dbxj
+ J5f_HrqulD945y8wHys9h/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-KCOY8rzVRrnKYbvtCaVcteBu
+ JVJqlTszg4YXXd_jI4Ckc383gW8dbxjJ5f_HrqulD945y8wHys9h/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261009T081500
+DTEND;TZID=Europe/Oslo:20261009T153000
+END:VEVENT
+END:VCALENDAR

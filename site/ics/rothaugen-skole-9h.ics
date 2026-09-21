@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9H//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9H
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9H ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:05797d22d3d4dc9821cbc8c4369b054a6ee58f3c@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:🚌 - Husk kroppsøving i Vikinghallen denne uken og neste uke. Ad
+ ressen er Øvre Dreggsallmenningen 7. Det passet ikke for instruktøren ti
+ dlig på morgenen\, så vi begynner litt senere denne torsdagen. Neste uke
+  drar vi på biblioteket i byen før vi drar i Vikinghallen.
+DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 39\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIx
+ ClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee006e6e49dc352bc256d2a0cbc4d0af3af099d@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📝 - Nasjonal prøve i lesing mandag. Nok søvn og litt mat i mag
+ en er lurt.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7g
+ EgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:b093f5a90ea17edc05fa775cd7989a39dc6507c2@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 Aina Rørstad
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:c91d968cac5edc8a6c478b79b3075f3592db00f6@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 Avdelingsleder
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:ceeab72f1136bdd7c634e2a388f251dffb285e62@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:👥 Det er klubb\, "Rothaugen Ung"\, hver tirsdag (13.30-17.00). I
+ ngen påmelding. Det er bare å møte opp. Oppmøte ved biblioteket eller 
+ spillrommet.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gE
+ gIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:f2760da367bbe1fa10b77755e7c02b8a3d93cf5f@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:🎒 Etter Vikinghallen tar vi bybanen opp til skolen (husk frokost
+  og matpakke\, det blir ikke butikkstopp)
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxCl
+ X4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2f097601f9a9dde87e7c651274f964e3fd2a71@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 Kontaktlærere:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:a99e0597170300cf9a91dfab069635ef247b3221@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 Maria Skråmestø
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:4b2910bca45f52f8199ad1b281aee6934918e1d2@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 PAVA Ungdomsklubb hver torsdag på IL Sandviken Klubbhus
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:5f7baf7e9dc971cfc4120dee178e779c1292f94a@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 Trine Moe Lid
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:77093a59814ea181e454cdbd612d323441991d11@gimle-arbeidsplan
+DTSTAMP:20260921T145230Z
+SUMMARY:📌 trine.lid@bergen.kommune.no
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-WSFfHMCyCQ7gEgIxClX4MgpsK
+ V0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRWGDMPLwdVfcKPzGAKYMXwWq-W
+ SFfHMCyCQ7gEgIxClX4MgpsKV0FbP-RBdF-Lrn1TmPP3C4kUhHm7/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

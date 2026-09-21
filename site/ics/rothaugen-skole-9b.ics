@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9B//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9B
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9B ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8d72dc4d7e2f5abc55e26e3a43e05681000d641d@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 - M&H Lekse til uke 42
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0f14bcf88d19d68f3e367bf6deb3e21d0a878b@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 Avdelingsleder
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8b37ac31b0f8622bc24b02a4818786caf34192@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:👥 Det er klubb\, "Rothaugen Ung"\, hver tirsdag (13.30-17.00). I
+ ngen påmelding. Det er bare å møte opp. Oppmøte ved biblioteket eller 
+ spillrommet.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC
+ -6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:a831b47a2473afa8c1472b63ada510164d531f0d@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📝 Innleveringsfrist mandag 12.oktober.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVr
+ C-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2341c6851f29d3d5d67c80636b378aba9b3a45@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 Naturfag:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:98038f4bf67ac4997c56a2b86b2c9e5a741b0a24@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 Oppgave om bærekraftig mat.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:f990caae480e035d913c3445458c312776dbe2a8@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 Samfunnsfag:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:11f9ed3d4a290b28979b80430f1f7f23eabe1d1a@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 Trine Moe Lid
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:1b068d8134c9017050459a23b3891efaa820db4c@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📝 Uke 40: Det blir en skriftlig prøve om mellomkrigstiden torsd
+ ag i uke 40. Se classroom for mer info.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVr
+ C-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:507561be3a3d24c657a8b5b6a2ddd2183a4f788c@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 Uke 40: Det blir en skriftlig vurdering om celler i uke 40.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:38511db2d9cac3cdbb8754c69d7646946e1a72cb@gimle-arbeidsplan
+DTSTAMP:20260921T145223Z
+SUMMARY:📌 trine.lid@bergen.kommune.no
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43WMuLDjPlLGVrC-6VJehT9ByrC
+ UVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRD3TeQ_gh0lN3AogaLYt3Zf43W
+ MuLDjPlLGVrC-6VJehT9ByrCUVwHzfQ7MA8Nro9fgG1QVNhXvXnC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR
