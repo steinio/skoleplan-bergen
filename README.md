@@ -93,7 +93,18 @@ Begge er valgfrie. Uten oppsett kjører siden helt uten sporing.
 ```bash
 cd worker
 npx wrangler kv namespace create COUNTS     # lim id-en inn i wrangler.toml
+npx wrangler secret put SALT                # en tilfeldig streng
+npx wrangler secret put STATS_TOKEN         # valgfritt: gjør /stats privat
 npx wrangler deploy
+```
+
+Saltet settes som *secret*, ikke i `wrangler.toml` — dette repoet er offentlig,
+og et publisert salt ville gjort det mulig å prøve om en gitt adresse finnes.
+
+Logikken kan testes uten Cloudflare-konto:
+
+```bash
+node worker/worker.test.mjs
 ```
 
 Sett så `ICS_HOST` som repository-variabel (*Settings → Secrets and variables →

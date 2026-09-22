@@ -2,14 +2,18 @@ name = "skoleplan"
 main = "worker.js"
 compatibility_date = "2026-09-01"
 
-# Counts live here. Create it once with:
+# Counts live here. Create the namespace once with
 #   npx wrangler kv namespace create COUNTS
-# then paste the printed id below.
+# and paste the printed id below. The id is not a secret.
 [[kv_namespaces]]
 binding = "COUNTS"
 id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
 
-[vars]
-# Any random string. It salts the daily de-duplication hash so a visitor
-# cannot be followed from one day to the next.
-SALT = "change-me-to-something-random"
+# SALT is deliberately not set here. It salts the daily de-duplication hash,
+# and this repository is public, so it belongs in a secret rather than in a
+# committed file:
+#   npx wrangler secret put SALT
+#
+# Optional: to keep the subscriber numbers private, set a token as well and
+# read them from /stats?token=... instead:
+#   npx wrangler secret put STATS_TOKEN

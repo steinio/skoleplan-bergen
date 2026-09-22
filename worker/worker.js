@@ -13,6 +13,10 @@
  * address, the class and the date, with a daily-rotating salt, kept for 48
  * hours. That cannot be reversed to an address, and cannot be used to follow
  * anyone from one day to the next.
+ *
+ * SALT is a Worker secret, not a committed variable: this repository is public,
+ * and a published salt would let anyone test whether a given address appears.
+ * STATS_TOKEN, if set, is required to read /stats.
  */
 
 const ORIGIN = "https://steinio.github.io/skoleplan-bergen";
@@ -85,6 +89,9 @@ async function count(env, request, pathname) {
 async function stats(env, url) {
   if (!env.COUNTS) {
     return json({ error: "no KV namespace bound" }, 500);
+  }
+  if (env.STATS_TOKEN && url.searchParams.get("token") !== env.STATS_TOKEN) {
+    return json({ error: "a token is required to read these numbers" }, 401);
   }
   const wanted = url.searchParams.get("prefix") || "";
   const out = { generated: new Date().toISOString(), days: {}, classes: {} };
