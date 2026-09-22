@@ -42,7 +42,12 @@ jobs:
         run: python catalogue.py --out data/catalogue.json
 
       - name: Build the site
-        run: python build_site.py --out site
+        # Both are optional: unset repository variables render as "" and the
+        # feature stays off. Settings -> Secrets and variables -> Actions -> Variables.
+        run: |
+          python build_site.py --out site \
+            --goatcounter "${{ vars.GOATCOUNTER_CODE }}" \
+            --ics-host "${{ vars.ICS_HOST }}"
 
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -527,6 +527,55 @@ def test_an_empty_window_still_produces_a_valid_calendar(plan):
     assert "BEGIN:VEVENT" not in text
 
 
+# -------------------------------------------------------------------- analytics
+
+def _site_fixture(**extra):
+    return {
+        "built_at": "2026-09-22T10:00:00+00:00",
+        "stats": {"schools": 1, "kalender": 1, "plan": 0, "pdf": 0},
+        "schools": [{
+            "slug": "gimle-oppveksttun-skole", "name": "Gimle oppveksttun skole",
+            "url": "https://example.invalid",
+            "entries": [{"tier": "kalender", "name": "8E", "label": "8E",
+                         "url": "https://example.invalid/doc",
+                         "ics": "ics/gimle-8e.ics", "ics_base": "ics/gimle-8e",
+                         "events": 12, "counts": {"": 12, "maned": 5, "alt": 20}}],
+        }],
+        **extra,
+    }
+
+
+def test_no_analytics_script_unless_a_code_is_given():
+    import build_site
+
+    page = build_site.render_index(_site_fixture())
+    assert "goatcounter" not in page
+    assert "<script" in page  # the search/window script is still there
+
+
+def test_the_analytics_snippet_is_added_when_configured():
+    import build_site
+
+    page = build_site.render_index(_site_fixture(goatcounter="skoleplan"))
+    assert 'data-goatcounter="https://skoleplan.goatcounter.com/count"' in page
+
+
+def test_calendar_links_stay_relative_by_default():
+    import build_site
+
+    page = build_site.render_index(_site_fixture())
+    assert 'data-ics="ics/gimle-8e"' in page
+    assert "workers.dev" not in page
+
+
+def test_calendar_links_can_be_served_from_a_counting_host():
+    import build_site
+
+    page = build_site.render_index(_site_fixture(ics_host="https://x.workers.dev"))
+    assert 'data-ics="https://x.workers.dev/ics/gimle-8e"' in page
+    assert 'href="https://x.workers.dev/ics/gimle-8e.ics"' in page
+
+
 def test_a_stated_week_is_not_marked_inferred(plan):
     assert [w.inferred_week for w in plan.weeks] == [False]
 

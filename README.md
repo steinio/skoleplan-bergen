@@ -74,7 +74,59 @@ Innholdet kommer rått fra skolens eget dokument — vi retter ikke på det. St�
 det feil der, står det feil her. Mangler klassen din, eller ser noe rart ut,
 [opprett en sak](https://github.com/steinio/skoleplan-bergen/issues).
 
+## Bruksstatistikk
+
+Siden teller hvor mange som faktisk bruker den, i to deler, fordi de måler helt
+ulike ting:
+
+* **Sidevisninger** — et lite skript fra GoatCounter, uten informasjonskapsler.
+* **Abonnementer** — en Cloudflare Worker foran kalenderfilene, i `worker/`.
+
+Grunnen til at det trengs to: en kalenderapp kjører aldri JavaScript. Den henter
+bare `.ics`-filen med noen timers mellomrom, i det uendelige. Sidestatistikk ser
+derfor ingen abonnenter i det hele tatt, og GitHub Pages gir ingen tilgangslogg.
+
+Begge er valgfrie. Uten oppsett kjører siden helt uten sporing.
+
+### Sette opp telling av abonnenter
+
+```bash
+cd worker
+npx wrangler kv namespace create COUNTS     # lim id-en inn i wrangler.toml
+npx wrangler deploy
+```
+
+Sett så `ICS_HOST` som repository-variabel (*Settings → Secrets and variables →
+Actions → Variables*) til adressen workeren fikk, for eksempel
+`https://skoleplan.ditt-navn.workers.dev`. Neste bygg peker kalenderlenkene dit.
+
+Tall hentes fra `/stats` på samme adresse:
+
+```json
+{ "subscribed_classes": 14, "classes": { "gimle-oppveksttun-skole-8e": 3 } }
+```
+
+Workeren teller **unike klienter per klasse per dag**, ikke forespørsler — én
+telefon som spør åtte ganger om dagen skal telle som én abonnent.
+
+### Sette opp sidevisninger
+
+Opprett en konto på [goatcounter.com](https://www.goatcounter.com/) og sett
+`GOATCOUNTER_CODE` som repository-variabel til kodenavnet ditt.
+
 ## Personvern
 
-Tjenesten lagrer ingenting om deg. Den har ingen konto, ingen informasjonskapsler
-og ingen sporing, og henter kun sider skolene allerede har publisert åpent.
+Tjenesten har ingen konto og ingen innlogging, og henter kun sider skolene
+allerede har publisert åpent.
+
+Med tellingen slått på:
+
+* **Ingen IP-adresse lagres.** Workeren lager en SHA-256-sum av adressen,
+  klassen og datoen, med et salt som byttes hver dag. Summen kan ikke regnes
+  tilbake til en adresse, og kan ikke brukes til å følge noen fra én dag til den
+  neste. Den slettes etter 48 timer.
+* **Det lagres bare summer** — hvor mange som abonnerer på hver klasse, per dag.
+* **Ingen informasjonskapsler**, verken fra siden eller fra GoatCounter, så det
+  trengs ingen samtykkeboks.
+
+Er tellingen ikke satt opp, skjer ingenting av dette.

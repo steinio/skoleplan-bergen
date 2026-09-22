@@ -166,6 +166,7 @@ w.addEventListener('change',applyWindow); applyWindow();
 
 
 def render_index(site: dict) -> str:
+    host = site.get("ics_host", "")
     rows = []
     for school in site["schools"]:
         entries = school["entries"]
@@ -180,13 +181,17 @@ def render_index(site: dict) -> str:
             buttons = []
             if e["tier"] == TIER_ICS:
                 counts = e.get("counts", {})
+                base = e.get("ics_base", "")
+                href = e["ics"]
+                if host:
+                    base, href = f"{host}/{base}", f"{host}/{href}"
                 data = "".join(
                     f' data-n{suffix or "default"}="{counts.get(suffix, 0)}"'
                     for suffix, *_ in WINDOWS
                 )
                 buttons.append(
-                    f'<a class="btn cal" data-ics="{_e(e.get("ics_base", ""))}"{data} '
-                    f'href="{_e(e["ics"])}">Legg til i kalender</a>'
+                    f'<a class="btn cal" data-ics="{_e(base)}"{data} '
+                    f'href="{_e(href)}">Legg til i kalender</a>'
                 )
                 buttons.append(f'<a class="btn" href="{_e(e["url"])}">Åpne plan</a>')
                 note = f'{e["events"]} hendelser'
@@ -212,6 +217,12 @@ def render_index(site: dict) -> str:
         f'{_e(title)}</option>'
         for suffix, title, *_ in WINDOWS
     )
+    code = site.get("goatcounter", "")
+    analytics = (
+        f'<script data-goatcounter="https://{_e(code)}.goatcounter.com/count" '
+        f'async src="//gc.zgo.at/count.js"></script>'
+        if code else ""
+    )
     stats = site["stats"]
     return f"""<!doctype html><html lang="no"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -236,7 +247,7 @@ kalender full av neste sommer. Valget gjelder lenkene på denne siden — velg d
 <footer>Hentet automatisk fra
 <a href="https://www.bergen.kommune.no/omkommunen/avdelinger/skoler">bergen.kommune.no</a>.
 Uoffisiell tjeneste laget av en forelder.</footer>
-</div><script>{SCRIPT}</script></body></html>"""
+</div><script>{SCRIPT}</script>{analytics}</body></html>"""
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -245,6 +256,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--catalogue", default="data/catalogue.json")
     parser.add_argument("--out", default="site")
     parser.add_argument("--limit", type=int, help="only the first N schools (for testing)")
+    parser.add_argument("--goatcounter", default="",
+                        help="GoatCounter site code, e.g. skoleplan (adds a cookieless script)")
+    parser.add_argument("--ics-host", default="",
+                        help="serve calendar links from this host, e.g. a counting Worker")
     parser.add_argument("--render-only", action="store_true",
                         help="rebuild index.html from an existing site.json")
     parser.add_argument("--quiet", action="store_true")
@@ -254,6 +269,10 @@ def main(argv: list[str] | None = None) -> int:
     out_only = pathlib.Path(args.out) / "site.json"
     if args.render_only:
         site = json.loads(out_only.read_text(encoding="utf-8"))
+        if args.goatcounter:
+            site["goatcounter"] = args.goatcounter.strip()
+        if args.ics_host:
+            site["ics_host"] = args.ics_host.strip().rstrip("/")
         (pathlib.Path(args.out) / "index.html").write_text(render_index(site), encoding="utf-8")
         log(f"re-rendered {args.out}/index.html")
         print(json.dumps(site["stats"]))
@@ -265,7 +284,9 @@ def main(argv: list[str] | None = None) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     site = {"built_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
-            "schools": [], "stats": {}}
+            "schools": [], "stats": {},
+            "goatcounter": args.goatcounter.strip(),
+            "ics_host": args.ics_host.strip().rstrip("/")}
     tiers = {TIER_ICS: 0, TIER_PLAN: 0, TIER_PDF: 0}
 
     for school in schools:
