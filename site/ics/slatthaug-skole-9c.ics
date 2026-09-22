@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//9C//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 9C
+X-WR-RELCALID:9C-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 9C ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:78d43463b5c0b1b5b7f987f8b13f96d28225b91f@gimle-arbeidsplan
-DTSTAMP:20260921T150339Z
+DTSTAMP:20260922T134315Z
 SUMMARY:📌 Friluftsliv uke 39:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7GrT7lgoKaEuUd
@@ -42,57 +43,17 @@ DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
-UID:92a7838f273b3d690a5872f4db5cce83ededa35d@gimle-arbeidsplan
-DTSTAMP:20260921T150339Z
-SUMMARY:🎒 Husk å kle dere etter været og ta med ekstra mat.
-DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
- oogle.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7GrT7lg
- oKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
-CATEGORIES:Husk å ta med
-URL:https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6d
- Mjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-END:VEVENT
-BEGIN:VEVENT
-UID:d9a35d9d335fc5aaa48f0b0b5b44a53867f38f93@gimle-arbeidsplan
-DTSTAMP:20260921T150339Z
-SUMMARY:📌 Vi avslutter ca 16:00 der oppe.
-DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
- om/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7GrT7lgoKaEuUd
- mXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
-CATEGORIES:Beskjed
-URL:https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6d
- Mjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-END:VEVENT
-BEGIN:VEVENT
-UID:2fa1cd4142e3ea0e3c6e2f6e0d2b2180fc2999af@gimle-arbeidsplan
-DTSTAMP:20260921T150339Z
-SUMMARY:📝 Vi skal jobbe med førstehjelp under turen. De som ønsker kan
-  ta med primus for å lage mat. Vi prøver å tenne bål\, men veden er ga
- nske våt\, så jeg anbefaler ikke å ha med mat som må varmes på bål.
+UID:2927f6c829e91098ebc8fcc9bbc09af83671f407@gimle-arbeidsplan
+DTSTAMP:20260922T134315Z
+SUMMARY:📝 Vi skal på tur til Myrdalen. Vi skal jobbe med førstehjelp u
+ nder turen. De som ønsker kan ta med primus for å lage mat. Vi prøver 
+ å tenne bål\, men veden er ganske våt\, så jeg anbefaler ikke å ha me
+ d mat som må varmes på bål. Husk å kle dere etter været og ta med eks
+ tra mat. Vi avslutter ca 16:00 der oppe.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
  docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7
  GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
 CATEGORIES:Prøve / innlevering
-URL:https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6d
- Mjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-END:VEVENT
-BEGIN:VEVENT
-UID:b3a3c574c23d0591bec081edd61c02f679431618@gimle-arbeidsplan
-DTSTAMP:20260921T150339Z
-SUMMARY:🚌 Vi skal på tur til Myrdalen.
-DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 39\nhttps://docs
- .google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7GrT7
- lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
-CATEGORIES:Tur / ekskursjon
 URL:https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6d
  Mjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
 TRANSP:TRANSPARENT

@@ -18,6 +18,7 @@ import sys
 from dataclasses import replace
 
 from schoolplan import diff, fetch, render_html, render_ics, render_md
+from schoolplan.dates import parse_bound
 from schoolplan.highlights import OUT_OF_ORDINARY
 from schoolplan.model import Highlight, Plan
 from schoolplan.parse import parse_document
@@ -45,6 +46,10 @@ def build_parser() -> argparse.ArgumentParser:
                         help="also emit an ics with every lesson, not just highlights")
     parser.add_argument("--term-start-year", type=int, default=None,
                         help="year the school year started (default: inferred)")
+    parser.add_argument("--from", dest="date_from", default=None,
+                        help="earliest date: 2026-09-01, today, or 7d (a week back)")
+    parser.add_argument("--to", dest="date_to", default=None,
+                        help="latest date: 2027-06-20, or 90d / 3m (ahead)")
     parser.add_argument("--quiet", action="store_true", help="only print warnings")
     return parser
 
@@ -98,9 +103,14 @@ def main(argv: list[str] | None = None) -> int:
     json_path.write_text(
         json.dumps(plan.to_dict(), ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
+    window_start = parse_bound(args.date_from, default_sign=-1)
+    window_end = parse_bound(args.date_to, default_sign=1)
     (out_dir / f"{stem}.ics").write_text(
-        render_ics.render(plan, categories=tuple(
-            c.strip() for c in args.categories.split(",") if c.strip())),
+        render_ics.render(
+            plan,
+            categories=tuple(c.strip() for c in args.categories.split(",") if c.strip()),
+            start=window_start, end=window_end,
+        ),
         encoding="utf-8",
     )
     (out_dir / f"{stem}.html").write_text(
@@ -113,7 +123,8 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.all_lessons:
         (out_dir / f"{stem}-alle-timer.ics").write_text(
-            render_ics.render(_lessons_as_highlights(plan), alarm_hours=0), encoding="utf-8"
+            render_ics.render(_lessons_as_highlights(plan), alarm_hours=0,
+                              start=window_start, end=window_end), encoding="utf-8"
         )
 
     summary = render_md.summarise_changes(changes)

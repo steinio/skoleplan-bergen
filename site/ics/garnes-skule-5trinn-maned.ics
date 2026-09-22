@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//5. trinn//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 5. trinn
+X-WR-RELCALID:5. trinn-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 5. trinn ved Gimle oppv
+ eksttun skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a96dae14d2966ad06c96ebe106df3e8c2eeebce4@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Angåande engelskleksa: elevane vel den teksten som dei tenkje
+ r passer til seg sjølv både for meistring\, men også for ei lita utford
+ ring. Les kvar dag\, del gjerne teksten opp\, om det er enklare. Dei kan v
+ elje ut ord i teksten\, og finne ut kva dei betyr\, snakke om kva teksten 
+ handla om. Øv på “Words to learn” som høyrer til teksten.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:c411c023744f41c08fe99ef0282ad9d5f12c6b4e@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:👥 Det blir foreldremøte onsdag 30. september. Hold av datoen!
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmI
+ A9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:bc723e32342964052a58259b37f63a0731ba6bb7@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📝 Då er nesten alle i mål med nasjonale prøver. Vi er superim
+ ponert over elevane. Dei har verkeleg jobba godt og gjort sitt aller beste
+ . No har det vore tre veker med annleis timeplan og frå denne veka blir d
+ et normal veke. Det betyr blant anna gym på torsdag i første økt i Bjø
+ rnarhallen. Kom gjerne med gymtøy og skift til vanleg tøy etterpå. Hugs
+  innesko til fysisk onsdagar også.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSm
+ IA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5be3a35d41c0ea476b4c790a2534abd70bd962@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Heimeside med vekeplan: https://www.bergen.kommune.no/omkommun
+ en/avdelinger/garnes-skule
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:481a92f7c93b79b1079c9ab7ce263254767ea27c@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Helsing Tone\, Ingeborg og Kjersti <3
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5a3914fa8d856b0d534e460c4f73d2b86efd65@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Hugs å legge inn fråvær i Vigilo før kl 8 🙂
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:160e6f7c7e4311749684e47f8ab6c7d9ab678ae7@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:👥 Morgonsamling
+DESCRIPTION:Møte / arrangement\nMatematikk KRLE Samfunnsfag / Norsk Fysisk
+  Lesing\nOnsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vRfT
+ _fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hn
+ z/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:133c4a990984eb03923cac9ed492e1fb202cb0ff@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:🏖️ På torsdag får vi besøk av studentane\, som skal være m
+ ed oss etter haustferien.
+DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 39\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R
+ 0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:0b80b8c6f5338504f8ce6ffdd8c2edeea14e6c5a@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Skulen åpner dørene kl. 08.05. Elevane skal sitte på plasse
+ n sin når det ringer inn.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:617e7355f43317b4aef7deac0531d2d7039c4a23@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Telefonnummer kontor: 53037050
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bd33e8153e10be2273ab105581cd6b41b3384d@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Vi er i gang med Bokslukerprisen! Det er ein nasjonal leselyst
+ pris for mellomtrinnet. Vi skal i løpet av hausten lese oss gjennom utdra
+ g frå 10 ulike bøker\, og stemme over kva tekstar vi likar best. Elevane
+  vil innimellom få i lekse å lese utdrag i denne boka. Dersom dei har gl
+ øymd boka på skulen ligg alle tekstane ute på bokslukerprisen.no. Her f
+ inn ein også lydfil til tekstane dersom nokon treng støtte i lesinga.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:30f0a4d05c60728d0e56feef0e8556a88db32e07@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:📌 Vi ser at veldig mange ikkje har penal med blyant og viskelær
+  på skulen. Vi brukar mykje tid på at elevane må låne blyant og visekl
+ ær\, og så må få ny neste time igjen. Elevane må lære seg å ta vare
+  på eigne og skulen sine ting! Dei kjem til å få ein blyant av oss med 
+ navn på i løpet av veka\, som dei må ta godt vare på.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoiv
+ md-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:17d816fb476c2eadf6ecac0a9de640c49775e2ce@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:👥 Morgonsamling
+DESCRIPTION:Møte / arrangement\nGym i Bjørnarhallen Sosial kompetanse Mus
+ ikk Naturfag / samfunnsfag\nTorsdag\, uke 39\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWUd0hP89j-FSmIA9R0hXm5uoivmd-G9eN
+ Lsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:7d60792cd8f844fae5d890b5c269791c15aea980@gimle-arbeidsplan
+DTSTAMP:20260922T133948Z
+SUMMARY:👥 Morgonsamling
+DESCRIPTION:Møte / arrangement\nNorsk Matematikk Arbeidsplan\nFredag\, uke
+  39\nhttps://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66Lvbw
+ WUd0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRfT_fWoH7SnCSClTtC66LvbwWU
+ d0hP89j-FSmIA9R0hXm5uoivmd-G9eNLsj58BmEPnnNF1Rhs4hnz/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+END:VCALENDAR

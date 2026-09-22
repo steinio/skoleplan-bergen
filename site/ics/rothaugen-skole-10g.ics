@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10G//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10G
+X-WR-RELCALID:10G-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10G ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:af9a43d3a321ee5c58c1ff2d5dfdda92aebc88bb@gimle-arbeidsplan
-DTSTAMP:20260921T150248Z
+DTSTAMP:20260922T134229Z
 SUMMARY:📌 Julie er vekke denne uken.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSnXWZkxoQYvDOXGxcj4cT1GtuSN8g_8I-OUNiadvDa4n3PZ6aP
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:d1f5565382559de5a311afb8918a93129ea22c0d@gimle-arbeidsplan
-DTSTAMP:20260921T150248Z
+DTSTAMP:20260922T134229Z
 SUMMARY:🎒 Kroppsøving: utegym på Stemmemyren\, kle deg etter været! F
  elles bussavgang fra Sandvikskirken kl. 10.45. Vi avslutter skoledagen der
  \, det er mulig å sitte på med felles buss tilbake til skolen for de som
@@ -60,7 +61,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:6594b2ea46df2aafa9b530041c11e2cdebd41bb0@gimle-arbeidsplan
-DTSTAMP:20260921T150248Z
+DTSTAMP:20260922T134229Z
 SUMMARY:📌 Lars-Erik.EskerudSmith@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSnXWZkxoQYvDOXGxcj4cT1GtuSN8g_8I-OUNiadvDa4n3PZ6aP
@@ -74,7 +75,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:e25e431723cce484b889d6a74fc530bdca8a84e3@gimle-arbeidsplan
-DTSTAMP:20260921T150248Z
+DTSTAMP:20260922T134229Z
 SUMMARY:📌 Rådgiver:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSnXWZkxoQYvDOXGxcj4cT1GtuSN8g_8I-OUNiadvDa4n3PZ6aP
@@ -88,7 +89,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:c2132595bc397e2a72bc88afc33436121317d89f@gimle-arbeidsplan
-DTSTAMP:20260921T150248Z
+DTSTAMP:20260922T134229Z
 SUMMARY:📌 Tlf: 40815793
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSnXWZkxoQYvDOXGxcj4cT1GtuSN8g_8I-OUNiadvDa4n3PZ6aP

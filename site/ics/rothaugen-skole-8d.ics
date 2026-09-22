@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//8D//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 8D
+X-WR-RELCALID:8D-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 8D ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:114352b5d4c5e9180127987065b078ab6c326ac8@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:🎒 Alle må huske lunsj og drikke hver dag!
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:37523e725b2c3cac7ef86e3fc21aada9b62d4c3b@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:📌 Anett: Kunst og Håndverk
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4L
@@ -57,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:a4e61d107329fe3bf8d01630f97eb49f423ee367@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:🎒 Dere skal alltid ha med bøker til fagene dere har den skoleda
  gen det er\, i tillegg til oppladet PC :)
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
@@ -72,7 +73,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:6c5ffe73ea4231187bc04d5df5c630efb22b0a04@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:📌 Eivind: Matematikk og Naturfag
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4L
@@ -86,7 +87,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:44140396c634a5fe85cf8aefebbb3f86943eeda5@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:📌 Maren: Engelsk og KRLE
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4L
@@ -100,7 +101,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:831aed47cde8ad460ed84cf634ebdd7976b18cb4@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:📌 Tilvalg/valgfag: Sjekk Classroom
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4L
@@ -114,7 +115,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:438ad870abf4e3b0653a2d764824ad64120ae3d2@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:📌 Tobias: Norsk\, samfunnsfag og UDV
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4L
@@ -128,7 +129,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:9d74e5b2c1bd395e4c281b574660b62795a7e82a@gimle-arbeidsplan
-DTSTAMP:20260921T150218Z
+DTSTAMP:20260922T134203Z
 SUMMARY:📌 Tore: Gym
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSWEYZyLnzo4OUPlaGsp5vT7y2R5OYQ6D1e4A1TsRS2_g3Z7_4L

@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//9C//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 9C
+X-WR-RELCALID:9C-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 9C ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5ddc1b1d87c792700e81b61d9cbc95472e42af1b@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Matte: Gjør lekseark før fredag
 DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 39\nhttps://docs.google.com/
  document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZv
@@ -48,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:06e03f686eb964de9eed675379540f27bc847cec@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:👥 Matte: Gjør lekseark før fredag
 DESCRIPTION:Møte / arrangement\nUkenslekse: Fyll ut egenvurderingskjema f
  ør utviklingssamtale i uke 39 HER og orden og adferd Her\nMandag\, uke 39
@@ -63,7 +64,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5a542b1f565fd25aeb4c771cb00692425013eca1@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Ukenslekse: Fyll ut egenvurderingskjema før utvikli
  ngssamtale i uke 39 HER og orden og adferd Her
 DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 39\nhttps://docs.google.com/
@@ -84,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e29025bb680701f1f93ec2143239787f8862b782@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 39\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -103,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6df57fa4306904854ad3de8ed4d5c67e6f6ce788@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:🎒 Mat og Helse
 DESCRIPTION:Husk å ta med\nsausekurs Ta med nistepakke - det blir ingen sp
  ising i mat og helse\nTirsdag\, uke 39\nhttps://docs.google.com/document/d
@@ -118,7 +119,7 @@ DTEND;TZID=Europe/Oslo:20260922T102500
 END:VEVENT
 BEGIN:VEVENT
 UID:00342a41644a2d612b749699d2f2656e8c8a3dfd@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📝 Naturfag
 DESCRIPTION:Prøve / innlevering\ns. 48-51 (Elektronskallmodell test: de si
  ste 10min av timen)\nTirsdag\, uke 39\nhttps://docs.google.com/document/d/
@@ -133,7 +134,7 @@ DTEND;TZID=Europe/Oslo:20260922T131500
 END:VEVENT
 BEGIN:VEVENT
 UID:bd7b57af0c2601ae7d9a60b032d92df5e2e36f87@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Elevrådsmøtet: 2.time\, Basenget.
 DESCRIPTION:Lekser\nHjemmearbeid\nOnsdag\, uke 39\nhttps://docs.google.com/
  document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZv
@@ -152,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:119be559c5c7ef9f70944d60bf2413e521c1ef22@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:👥 Elevrådsmøtet: 2.time\, Basenget.
 DESCRIPTION:Møte / arrangement\nOnsdag\, uke 39\nhttps://docs.google.com/d
  ocument/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZvF
@@ -166,7 +167,7 @@ DTEND;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:19b75926bebd21aac2c355b3d2dc17281000f332@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 39\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -185,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:249c25c99c549db46cbcc760bc1d20d702e40c25@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 39\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -203,9 +204,9 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4b74ff9b12c246a43a97da21762614a6f6dfc3a6@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
-SUMMARY:📚 Lekse – Matte: Øv til prøve
+UID:3e5f828bc68fcc7cdcf55b1b648348ee211e1557@gimle-arbeidsplan
+DTSTAMP:20260922T134113Z
+SUMMARY:📚 Lekse – Matte: Øv til prøve i denne uken
 DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 40\nhttps://docs.google.com/
  document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZv
  FPlEV7Ir-NYkJkZ8tXqcpY0RW/pub
@@ -217,14 +218,14 @@ DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:📚 Lekse – Matte: Øv til prøve
+DESCRIPTION:📚 Lekse – Matte: Øv til prøve i denne uken
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b057e257c9504f6662f6acdd3f206bf41049d3ac@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
-SUMMARY:📝 Matte: Øv til prøve
+UID:8173e45ffba3012879da8b3b792f97ccc98e3b04@gimle-arbeidsplan
+DTSTAMP:20260922T134113Z
+SUMMARY:📝 Matte: Øv til prøve i denne uken
 DESCRIPTION:Prøve / innlevering\nMandag\, uke 40\nhttps://docs.google.com/
  document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZv
  FPlEV7Ir-NYkJkZ8tXqcpY0RW/pub
@@ -237,7 +238,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:0b025e6670b9247591efb456eb904141182f4e38@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 40\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -256,7 +257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8f3c87be6a072621b4d092b7ed2f57325e6da938@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 40\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -275,7 +276,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c28bac4da8d771ac64b09078cf3a79cc4ab16e23@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 40\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -294,7 +295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:36dc7591eecfe7992938c07602a5aff846493f56@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📝 Samfunnsfag
 DESCRIPTION:Prøve / innlevering\nPrøve i Mangefold og rasisme\nTorsdag\, 
  uke 40\nhttps://docs.google.com/document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0
@@ -308,7 +309,7 @@ DTEND;TZID=Europe/Oslo:20261001T102500
 END:VEVENT
 BEGIN:VEVENT
 UID:8adc6c4273251020a15d25fcb6f7259d692886f3@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📝 Matte
 DESCRIPTION:Prøve / innlevering\nPrøve i Statistikk\nFredag\, uke 40\nhtt
  ps://docs.google.com/document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeD
@@ -322,7 +323,7 @@ DTEND;TZID=Europe/Oslo:20261002T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:8c7df0a1e42f10aae9956af8b22f747edb42f198@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 42\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -341,7 +342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9fed2044f8d2009f5382f8a845c431fcae866f71@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 42\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -360,7 +361,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2b4494fd9093befe5c76df6ac61184dcdbe432d3@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 42\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -379,7 +380,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35e3a928929cf5395a52cc273697958ea98efa51@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 43\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -398,7 +399,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f4b41b31e546a659dfb72a73a2e4990c82f700b5@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 43\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -417,7 +418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:85deab5a63fc34c8647441835246c6606e9886e7@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 43\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -436,7 +437,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:faa1aa38aaddf8eb09603157219bda6f7e53da18@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 44\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -455,7 +456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:72b14c38d3ce637cce44493c6e5a03e63470ccea@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 44\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -474,7 +475,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a7b7550b5fa95b71a3be77f20f1a1d9953033fe@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 44\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -493,7 +494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dd52da5ba788e5586d66c6637c595747229f91da@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 45\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -512,7 +513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9f33e874b88eccfb50e8f69e024ce6995c0ab700@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 45\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -531,7 +532,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e86e46ae26792e8534593ca5a1426dd54a3b83@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 45\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -550,7 +551,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1271878a23a9a015913f4ff373bfb620dd24093@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 46\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -569,7 +570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4fec7eb70a3ea852079a3260e7b8fea519e06113@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 46\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -588,7 +589,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:01450b8a3b61d24c962c72d11f30a353415bdafd@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 46\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -607,7 +608,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146e79efd9305cdecac02927f69a8844c555467e@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 47\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -626,7 +627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868f047dfa211a4ebdea6132be182000a969b938@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 47\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -645,7 +646,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd97260de4f4a1b36b24d9996e15583d4e3f43d@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 47\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -664,7 +665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7833db61f0ebad054461bbb36c98ad9f4228dccd@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 48\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -683,7 +684,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:305c182218381131d55f5acb86cd40506b6446da@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 48\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -702,7 +703,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d2b023199e900a1dba84485428ea4d432ac134da@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 48\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -721,7 +722,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bf61382ac6b2e6178c96a90adf6e38e4e1edd9d2@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 49\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -740,7 +741,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8cf15b26861e7d80b8afdd488dfee52fe55bc804@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 49\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -759,7 +760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7d80e1b1afd5ac00494c804dcc8d00e5b08bdded@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 49\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -778,7 +779,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a8f902e5a0f97417ed5b97474e8a0bfbc2d4dd@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 50\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -797,7 +798,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:60ed327cbdeeb131850d7f9644ee7b49796c1d16@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 50\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -816,7 +817,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9d820d29fa637550968fa02b43235c4e7f888ff7@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 50\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -835,7 +836,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5df302913a16fb1b8188180539eeb5782ada266b@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 51\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -854,7 +855,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:11aba79e8bb574c6ee17762bed8c4e60bc75d1b1@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – English:
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 51\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -873,7 +874,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:00de90c5e6b7fe211bad2381ca636970ff98c3a3@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Homework
 DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 51\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -892,7 +893,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:038c8a3319c85c081dbb1f1b450fa91c1cd2a03f@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 52\nhttps://docs.google.com
  /document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZ
@@ -911,7 +912,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2f3be07442401692d0209667955f31699b53d3d1@gimle-arbeidsplan
-DTSTAMP:20260921T150127Z
+DTSTAMP:20260922T134113Z
 SUMMARY:📚 Lekse – Mat og helse: Lekseplan - og plan for økt
 DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 1\nhttps://docs.google.com/
  document/d/e/2PACX-1vTppKc6f4jS-2rHaYSG8G0qgrn-GrnkeDuRWqpdRucX43Is9oBfqZv

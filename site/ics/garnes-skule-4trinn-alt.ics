@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//4. trinn//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 4. trinn
+X-WR-RELCALID:4. trinn-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 4. trinn ved Gimle oppv
+ eksttun skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:30a01b0914dc20a9e11f717fd01ebcd5f91827da@gimle-arbeidsplan
+DTSTAMP:20260922T133956Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nSFO stengt\nMandag\, uke 37\nhttps://docs.goo
+ gle.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM2u6t22x3pWBPTUXm7bQ
+ giuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM
+ 2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:49f78214aecfaa548f7d80b5103e51386f04bb9c@gimle-arbeidsplan
+DTSTAMP:20260922T133956Z
+SUMMARY:👥 Lesekvart
+DESCRIPTION:Møte / arrangement\nMatematikk Vi arbeider i boken Matematikk 
+ 4A Norsk Vi arbeider i boken Salto4A Fotografering: Gruppebilde Samfunnsfa
+ g/Naturfag Frosk: Samfunnsfag Bever: Naturfag\nTirsdag\, uke 37\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM2u6t22x3pWBP
+ TUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM
+ 2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+END:VEVENT
+BEGIN:VEVENT
+UID:0e85be58c057dea586739e9c5b7777e3a0457978@gimle-arbeidsplan
+DTSTAMP:20260922T133956Z
+SUMMARY:👥 Lesekvart
+DESCRIPTION:Møte / arrangement\nSvømming/Matematikk Vi arbeider med LIST-
+ oppgaver Fotografering: Portrett Minnemarkering for kong Harald\nOnsdag\, 
+ uke 37\nhttps://docs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37Ql
+ SOYSM2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM
+ 2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+END:VEVENT
+BEGIN:VEVENT
+UID:13aa17162a51268cb65d6b3e2ac85fc59461e23e@gimle-arbeidsplan
+DTSTAMP:20260922T133956Z
+SUMMARY:🚌 Lesekvart
+DESCRIPTION:Tur / ekskursjon\nTur Vi går tur til Gapahuken Samfunnsfag/Nat
+ urfag Frosk: Naturfag Kretsløpet til vatnet Bever: Samfunnsfag Stortingsv
+ alg\nTorsdag\, uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vScaBka
+ 2iod6rYd23R37QlSOYSM2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/p
+ ub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vScaBka2iod6rYd23R37QlSOYSM
+ 2u6t22x3pWBPTUXm7bQgiuMBqeu0wAFtKeyP5_WOWEk2-RXWkVfT/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+END:VEVENT
+END:VCALENDAR

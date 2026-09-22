@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8E//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8E
+X-WR-RELCALID:8E-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8E ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0278468ec2cfec4eba5e723d76baa62e27794ab9@gimle-arbeidsplan
+DTSTAMP:20260922T134105Z
+SUMMARY:🏖️ HØSTFERIE
+DESCRIPTION:Fri / ikke skole\nTirsdag\, uke 41\nhttps://docs.google.com/doc
+ ument/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZ
+ XmLRCL7LQafIae3ic2ZaZg/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf
+ 7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+END:VEVENT
+BEGIN:VEVENT
+UID:f106044b6a67b8c1ef77231f64228f1b6a9084a1@gimle-arbeidsplan
+DTSTAMP:20260922T134105Z
+SUMMARY:🏖️ HØSTFERIE
+DESCRIPTION:Fri / ikke skole\nOnsdag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZX
+ mLRCL7LQafIae3ic2ZaZg/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf
+ 7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+END:VEVENT
+BEGIN:VEVENT
+UID:e348eeb8859e2d5cdb4825dbebc5656777fad668@gimle-arbeidsplan
+DTSTAMP:20260922T134105Z
+SUMMARY:🏖️ HØSTFERIE
+DESCRIPTION:Fri / ikke skole\nTorsdag\, uke 41\nhttps://docs.google.com/doc
+ ument/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZ
+ XmLRCL7LQafIae3ic2ZaZg/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf
+ 7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+END:VEVENT
+BEGIN:VEVENT
+UID:eda6eec4f63a79b6b3ffced1443998cf2945a86d@gimle-arbeidsplan
+DTSTAMP:20260922T134105Z
+SUMMARY:🏖️ HØSTFERIE
+DESCRIPTION:Fri / ikke skole\nFredag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZX
+ mLRCL7LQafIae3ic2ZaZg/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf
+ 7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6c2bd46ee35f5584b10777f6a6df1b09d40a45@gimle-arbeidsplan
+DTSTAMP:20260922T134105Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
+ r til å kunne være ute i.\nOnsdag\, uke 42\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZX
+ mLRCL7LQafIae3ic2ZaZg/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf
+ 7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261014T081500
+DTEND;TZID=Europe/Oslo:20261014T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:7aab87de425f0d55ff7e6e2cbbafd4163a630335@gimle-arbeidsplan
+DTSTAMP:20260922T134105Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
+ r til å kunne være ute i.\nOnsdag\, uke 43\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf7sGTvXjKxeYLfcruqHWid86Rw2UdfZX
+ mLRCL7LQafIae3ic2ZaZg/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vS2W4Ux_F4Ybk2UjWOIIXisJiMf
+ 7sGTvXjKxeYLfcruqHWid86Rw2UdfZXmLRCL7LQafIae3ic2ZaZg/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261021T081500
+DTEND;TZID=Europe/Oslo:20261021T102500
+END:VEVENT
+END:VCALENDAR

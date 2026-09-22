@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8. trinn//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8. trinn
+X-WR-RELCALID:8. trinn-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8. trinn ved Gimle oppv
+ eksttun skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:972084a27c21e44250cf29e0226b05546355c9b2@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Nasjonale prøver regning
+DESCRIPTION:Prøve / innlevering\nA: 09.30- 11.00 Spansk med Lisa: telle fr
+ a 0-15 + alfabetet s.11-12\nTirsdag\, uke 38\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFIng
+ _hinFCJqLm5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+END:VEVENT
+BEGIN:VEVENT
+UID:98b8e2e2f62ce3f1f272008627b89f0dc794dc93@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:🎒 Gym:
+DESCRIPTION:Husk å ta med\nKlasseromsøkt fordi hallen er opptatt. Dere tr
+ enger ikke gymtøy!\nTorsdag\, uke 38\nhttps://docs.google.com/document/d/
+ e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJ
+ qLm5KV4gjQJEqI/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+END:VEVENT
+BEGIN:VEVENT
+UID:9be3c69e04e789c159f3834e040d456976f41383@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Matematikk: Lekseboken skal leveres i leksekassen i klasseromm
+ et
+DESCRIPTION:Prøve / innlevering\nFransk: pugg uttaleregler Media og kommun
+ ikasjon: Trenger mobil til undervisning. Friluftsliv: Sørg for at du har 
+ svart på oppgåva de fekk førre fredag. Inneøkt: Rom 15. Fysisk aktivit
+ et og helse: Gymtøy - vi er inne i hallen.\nFredag\, uke 38\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4X
+ l4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2e630238ebe067250126c48715df4afee0184b@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Matematikk: Lekseboken skal leveres.
+DESCRIPTION:Prøve / innlevering\nFransk: pugg uttaleregler Media og kommun
+ ikasjon: Trenger mobil til undervisning. Friluftsliv: Sørg for at du har 
+ svart på oppgåva de fekk førre fredag. Inneøkt: Rom 15. Fysisk aktivit
+ et og helse: Gymtøy - vi er inne i hallen.\nFredag\, uke 38\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4X
+ l4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+END:VEVENT
+BEGIN:VEVENT
+UID:1444fd124987dae551a71ac480eeba1e6799c50f@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Matematikk: Gjør grønn eller rød løype i lekseboken. Du ka
+ n også gjøre noen oppgaver grønn og noen rød. Leveres innen fredag. Le
+ ksen finner du på classroom.
+DESCRIPTION:Prøve / innlevering\nKroppsøving\; innegym\nMandag\, uke 39\n
+ https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5
+ f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:c8cf39f16fa50524b0179c2d67cae9ae8ab16112@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Svømming:
+DESCRIPTION:Prøve / innlevering\nHusk badetøy\, badehette\, shampo/såpe 
+ og håndkle Matematikk: Gjør grønn eller rød løype i lekseboken. Du ka
+ n også gjøre noen oppgaver grønn og noen rød. Leveres innen fredag. Le
+ ksen finner du på classroom.\nMandag\, uke 39\nhttps://docs.google.com/do
+ cument/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFI
+ ng_hinFCJqLm5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:d908a4b812e078091d6fada3ffe695802ead7c5c@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 KRLE: Gjer ferdig arbeidet vi starta på i førre time.
+DESCRIPTION:Prøve / innlevering\nLese s. 47 - 53 i heftet. Sjå om du finn
+  omgrepa frå presentasjonen i heftet (s. 48 - 53). Gjer oppg. 1-5 og 7-9 
+ (s. 53) i heftet.\nOnsdag\, uke 39\nhttps://docs.google.com/document/d/e/2
+ PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm
+ 5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:1151c1cfded16d5c352000ba9ec903cb508150cb@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:🎒 Husk gymtøy!
+DESCRIPTION:Husk å ta med\nSpansk: - Fullfør lekseark som du får på tir
+ sdag (-Ar verb)\nTorsdag\, uke 39\nhttps://docs.google.com/document/d/e/2P
+ ACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5
+ KV4gjQJEqI/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:81c65c3a9d9a469d571c5d5fe5ee4ba3ae9156c4@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Norsk:
+DESCRIPTION:Prøve / innlevering\nRepeter substantiv ved å gjøre tildelt 
+ læringssti på Skolen min. Naturfag: Føre journal (leveres neste nat.tim
+ e)\nTorsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vRW_4mQF
+ bg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pu
+ b
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:ed417e938ab253b11f2b95443eb7ff7573a1e24e@gimle-arbeidsplan
+DTSTAMP:20260922T134231Z
+SUMMARY:📝 Matematikk: Lekseboken skal leveres i leksekassen i klasseromm
+ et.
+DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsRVu5f_3bXONwny4Xl4cJx5Eo3Jzd
+ FIng_hinFCJqLm5KV4gjQJEqI/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRW_4mQFbg2TdjG_DBLcVsgGxsR
+ Vu5f_3bXONwny4Xl4cJx5Eo3JzdFIng_hinFCJqLm5KV4gjQJEqI/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+END:VCALENDAR

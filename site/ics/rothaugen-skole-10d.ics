@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10D//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10D
+X-WR-RELCALID:10D-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10D ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:9a8f8454d753535dc1d4903d17fdf4e84f3f9385@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Amalie Toska Ottesen
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:0442de235579d674df36864755de02a37f4d3913@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Arild Borsheim
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -57,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5d0d59e03adfe5953bb3d8c8986148134913786e@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Avdelingsleder
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -71,7 +72,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:fac2a2dbe494ebbe3cd4849efc5091b254dfcc9f@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Bjørn Møller
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -85,7 +86,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:acc371d14fc7d256a1856db0bc5bd1e67e3809df@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Bruk Vigilo for kommunikasjon med kontaktlærerne.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -99,7 +100,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:c9b0b883f64c01fe6b13fbf021c702a06f6c8ffe@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Følg med på aktivitetskalenderen på Classroom. Her finner d
  u oversikt over hva som skjer de neste ukene.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -114,7 +115,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:ffce0a76064abc32cf94965c44a62703d31bff2a@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Gjert Hermansen
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -128,7 +129,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:8a7f0da24e9dccce780d73f714873d0d16737a00@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Kontaktlærere:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -142,7 +143,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:77785eedd3f45521a26a9baf5bf123e17fc760e5@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Kroppsøving: Møt opp 08.30 ved Sandvikstorget for felles bus
  savgang\, eller ved Stemmemyren 08.40.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -157,7 +158,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:317ef3f68ee6a74caa1551271871dfdb1c0387a5@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Lars: 40815793
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -171,7 +172,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:d5d6569b73076ef198379c9adc0939f4cccaf18e@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Linn: 40815748
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -185,7 +186,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:f758afa1131c4f5601921e87dfa8298bdf1d7f97@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:📌 Trenger du å snakke med en rådgiver? Send en melding til
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-Dqeyyd_
@@ -199,7 +200,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:fa022c21dea1f55afd828790ebad9d6737f5a637@gimle-arbeidsplan
-DTSTAMP:20260921T150245Z
+DTSTAMP:20260922T134226Z
 SUMMARY:🎒 Utegym\, kle deg etter været!
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vQO_U4wicBbg-2fhJDcxoKO1y3Eo643t1wtKz5Rn9Fp-

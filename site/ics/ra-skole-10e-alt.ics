@@ -1,0 +1,533 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10E//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10E
+X-WR-RELCALID:10E-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10E ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e4d40998a5ee1c874ee0c5ad277d672a9919de9d@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Nynorsk: Les om verb og adverb s. 116-117 i Norsk 10
+ . Substantiv må du kunne nå - test om substantiv i
+DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Nynorsk: Les om verb og adverb s. 116-117 i Nors
+ k 10. Substantiv må du kunne nå - test om substantiv i
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf3f0832fb2140a63887220e319f8e693bc6bc51@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📝 Nynorsk: Les om verb og adverb s. 116-117 i Norsk 10. Substant
+ iv må du kunne nå - test om substantiv i
+DESCRIPTION:Prøve / innlevering\nMandag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:c156f1b12f7cc23e56a0dad02dad6b622d87297c@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📝 Nynorsk
+DESCRIPTION:Prøve / innlevering\nen liten test Vi les ein tekst om korleis
+  vinne tilbake konsentrasjonen.\nMandag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T020900
+DTEND;TZID=Europe/Oslo:20260921T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:1a8a1939dae3c4b128703832e0e7413353666d70@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 39\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQ
+ QZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5413cd7d1e3ecb5cb1371eed67d6d4b6514a729a@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nTirsdag\, uke 39\nhttps://docs.google.com/docum
+ ent/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJ
+ gUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+END:VEVENT
+BEGIN:VEVENT
+UID:cef8c7e0d60ddc84c03a0db0c7af96c59c0be03b@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📝 Matematikk
+DESCRIPTION:Prøve / innlevering\nPrøve: Algebrastigen Fremdriftsplan i ma
+ tematikk 10E\nTirsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX
+ -1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy
+ 7v6OvVh/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T020900
+DTEND;TZID=Europe/Oslo:20260922T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:33ac0697351724bc791c47650ae8fa7d88d3b1a9@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nOnsdag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:77940a7a92c90a6c5112e76c6f68db802b6fce62@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nOnsdag\, uke 39\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJg
+ USvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:751d28a611c68dfb61852e4acf273e7cca833141@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:👥 Naturfag
+DESCRIPTION:Møte / arrangement\nFremdriftsplan i naturfag 10E Elevrådsmø
+ te\nOnsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vQCBpkj_2
+ WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T020900
+DTEND;TZID=Europe/Oslo:20260923T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:9f05b411e3efe4f86321ac3774adde50dcce5a9c@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 39\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQ
+ QZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d999dcc13a0ea5941788326a9c5de6734118ab23@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nTorsdag\, uke 39\nhttps://docs.google.com/docum
+ ent/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJ
+ gUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:a43fe253aef8f4ebd2c08ea3b6ac2d0477bd8a05@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22abc0c402c6daf64d4bb131377f609258914988@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nFredag\, uke 39\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJg
+ USvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+BEGIN:VEVENT
+UID:a758b2249cd18e0ec119b64e58704515424a2a20@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Nynorsk - repiter frå forrige time
+DESCRIPTION:Lekser\nHjemmearbeid\nMandag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Nynorsk - repiter frå forrige time
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc9ee3bd640a41d0b44f7d436de097750c486ea@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 40\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQ
+ QZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:251818873fee1bb2de48e34ee497728e94e97aff@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nTirsdag\, uke 40\nhttps://docs.google.com/docum
+ ent/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJ
+ gUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+END:VEVENT
+BEGIN:VEVENT
+UID:2c75bc937238a8e122300f0fc1284a938f149a95@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nOnsdag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bec69856397dfa394bbd9e7ec1d6847aa89e2c5d@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nOnsdag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJg
+ USvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+END:VEVENT
+BEGIN:VEVENT
+UID:391a187c7ee24eaa37790d491b3d3765d889d31f@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:👥 Samfunnsfag
+DESCRIPTION:Møte / arrangement\nlesekvart Gruppefotografering: 10.35\nOnsd
+ ag\, uke 40\nhttps://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0L
+ kqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260930T031000
+DTEND;TZID=Europe/Oslo:20260930T113500
+END:VEVENT
+BEGIN:VEVENT
+UID:9bee6e91587c6764de0b307e2a52b5ead33caafa@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📝 Musikk
+DESCRIPTION:Prøve / innlevering\nGitar Frist for innlevering av video “B
+ lues for Cathrine” + egenvurdering Årsplan\nOnsdag\, uke 40\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUt
+ jdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260930T041200
+DTEND;TZID=Europe/Oslo:20260930T131500
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9d8083c82c6e392a0ab4b0bdaeb35019ac512b@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 40\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQ
+ QZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ec91d88fb58d98aeb9373b17f0a5aed45dbff83d@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nTorsdag\, uke 40\nhttps://docs.google.com/docum
+ ent/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJ
+ gUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+END:VEVENT
+BEGIN:VEVENT
+UID:34e26c0a381e1b13bbfa9b576aa2f62f09c39bd3@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Sjekk listen over som handler om hva du kan gjøre f
+ or å utvikle deg faglig.
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 40\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Sjekk listen over som handler om hva du kan gjø
+ re for å utvikle deg faglig.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31c381cd89887365974e9282efd6359d24390582@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:🎒 Sjekk listen over som handler om hva du kan gjøre for å utvi
+ kle deg faglig.
+DESCRIPTION:Husk å ta med\nFredag\, uke 40\nhttps://docs.google.com/docume
+ nt/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJg
+ USvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+END:VEVENT
+BEGIN:VEVENT
+UID:0538c5bae90a37131a4b6608ba8f8cdb7157d705@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📝 Norsk
+DESCRIPTION:Prøve / innlevering\nLesekvart Skriftlig oppgave - skal levere
+ s inn i dag - innen kl. 17.00\nFredag\, uke 40\nhttps://docs.google.com/do
+ cument/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZe
+ sXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261002T020900
+DTEND;TZID=Europe/Oslo:20261002T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:0b3f9385a9d416d3f21e878cc1eaa60e6fc29965@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – .
+DESCRIPTION:Lekser\nHjemmearbeid\nOnsdag\, uke 42\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – .
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8713f952c66bf713f643a4a28224694096b5c273@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:👥 Samfunnsfag
+DESCRIPTION:Møte / arrangement\nlesekvart Gruppefotografering: 10.35\nOnsd
+ ag\, uke 42\nhttps://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0L
+ kqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261014T031000
+DTEND;TZID=Europe/Oslo:20261014T113500
+END:VEVENT
+BEGIN:VEVENT
+UID:13b976696cbb5cc532ffe9608010405cb2c2d2d7@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Norsk: gjør ferdig arbeidet fra forrige timen
+DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 42\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQ
+ QZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: gjør ferdig arbeidet fra forrige timen
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e40d9ce48ae4efcdc42c7bda664a088f81dd8b79@gimle-arbeidsplan
+DTSTAMP:20260922T134134Z
+SUMMARY:📚 Lekse – Norsk: gjør ferdig arbeidet fra forrige timen
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 42\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xkyw5aHCK4gmLmUtjdnl54yzFhoBQQ
+ ZesXJgUSvGtkzYQPPy7v6OvVh/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQCBpkj_2WTCWpb0Lkqzvq24Xky
+ w5aHCK4gmLmUtjdnl54yzFhoBQQZesXJgUSvGtkzYQPPy7v6OvVh/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: gjør ferdig arbeidet fra forrige timen
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8B//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8B
+X-WR-RELCALID:8B-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8B ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a7285eab57b97ee11e54b9414026ffa91e92f47b@gimle-arbeidsplan
+DTSTAMP:20260922T134031Z
+SUMMARY:📌 - Chromebook: denne skal du lade hjemme. Gjør det til en vane
+  at du setter den til lading på ettermiddagen (ikke over natten).
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6DKai9Dh2s1Po8yTZSYHyh9SI
+ Mu3cuqw_z5kLNirrYfyr97oE1UXq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6
+ DKai9Dh2s1Po8yTZSYHyh9SIMu3cuqw_z5kLNirrYfyr97oE1UXq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:2d30897724161ebc41f32eac087b95c088e1d671@gimle-arbeidsplan
+DTSTAMP:20260922T134031Z
+SUMMARY:📌 - Mobiler samles inn ved skolestart.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6DKai9Dh2s1Po8yTZSYHyh9SI
+ Mu3cuqw_z5kLNirrYfyr97oE1UXq/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6
+ DKai9Dh2s1Po8yTZSYHyh9SIMu3cuqw_z5kLNirrYfyr97oE1UXq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e33dbfed50eb48919feb74a9c020da9e3db10e@gimle-arbeidsplan
+DTSTAMP:20260922T134031Z
+SUMMARY:📝 Prøve i KRLE på torsdag.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6DKai9Dh2s1P
+ o8yTZSYHyh9SIMu3cuqw_z5kLNirrYfyr97oE1UXq/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vS8RsxHavELkrUqJ9f9NTz29cC6
+ DKai9Dh2s1Po8yTZSYHyh9SIMu3cuqw_z5kLNirrYfyr97oE1UXq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

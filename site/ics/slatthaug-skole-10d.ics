@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10D//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10D
+X-WR-RELCALID:10D-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10D ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3e3cd44f0b7f6d3ec932e515cef2c5c52d028591@gimle-arbeidsplan
-DTSTAMP:20260921T150259Z
+DTSTAMP:20260922T134239Z
 SUMMARY:📝 Her er lenke til (Prøve)plan 10D og div Ordenselever: Iben og
   Ailo
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://

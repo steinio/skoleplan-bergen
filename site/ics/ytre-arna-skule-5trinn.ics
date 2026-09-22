@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//5. trinn//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 5. trinn
+X-WR-RELCALID:5. trinn-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 5. trinn ved Gimle oppv
  eksttun skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:673e82409be68ac4f81166cb076f706699635816@gimle-arbeidsplan
-DTSTAMP:20260921T150606Z
+DTSTAMP:20260922T134527Z
 SUMMARY:📚 Lekse – Engelsk: Øv på glosene-test fredag
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
  d/e/2PACX-1vRm3_UvIQIsqtjIjizdjqiZS0XXt9uNkADKn20pNHzvVb55jfTQPBiWtwcpt4kH
@@ -48,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c7b2060f512725e8af2dbe9e896e1be8a971b719@gimle-arbeidsplan
-DTSTAMP:20260921T150606Z
+DTSTAMP:20260922T134527Z
 SUMMARY:📚 Lekse – Husk leksehjelp mandag og onsdag fra 13: 45-14:30 
  😀
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
@@ -69,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5fd367dc1e471ea3b794290d29bc406dcb0a09f4@gimle-arbeidsplan
-DTSTAMP:20260921T150606Z
+DTSTAMP:20260922T134527Z
 SUMMARY:📚 Lekse – Matte: Arbeidsark med klokken
 DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
  d/e/2PACX-1vRm3_UvIQIsqtjIjizdjqiZS0XXt9uNkADKn20pNHzvVb55jfTQPBiWtwcpt4kH

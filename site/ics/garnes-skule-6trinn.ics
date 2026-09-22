@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//6. trinn//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 6. trinn
+X-WR-RELCALID:6. trinn-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 6. trinn ved Gimle oppv
  eksttun skole
@@ -28,41 +29,71 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d4a96d31242aa030da1783cbc250487899275a21@gimle-arbeidsplan
-DTSTAMP:20260921T145959Z
-SUMMARY:📚 Lekse – English: Gjer oppgåvene på arket.
-DESCRIPTION:Lekser\nHjemmearbeid\nUke 38\nhttps://docs.google.com/document/
+UID:789f5928794fa7421afc66646036dd032351f2be@gimle-arbeidsplan
+DTSTAMP:20260922T133950Z
+SUMMARY:📚 Lekse – Matematikk: Ark. To sider
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
  d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3HBnocG422AjOxRjNPNefaymU77LS5lKkx3HTD
  ccAOYzZY8Bmz57Gq/pub
 CATEGORIES:Lekser
 URL:https://docs.google.com/document/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3H
  BnocG422AjOxRjNPNefaymU77LS5lKkx3HTDccAOYzZY8Bmz57Gq/pub
 TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:📚 Lekse – English: Gjer oppgåvene på arket.
+DESCRIPTION:📚 Lekse – Matematikk: Ark. To sider
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a66c930a696d72cbd1a1e537e935658847299c46@gimle-arbeidsplan
-DTSTAMP:20260921T145959Z
-SUMMARY:📚 Lekse – Norsk: Les 15 minutt kvar dag. Skriv leselogg.
-DESCRIPTION:Lekser\nHjemmearbeid\nUke 38\nhttps://docs.google.com/document/
+UID:31157da26c70000ed406cfc65083c01391e3815d@gimle-arbeidsplan
+DTSTAMP:20260922T133950Z
+SUMMARY:👥 Musikk: Øving til songsamling.
+DESCRIPTION:Møte / arrangement\nOnsdag\, uke 39\nhttps://docs.google.com/d
+ ocument/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3HBnocG422AjOxRjNPNefaymU77LS5
+ lKkx3HTDccAOYzZY8Bmz57Gq/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3H
+ BnocG422AjOxRjNPNefaymU77LS5lKkx3HTDccAOYzZY8Bmz57Gq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:53a5b71643d38ed2e9943f06640f39e27d6dfcbf@gimle-arbeidsplan
+DTSTAMP:20260922T133950Z
+SUMMARY:📚 Lekse – Norsk: Leselogg. Les minst 15 minutt frå måndag ti
+ l torsdag
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
  d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3HBnocG422AjOxRjNPNefaymU77LS5lKkx3HTD
  ccAOYzZY8Bmz57Gq/pub
 CATEGORIES:Lekser
 URL:https://docs.google.com/document/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3H
  BnocG422AjOxRjNPNefaymU77LS5lKkx3HTDccAOYzZY8Bmz57Gq/pub
 TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:📚 Lekse – Norsk: Les 15 minutt kvar dag. Skriv leselogg.
+DESCRIPTION:📚 Lekse – Norsk: Leselogg. Les minst 15 minutt frå månda
+ g til torsdag
 TRIGGER:-PT15H
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb780af364b9ae21a5fb90ada9d1a2b079d32912@gimle-arbeidsplan
+DTSTAMP:20260922T133950Z
+SUMMARY:👥 Lesekvart
+DESCRIPTION:Møte / arrangement\nØving til songsamling.\nTorsdag\, uke 39\
+ nhttps://docs.google.com/document/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3HBn
+ ocG422AjOxRjNPNefaymU77LS5lKkx3HTDccAOYzZY8Bmz57Gq/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTZPMLqvZm6IyMb4HmhM_MoZm3H
+ BnocG422AjOxRjNPNefaymU77LS5lKkx3HTDccAOYzZY8Bmz57Gq/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
 END:VEVENT
 END:VCALENDAR

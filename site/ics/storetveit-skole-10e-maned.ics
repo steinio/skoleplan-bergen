@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10E//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10E
+X-WR-RELCALID:10E-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10E ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5d719efd889638a976c27c2e24dc5957300ecfa2@gimle-arbeidsplan
+DTSTAMP:20260922T134420Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:f2fbc5d537399f3fcbe641873a72570e2024fd17@gimle-arbeidsplan
+DTSTAMP:20260922T134420Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9a938e33549f383e0a2f4991f169828d7b6ca4@gimle-arbeidsplan
+DTSTAMP:20260922T134420Z
+SUMMARY:📌 Elevene som har vært på Aktivane-kurset må passe på at de 
+ har fått gjort det vi gjorde på skolen disse dagene.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:d164f88087ce21e7aa5e22e0c4d6b92eae69f827@gimle-arbeidsplan
+DTSTAMP:20260922T134420Z
+SUMMARY:📝 De jentene som er med på fagdag om jenter og teknologi på to
+ rsdag 23. må selv passe på at de tar igjen skolearbeidet de går glipp a
+ v den dagen. Sjekk presentasjoner i norsk\, engelsk (og les kap 8) og natu
+ rfag.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 43\nhttps://
+ docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn
+ 0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:d16ffb8f747df4871db39cc29ff04dae66c8936e@gimle-arbeidsplan
+DTSTAMP:20260922T134420Z
+SUMMARY:📌 Merk fagdag i samfunnsfag på onsdag. Mer informasjon finner d
+ u i Classroom samfunnsfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK0l5e2bRrcUn0GYdN9vVztjvA
+ yaVgWizicRtPUlfMjJluwFop3Bh5/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRprMtjsOhqVxhPtSgXhJ9b0xwK
+ 0l5e2bRrcUn0GYdN9vVztjvAyaVgWizicRtPUlfMjJluwFop3Bh5/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+END:VCALENDAR

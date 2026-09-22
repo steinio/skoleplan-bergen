@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10C//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10C
+X-WR-RELCALID:10C-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10C ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c5c925ef05f62d01c3f9c3b4e820052f157764ec@gimle-arbeidsplan
-DTSTAMP:20260921T150257Z
+DTSTAMP:20260922T134238Z
 SUMMARY:📝 10C prøveplan 26/27
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
  docs.google.com/document/d/e/2PACX-1vRsKrZsUOF0bp7nSFNWeWskYN2ih68Jn0IWX6u
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:17dc3d7c272cb15679a6985cafbf11b3bac95d05@gimle-arbeidsplan
-DTSTAMP:20260921T150257Z
+DTSTAMP:20260922T134238Z
 SUMMARY:🚌 Aktivitetsdag ute fredag etter lunsj*
 DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 39\nhttps://docs
  .google.com/document/d/e/2PACX-1vRsKrZsUOF0bp7nSFNWeWskYN2ih68Jn0IWX6uRyPu
@@ -57,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:9d7d0e455792329f73e1748e24ec8361e2219386@gimle-arbeidsplan
-DTSTAMP:20260921T150257Z
+DTSTAMP:20260922T134238Z
 SUMMARY:🎒 Husk svømmetøy + gymtøy de neste ukene
 DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
  oogle.com/document/d/e/2PACX-1vRsKrZsUOF0bp7nSFNWeWskYN2ih68Jn0IWX6uRyPuRf

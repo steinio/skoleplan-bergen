@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8B//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8B
+X-WR-RELCALID:8B-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8B ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4d05dcd2dea5ebb607b560bda18934d11b7c5206@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📝 Matte
+DESCRIPTION:Prøve / innlevering\n1C primtall og faktorisering + utdeling a
+ v innleveringsoppgave om regnestrategier\nMandag\, uke 39\nhttps://docs.go
+ ogle.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbb
+ zFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T132500
+DTEND;TZID=Europe/Oslo:20260921T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:d9340b05446590e2a50b7425f8da8a0dc346704d@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📚 Lekse – Samfunnsfag - oppgaver dere skal gjøre hjemme ligge
+ r på: Fremdriftsplan samfunnsfag
+DESCRIPTION:Lekser\nHjemmearbeid\nTorsdag\, uke 39\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEi
+ WYTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag - oppgaver dere skal gjøre hjemme l
+ igger på: Fremdriftsplan samfunnsfag
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1b24d8c2d74a77adb8b673db413549fe318ccc3c@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📚 Lekse – Innleveringsoppgave i matematikk
+DESCRIPTION:Lekser\nHjemmearbeid\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEiW
+ YTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Innleveringsoppgave i matematikk
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe33967f62da67b82caa4ea0dbe493e115cebe8@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📝 Innleveringsoppgave i matematikk
+DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEiW
+ YTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe7985a0ae7a2c4ff2d72aa72164fae24eb2860@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📝 Matte
+DESCRIPTION:Prøve / innlevering\n1C primtall og faktorisering / 1D negativ
+ e tall + innlevering av oppgave om regnestrategier\nFredag\, uke 39\nhttps
+ ://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHt
+ ASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T103500
+DTEND;TZID=Europe/Oslo:20260925T113500
+END:VEVENT
+BEGIN:VEVENT
+UID:e2bf70c7c39f466c9af83b04016e0994b8a88997@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📚 Lekse – -Øv på fokusordFocus words
+DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 40\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEi
+ WYTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – -Øv på fokusordFocus words
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e65a2bdb3d350d530db4a1eab2af8de1a4d2f4c@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📚 Lekse – Gloseprøve engelsk
+DESCRIPTION:Lekser\nHjemmearbeid\nTirsdag\, uke 40\nhttps://docs.google.com
+ /document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQkz6DHlHtASBVanNKbbzFNppOEi
+ WYTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Gloseprøve engelsk
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c471865994f5598597340627d11e8eaaaf5270a1@gimle-arbeidsplan
+DTSTAMP:20260922T134051Z
+SUMMARY:📝 Gloseprøve engelsk
+DESCRIPTION:Prøve / innlevering\n-Øv på fokusordFocus words\nTirsdag\, u
+ ke 40\nhttps://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvq
+ QKiQkz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQKk9hI3-yKTCghKyscGWvqQKiQ
+ kz6DHlHtASBVanNKbbzFNppOEiWYTy9revFUQD9MxguOLxLfNf_W/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+END:VEVENT
+END:VCALENDAR

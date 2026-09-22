@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10B//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10B
+X-WR-RELCALID:10B-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10B ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:34d7323c4aaac5a86815bdfb9226a59d45b23a58@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📌 Kristin A er på kurs på mandag\, og Ingrid er på kurs freda
+ g.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJRITcuT3Mr
+ 96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:05ebea91d4372fd60d6ddedcf5a33e24cb040b50@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJRITcuT3Mr
+ 96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca0f073185ba0a68a49cff600ecfb84780a20bb@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📝 NB! KRLE må være ferdig til å presentere neste uke
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoH
+ dQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb1d41eaf4e61a00a90dc85cdb2f9671e0aa05e@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:🏖️ Høstferie neste uke :)
+DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 40\nhttps://docs
+ .google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJ
+ RITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:7d22d40a9518382d66b653c72d18c4e529b165e5@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJRITcuT3Mr
+ 96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc08f63902b9fc64df4db86a6c4f445dd6b458c@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:👥 Denne og neste uke er det utviklingssamtaler. Se innkalling i 
+ Vigilo.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 42\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHd
+ QQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:927da9a13850f6b6b879b8bd37133504c8b38128@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📝 Husk fagdag i samfunnsfag på onsdag. Informasjon er sendt ut 
+ på Vigilo og på samfunnsfags-Classroom. Sjekk oppmøtested og -tidspunkt
+ . Gi beskjed om du møter på skolen i stedet for oppgitt sted.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 42\nhttps://
+ docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoH
+ dQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:6be7185e4c7d4eacd97ef90c5913e39f692cd8f7@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:👥 Ingrid er på studiesamling torsdag og fredag. Svarer på Vigi
+ lo ved anledning.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 42\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHd
+ QQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:87fb83cb9a60a8bfb6a91a7d4ec93b47ac8a54ef@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📌 Studenter i samfunnsfag og naturfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJRITcuT3Mr
+ 96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:38b8f27574fa90d7696d55e4e6cf79a7c299eccd@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📝 Eleven må gjøre ferdig presentasjonen sin før samtalen.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 43\nhttps://
+ docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoH
+ dQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:2481ca741507eda33448a037df82320589ad855b@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:👥 Husk påmelding til utviklingssamtaler sendt i Vigilo.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 43\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHd
+ QQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:261b468fb1ea0f53d67a0715533cbf471566a027@gimle-arbeidsplan
+DTSTAMP:20260922T134340Z
+SUMMARY:📌 Studenter i samfunnsfag og naturfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO2FlN2xgWMoHdQQJRITcuT3Mr
+ 96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSy0M-leI1oyrZV-4-80RyorxcO
+ 2FlN2xgWMoHdQQJRITcuT3Mr96vDQNp1qrYetXoHVeFXxiaMcKp1/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+END:VCALENDAR

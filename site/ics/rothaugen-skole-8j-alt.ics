@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8J//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8J
+X-WR-RELCALID:8J-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8J ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6de0f9ade5af61de8f2abe5a492774fa22bd60ec@gimle-arbeidsplan
+DTSTAMP:20260922T134210Z
+SUMMARY:📌 Avdelingsleder:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5E
+ lSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQ
+ OdrMV75KKhfU-LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:6a755ba862d46ca27dc7f1b85c8bae66aca01a72@gimle-arbeidsplan
+DTSTAMP:20260922T134210Z
+SUMMARY:📌 Eivind og Tara - send oss melding i Vigilo hvis det skulle væ
+ re noe
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5E
+ lSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQ
+ OdrMV75KKhfU-LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:1e93e09ff45cd2d1b9a7d3402e461a0d91ffd217@gimle-arbeidsplan
+DTSTAMP:20260922T134210Z
+SUMMARY:📌 Kontaktlærerer:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5E
+ lSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQ
+ OdrMV75KKhfU-LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5b3f66432d88877d40c6ea4cc9728f57de6892@gimle-arbeidsplan
+DTSTAMP:20260922T134210Z
+SUMMARY:📌 Kristin Barca Hjetland - kan kontaktes på e-post eller i Vigi
+ lo
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU-LbMqsY2R_5E
+ lSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQ
+ OdrMV75KKhfU-LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+END:VEVENT
+BEGIN:VEVENT
+UID:c7598c3a530b4c8727663258f650587ea051fb75@gimle-arbeidsplan
+DTSTAMP:20260922T134210Z
+SUMMARY:👥 Foreldremøte onsdag 17-19. Først for hele trinnet\, så for 
+ klassene.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQOdrMV75KKhfU
+ -LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTmIRo_HF1e7-vzPTU3YZPajsuQ
+ OdrMV75KKhfU-LbMqsY2R_5ElSYP6yeRRDb03wc0ib_gKdaf7vuC/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10B//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10B
+X-WR-RELCALID:10B-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10B ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bc9f17db8170abbadd90df71343ac518bc28c456@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:📝 NATURFAG
 DESCRIPTION:Prøve / innlevering\n10B: undervisning i naturfag Frist for in
  nlevering av rapport kl. 18.00\nTirsdag\, uke 39\nhttps://docs.google.com/
@@ -44,7 +45,7 @@ DTEND;TZID=Europe/Oslo:20260922T102500
 END:VEVENT
 BEGIN:VEVENT
 UID:d0be53ddbee836142badf58ce11c3babe944b245@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:📝 MATEMATIKK
 DESCRIPTION:Prøve / innlevering\nMatteprøve Fremdriftsplan - 10B\nTirsdag
  \, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6
@@ -58,7 +59,7 @@ DTEND;TZID=Europe/Oslo:20260922T113500
 END:VEVENT
 BEGIN:VEVENT
 UID:e12a8801f812be170618aa415747aabfa6916fb6@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:🏖️ Høstferie
 DESCRIPTION:Fri / ikke skole\nMandag\, uke 41\nhttps://docs.google.com/docu
  ment/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6ez5bDVWOB2fRfeFApenYbfOJXzfgxj9RdNAPpWj
@@ -72,7 +73,7 @@ DTEND;TZID=Europe/Oslo:20261005T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:14180e69407287e16c09d1608dadfbcfd64948f2@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:🏖️ Høstferie
 DESCRIPTION:Fri / ikke skole\nTirsdag\, uke 41\nhttps://docs.google.com/doc
  ument/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6ez5bDVWOB2fRfeFApenYbfOJXzfgxj9RdNAPpW
@@ -86,7 +87,7 @@ DTEND;TZID=Europe/Oslo:20261006T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:996a03c4e8090167a61ef7c2fe90b9ff3f37c67b@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:🏖️ Høstferie
 DESCRIPTION:Fri / ikke skole\nOnsdag\, uke 41\nhttps://docs.google.com/docu
  ment/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6ez5bDVWOB2fRfeFApenYbfOJXzfgxj9RdNAPpWj
@@ -100,7 +101,7 @@ DTEND;TZID=Europe/Oslo:20261007T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:2f1e58cd78b29abfa3a8014416c520d5f2c3c2ac@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:🏖️ Høstferie
 DESCRIPTION:Fri / ikke skole\nTorsdag\, uke 41\nhttps://docs.google.com/doc
  ument/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6ez5bDVWOB2fRfeFApenYbfOJXzfgxj9RdNAPpW
@@ -114,7 +115,7 @@ DTEND;TZID=Europe/Oslo:20261008T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:cded93645626adafde42073e2412123f3533b0bd@gimle-arbeidsplan
-DTSTAMP:20260921T150139Z
+DTSTAMP:20260922T134124Z
 SUMMARY:🏖️ Høstferie
 DESCRIPTION:Fri / ikke skole\nFredag\, uke 41\nhttps://docs.google.com/docu
  ment/d/e/2PACX-1vR-7Os3a-YDyFxG1Aq6ez5bDVWOB2fRfeFApenYbfOJXzfgxj9RdNAPpWj

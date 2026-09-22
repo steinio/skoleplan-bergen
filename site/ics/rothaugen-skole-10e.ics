@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10E//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10E
+X-WR-RELCALID:10E-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10E ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:d3572a6963641e57a6ccec1cd340d79d3a1f7590@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Bjørn (avdelingsleder): Bjorn.Moller@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:859230b6deadb0aa3b4ec4b3ec298adc55324123@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📝 De som ikke har hatt prøven i matematikk - algebrastigen\, sk
  al ha prøven på mandag i 3. time.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
@@ -58,7 +59,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:93fd71e69c8c39726f5b1083840b265257297b05@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Engelsk - Ronnie Eckholm
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -72,7 +73,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:e139c35cd7b7d921016c0b2d1bd550f15a5a6e2a@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Faglærere:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -86,7 +87,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:6d4465f6f8148462b2aad0b2ebf9777f5f187643@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:🏖️ I matematikk trenger dere ikke å ta med Matemagisk 10 før
   etter høstferien.
 DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 39\nhttps://docs
@@ -101,7 +102,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:45f9417d7667ad624d4f6c7fb8100a7777529a24@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Ingrid Kristin Jacobsen
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -115,7 +116,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:216703c5b736ce116cddb3121ae74d981205e833@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Ingrid.Jacobsen2@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -129,7 +130,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:e7a26566c4c318e35f537fa1af7038ef6538b90d@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Jonas (kontaktlærer): Jonas.Brandsoy@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -143,7 +144,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:40b54d9db600faaafa39b8051d8953ecd7264203@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 KRLE - Susanne Tveiten
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -157,7 +158,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:6b9438e0b3255ea27ab5c18ea533898072a2c72a@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Kontakt gjerne kontaktlærere i Vigilo.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -171,7 +172,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:d8ebed1b1772c807bddbfc46a1ccc5847d493801@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Kroppsøving - Emma Hovet Velle
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -185,7 +186,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:4943f7ccf136d689b2da2b99fb2953f049fe294e@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Kunst og håndverk - Birthe Duesund Nilsen og Kjetil Grimsby H
  aarr
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -200,7 +201,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:23440b42f517cb3545090bb55b50177c68d119b6@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Lars: 40815793
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -214,7 +215,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:c2b91e353e8e3e7cbac0bdfa88fea24c9644c4f5@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Linn: 40815748
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -228,7 +229,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:c98db9d88abdb65abb61a5703d1203d6b47c9be5@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Matematikk - Jonas Andre Brandsøy
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -242,7 +243,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:3b259645a159efa1ba28da459c95433e6327d32f@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Musikk - Sondre Falkeid og Adrian Talleraas
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -256,7 +257,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:62cde4926040067dc66cef723c9f16ed016cbd8d@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 NB! Kontakt med faglærere foregår kun via Vigilo.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -270,7 +271,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:127d38c16be0bc93fb07be624215aa630cdceed1@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Naturfag - Jonas Andre Brandsøy
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -284,7 +285,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:92ea27b04c14a742d4d71907f954a55466cafa6a@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Norsk - Ingrid Kristin Jacobsen
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -298,7 +299,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:c94106185acabadd02d2026dd08941c6a0e95202@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Ronnie (kontaktlærer): Ronnie.Eckholm@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -312,7 +313,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:3e6accd0c2f478aa25ee231bba16cb7c650298b8@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Samfunnsfag - Ronnie Echolm
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -326,7 +327,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:2bb42c6272d0b130c5d95d774186840da41147bf@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Susanne (kontaktlærer): Susanne.Tveiten@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -340,7 +341,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:65e8ac7f8368a68b668bb87694894e1a988a7393@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Tilvalgsfag - kontakt kontaktlærer eller avdelingsleder for i
  nformasjon
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -355,7 +356,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:20c6f364153938054dae7ad51b010d487eb570f8@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Trenger du å snakke med en rådgiver? Send en melding til:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTXcp-UVgJW-a6efT33epOmVJX20MZ9jjnIJdz-LHUMeDBEH2Dp
@@ -369,7 +370,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:4543041c7fc068c5b942aabb8f389fac0cb7659e@gimle-arbeidsplan
-DTSTAMP:20260921T150246Z
+DTSTAMP:20260922T134227Z
 SUMMARY:📌 Valgfag - kontakt kontaktlærer eller avdelingsleder for infor
  masjon
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c

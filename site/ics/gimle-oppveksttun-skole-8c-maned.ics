@@ -1,0 +1,520 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8C//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8C
+X-WR-RELCALID:8C-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8C ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f11608a4ccf78515b2b9584882129a8b45eeaf98@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📝 Samfunnsfag
+DESCRIPTION:Prøve / innlevering\nTema: Hvem påvirker deg? Roller\nTirsdag
+ \, uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3
+ Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260915T094000
+DTEND;TZID=Europe/Oslo:20260915T104000
+END:VEVENT
+BEGIN:VEVENT
+UID:8fafce63583a8fdc17fbd9e78b95d3eb000a8b71@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Samfunnsfag: Liten begrepstest Øv deg godt på begr
+ epene vi har jobbet med .
+DESCRIPTION:Lekser\nTema: Hvem påvirker deg? Roller\nTirsdag\, uke 38\nhtt
+ ps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8
+ mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260915T094000
+DTEND;TZID=Europe/Oslo:20260915T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Liten begrepstest Øv deg godt på 
+ begrepene vi har jobbet med .
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c59dace4ef429b583c7e7067ea4f30c85256d28b@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nLesehalvtime: Vi starter å lese boken “Freaks” Tem
+ a: Vi leser et siste debattinnlegg og snakker om teksten i grupper og i pl
+ enum.\nTirsdag\, uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt
+ 1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE
+ /pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260915T111000
+DTEND;TZID=Europe/Oslo:20260915T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4aaed409b007cfcf5285bd859f024f54cb47c33a@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Matte: Lekse:
+DESCRIPTION:Lekser\nTema: Desimaltall\nTirsdag\, uke 38\nhttps://docs.googl
+ e.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QT
+ w5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260915T122000
+DTEND;TZID=Europe/Oslo:20260915T140000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:828e81201633bbcd4bbfe1703bfd923c4d4e23c8@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📝 Nasjonal prøve regning
+DESCRIPTION:Prøve / innlevering\nOnsdag\, uke 38\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20F
+ jSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260916T080000
+DTEND;TZID=Europe/Oslo:20260916T093000
+END:VEVENT
+BEGIN:VEVENT
+UID:9f714f5ab86ec071bb9210e5325ef3dbdb8c3294@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Engelsk: Lekse: Brannøvelse klokken 10:00
+DESCRIPTION:Lekser\nTema: Becoming a teenager\nOnsdag\, uke 38\nhttps://doc
+ s.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8
+ yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260916T094000
+DTEND;TZID=Europe/Oslo:20260916T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse: Brannøvelse klokken 10:00
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4aec0646577f959ad366b3665d35cb8aa14e82a2@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📝 KRLE
+DESCRIPTION:Prøve / innlevering\nTema: protestantiske\, katolske og ortodo
+ kse kirker.\nTorsdag\, uke 38\nhttps://docs.google.com/document/d/e/2PACX-
+ 1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGH
+ cCIrjE/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260917T111000
+DTEND;TZID=Europe/Oslo:20260917T121000
+END:VEVENT
+BEGIN:VEVENT
+UID:23b85bb6892548c87ece5757525de9461c668893@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – KRLE: les s 48-54
+DESCRIPTION:Lekser\nTema: protestantiske\, katolske og ortodokse kirker.\nT
+ orsdag\, uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqg
+ VGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260917T111000
+DTEND;TZID=Europe/Oslo:20260917T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – KRLE: les s 48-54
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b93a8572ce1277663b9975d57fbdf0b5e10de832@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Norsk: Ha bestemt deg for hva du vil skrive debattin
+ nlegg om. Vi starter skrivingen i dag.
+DESCRIPTION:Lekser\nTema: Vi skriver vårt eget debattinnlegg\nFredag\, uke
+  38\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nb
+ sKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260918T111000
+DTEND;TZID=Europe/Oslo:20260918T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Ha bestemt deg for hva du vil skrive deba
+ ttinnlegg om. Vi starter skrivingen i dag.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c3f553c3574ed4c10dc512d5ed1561304f1f55@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema: Roller\nFredag\, uke 38\nhttps://docs.google.com/
+ document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20F
+ jSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260918T122000
+DTEND;TZID=Europe/Oslo:20260918T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8b2812d1fde5254fc30a367fe501ebeec28c3b84@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📝 KRLE
+DESCRIPTION:Prøve / innlevering\nTema: protestantiske\, katolske og ortodo
+ kse kirker.\nFredag\, uke 38\nhttps://docs.google.com/document/d/e/2PACX-1
+ vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHc
+ CIrjE/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260918T133000
+DTEND;TZID=Europe/Oslo:20260918T140000
+END:VEVENT
+BEGIN:VEVENT
+UID:e097c1c380b346088ba05e05c2ecbf718951110f@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:🎒 Husk opplaget chromebook
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9
+ A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:19a14389654dff56b3196263794f74d75ec77c8a@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nTema: Lesehalvtime\, vi leser videre i boken “Freaks
+ ”. Etterpå skriver vi leselogg. Vi fortsetter på debattinnlegget vårt
+ \nMandag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdk
+ qgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T090000
+DTEND;TZID=Europe/Oslo:20260921T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d06ad68a58d56eee37cce54a00156293c9cc0f5@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Naturfag: Lekse:
+DESCRIPTION:Lekser\nTema: Vi skal se ferdig filmen Nedbrytere\nMandag\, uke
+  39\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nb
+ sKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T122000
+DTEND;TZID=Europe/Oslo:20260921T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Naturfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12aebb5fe3e49ca044ec2d8f4e6784030435db7e@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema: Kamp for rettigheter\nTirsdag\, uke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1Cz
+ V8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T094000
+DTEND;TZID=Europe/Oslo:20260922T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfafeee1b58f133f491f0e8974274d48be38951@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nTema: Vi skriver videre på debattinnlegget\nTirsdag\, 
+ uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl
+ 8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T111000
+DTEND;TZID=Europe/Oslo:20260922T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20a0c1c7ce45d09973237a9e8a3ed540dd293c62@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Matte: Oppgave 1.159 og 1.160 på side 33 i oppgaveb
+ oken
+DESCRIPTION:Lekser\nTema: UNDERVEISVURDERING Desimaltall\nTirsdag\, uke 39\
+ nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU
+ 6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T122000
+DTEND;TZID=Europe/Oslo:20260922T140000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Oppgave 1.159 og 1.160 på side 33 i oppg
+ aveboken
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3f55f4e38b84fe494dd107e70f008adb6fc8be7b@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Matte: 1.171\, 1.172 og 1.174 på side 37 og 38 i op
+ pgaveboken
+DESCRIPTION:Lekser\nTema: Sammensatte målenheter\nOnsdag\, uke 39\nhttps:/
+ /docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1
+ CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T080000
+DTEND;TZID=Europe/Oslo:20260923T093000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: 1.171\, 1.172 og 1.174 på side 37 og 38 
+ i oppgaveboken
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4510e10759a78b25c1ecf4722554a91771d96d2@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Engelsk: Lekse:
+DESCRIPTION:Lekser\nTema: Dear Diary\nOnsdag\, uke 39\nhttps://docs.google.
+ com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5
+ _20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T094000
+DTEND;TZID=Europe/Oslo:20260923T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13ff7ec40d00ade0e0010242ac0f13d055d395fb@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – KRLE: les s. 24-26 om reformasjonen hjemmeoppdrag be
+ søk en kirke
+DESCRIPTION:Lekser\nTema: kriker\nTorsdag\, uke 39\nhttps://docs.google.com
+ /document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20
+ FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T111000
+DTEND;TZID=Europe/Oslo:20260924T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – KRLE: les s. 24-26 om reformasjonen hjemmeoppdra
+ g besøk en kirke
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24105ba771235071950bd78d619a3dbddbf60353@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Engelsk: Lekse:
+DESCRIPTION:Lekser\nTema: Dear Diary\nFredag\, uke 39\nhttps://docs.google.
+ com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5
+ _20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T083000
+DTEND;TZID=Europe/Oslo:20260925T093000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb7692b3c38ad7cd6ae7dcb5c83c56d32b78619@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Naturfag: Tegne ferdig tegningen av “Det lille kre
+ tsløpet” på side 18. Lim et bilde av den inn under overskriften “Det
+  lille kretsløpet” i arbeidsboken din på Classroom. Skriv på teksten.
+DESCRIPTION:Lekser\nTema: Karbonets kretsløp\nFredag\, uke 39\nhttps://doc
+ s.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8
+ yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T094000
+DTEND;TZID=Europe/Oslo:20260925T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Naturfag: Tegne ferdig tegningen av “Det lille
+  kretsløpet” på side 18. Lim et bilde av den inn under overskriften 
+ “Det lille kretsløpet” i arbeidsboken din på Classroom. Skriv på te
+ ksten.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:664fc5c9c7a33f673be73fd9efa1605bf76592f0@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Norsk: Lekse:
+DESCRIPTION:Lekser\nTema: Vi leser en medelevs debattinnlegg og gir hverand
+ re tilbakemeldinger. Etterpå skriver vi debattinnlegget inn på Chrombook
+ en.\nFredag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2
+ mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pu
+ b
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T111000
+DTEND;TZID=Europe/Oslo:20260925T121000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:467149fdafbe25e198b2ce485d6f5e514c105d67@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – Samfunnsfag: Lekse:
+DESCRIPTION:Lekser\nTema: Kamp for rettigheter - Frankrike på 1700-tallet\
+ nFredag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkq
+ gVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T122000
+DTEND;TZID=Europe/Oslo:20260925T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Lekse:
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:93a788ede1ff0f9fc1ac5f3f9f490fc6297d3c6b@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📝 KRLE
+DESCRIPTION:Prøve / innlevering\nTema: katolske\, ortodokse og protestanti
+ ske kriker\nFredag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1v
+ Txqt1p2mdkqgVGMBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcC
+ IrjE/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T133000
+DTEND;TZID=Europe/Oslo:20260925T140000
+END:VEVENT
+BEGIN:VEVENT
+UID:effecc2da540e2f257bea930665d075032dabc6b@gimle-arbeidsplan
+DTSTAMP:20260922T134004Z
+SUMMARY:📚 Lekse – KRLE: Tegneoppgave: Dekorelement fra kirke\, finn bi
+ lde.
+DESCRIPTION:Lekser\nTema: katolske\, ortodokse og protestantiske kriker\nFr
+ edag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVG
+ MBO3Gvl8nbsKPU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTxqt1p2mdkqgVGMBO3Gvl8nbsK
+ PU6ko8mJv1CzV8yS9A5QTw5_20FjSxxbH6c5kf0QT0qaGHcCIrjE/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T133000
+DTEND;TZID=Europe/Oslo:20260925T140000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – KRLE: Tegneoppgave: Dekorelement fra kirke\, fin
+ n bilde.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

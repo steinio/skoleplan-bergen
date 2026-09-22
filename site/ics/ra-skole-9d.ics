@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//9D//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 9D
+X-WR-RELCALID:9D-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 9D ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:31dff3a559c364d8ba4862811b87778855c38bb2@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:📝 Samfunnsfag:
 DESCRIPTION:Prøve / innlevering\nImperialisme: Fordypningsoppgave: Innleve
  ring\nTirsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vRkXoA
@@ -44,7 +45,7 @@ DTEND;TZID=Europe/Oslo:20260922T113500
 END:VEVENT
 BEGIN:VEVENT
 UID:dd07acd00a92da46c4d71f7768296aeed06163a6@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
  r til å kunne være ute i.\nTorsdag\, uke 39\nhttps://docs.google.com/doc
@@ -59,12 +60,13 @@ DTEND;TZID=Europe/Oslo:20260924T102500
 END:VEVENT
 BEGIN:VEVENT
 UID:0d45528764dc6019a4993cc9d7945c0a9b859a65@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:🎒 Mat og helse
-DESCRIPTION:Husk å ta med\nSausekurs. Vi lærer å lage brun saus. Denne u
- ken lager vi ikke mat\, så du må ha med matpakke. Ferdig kl 13.15\nTorsd
- ag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vRkXoAu-_RWKZ8kgO
- lOlKSihRaOHg7EgsLJn1DrTWCqwGK4YgEtHmwWZe-0s_IxqfFSEwkoiCHwivwk/pub
+DESCRIPTION:Husk å ta med\nLekseplan - og plan for økt Sausekurs. Vi lær
+ er å lage brun saus. Denne uken lager vi ikke mat\, så du må ha med mat
+ pakke. Ferdig kl 13.15\nTorsdag\, uke 39\nhttps://docs.google.com/document
+ /d/e/2PACX-1vRkXoAu-_RWKZ8kgOlOlKSihRaOHg7EgsLJn1DrTWCqwGK4YgEtHmwWZe-0s_I
+ xqfFSEwkoiCHwivwk/pub
 CATEGORIES:Husk å ta med
 URL:https://docs.google.com/document/d/e/2PACX-1vRkXoAu-_RWKZ8kgOlOlKSihRaO
  Hg7EgsLJn1DrTWCqwGK4YgEtHmwWZe-0s_IxqfFSEwkoiCHwivwk/pub
@@ -74,7 +76,7 @@ DTEND;TZID=Europe/Oslo:20260924T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:0037724d8376a810f4119fedad373addd60e2aef@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:📝 Engelsk muntlig vurdering denne uken
 DESCRIPTION:Prøve / innlevering\nMandag\, uke 40\nhttps://docs.google.com/
  document/d/e/2PACX-1vRkXoAu-_RWKZ8kgOlOlKSihRaOHg7EgsLJn1DrTWCqwGK4YgEtHmw
@@ -88,7 +90,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:6fca02b04b8ad33484465a25f2d8955f7c69cc32@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:📝 Engelsk muntlig vurdering denne uken
 DESCRIPTION:Prøve / innlevering\nOnsdag\, uke 40\nhttps://docs.google.com/
  document/d/e/2PACX-1vRkXoAu-_RWKZ8kgOlOlKSihRaOHg7EgsLJn1DrTWCqwGK4YgEtHmw
@@ -102,7 +104,7 @@ DTEND;VALUE=DATE:20261001
 END:VEVENT
 BEGIN:VEVENT
 UID:33f2dbad5b301dc6e5252d164d38040a5caa8df5@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
  r til å kunne være ute i.\nTorsdag\, uke 40\nhttps://docs.google.com/doc
@@ -117,7 +119,7 @@ DTEND;TZID=Europe/Oslo:20261001T102500
 END:VEVENT
 BEGIN:VEVENT
 UID:231d85330cbcf8a1deb703ab9cccfaa1aba363cd@gimle-arbeidsplan
-DTSTAMP:20260921T150129Z
+DTSTAMP:20260922T134115Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
  kl. sko). Skade.\nTorsdag\, uke 42\nhttps://docs.google.com/document/d/e/2

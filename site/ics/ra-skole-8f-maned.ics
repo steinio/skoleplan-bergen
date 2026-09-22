@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//8F//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 8F
+X-WR-RELCALID:8F-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 8F ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a43c4061ae05a4b034f8f40e26bec99cec1baf63@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:📝 UDV
+DESCRIPTION:Prøve / innlevering\nSkoliosedag 12.15 Nasjonale prøver\, rom
+  20\, oppsamling\nMandag\, uke 39\nhttps://docs.google.com/document/d/e/2P
+ ACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZ
+ xr-1Q4pkB2/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T121500
+DTEND;TZID=Europe/Oslo:20260921T131500
+END:VEVENT
+BEGIN:VEVENT
+UID:25f71bef87592abb432c438e543279f689ee4bda@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:📝 Engelsk: Gloseprøve
+DESCRIPTION:Prøve / innlevering\nOnsdag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Ti
+ w5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:3252d3ebd56fd13c06b3d646be87d1625399f5ad@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:📝 Engelsk
+DESCRIPTION:Prøve / innlevering\nLita gloseprøve + prepare to write\nOnsd
+ ag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5Umg
+ Q36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T092500
+DTEND;TZID=Europe/Oslo:20260923T102500
+END:VEVENT
+BEGIN:VEVENT
+UID:0459ea2ab7742bd18057e09f3bab7f8efa93922b@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Orientering. Ha 
+ med klær til å kunne løpe ute i.\nOnsdag\, uke 39\nhttps://docs.google.
+ com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSe
+ S_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260923T121500
+DTEND;TZID=Europe/Oslo:20260923T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:06b3d3d4ad3735c5255764545388094ae65fbaa4@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:📝 Matematikk: Lekseark skal leveres
+DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/
+ document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Ti
+ w5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+END:VEVENT
+BEGIN:VEVENT
+UID:006a23a4cd3e78dfbf004b0da32dcf804ad15d9c@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 2\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261014T121500
+DTEND;TZID=Europe/Oslo:20261014T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:29a412115f0e344f2c7c4a23dc8b46d00d152089@gimle-arbeidsplan
+DTSTAMP:20260922T134108Z
+SUMMARY:👥 Kroppsøving
+DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
+ ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
+ 3\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
+ JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261021T121500
+DTEND;TZID=Europe/Oslo:20261021T142500
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10C//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10C
+X-WR-RELCALID:10C-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10C ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:465381bc8f56c4d2ce7b327b7524942c44526455@gimle-arbeidsplan
+DTSTAMP:20260922T134359Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93mvbEk_4SOTRlgegpkV5HwO16
+ qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93
+ mvbEk_4SOTRlgegpkV5HwO16qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bcda085a7ad3460728ef8e6c21b00493b13e04@gimle-arbeidsplan
+DTSTAMP:20260922T134359Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93mvbEk_4SOTRlgegpkV5HwO16
+ qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93
+ mvbEk_4SOTRlgegpkV5HwO16qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:ab246230e1a54f9b84b084a86e13d1a5e15a2e2d@gimle-arbeidsplan
+DTSTAMP:20260922T134359Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93mvbEk_4SOTRlgegpkV5HwO16
+ qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93
+ mvbEk_4SOTRlgegpkV5HwO16qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5ebe2c5ad6505cd8a92924c52f7ea9daa1caf1@gimle-arbeidsplan
+DTSTAMP:20260922T134359Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93mvbEk_4SOTRlgegpkV5HwO16
+ qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQubskLI8M_rCrqmmj_IyEepI93
+ mvbEk_4SOTRlgegpkV5HwO16qsXcb8B2Mze0Y3RBoPyqE8NRT3gb/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+END:VCALENDAR

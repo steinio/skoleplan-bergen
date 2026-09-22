@@ -31,6 +31,16 @@ Radene er merket ærlig:
 En kalenderoppføring på feil dag er verre enn ingen oppføring. Derfor lager vi
 aldri et abonnement av en uke vi bare har gjettet.
 
+## Periode
+
+Velg **periode** øverst på siden før du abonnerer. Standard er en uke tilbake og
+fire måneder frem, så kalenderen din slipper både gamle timer og neste sommer.
+Du kan også velge én måned eller hele skoleåret.
+
+Perioden er bakt inn i selve kalenderfilen — en `.ics` kan ikke lese
+spørrestreng — så valget må tas før du abonnerer. Vil du bytte senere, fjern
+abonnementet og legg det til på nytt med den andre perioden.
+
 ## Kjøre det selv
 
 Ingen avhengigheter utover Python 3.10+.

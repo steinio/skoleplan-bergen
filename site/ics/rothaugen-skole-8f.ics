@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//8F//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 8F
+X-WR-RELCALID:8F-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 8F ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:69d23aa04631ee1df77936e69d21f61ec1835740@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Avdelingsleder:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTLWKW-tW4KdoAHFuVjS8Z87_yyVrXjX3J3hV1FqzAdZH8vVobG
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:38dd92d0450e1d570c88d2a146d660921047a42f@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Kontaktlærerer:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTLWKW-tW4KdoAHFuVjS8Z87_yyVrXjX3J3hV1FqzAdZH8vVobG
@@ -57,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:23ae149f253ad98f8d2214a26a67ecfe6ff2beef@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Kristin Barca Hjetland - kan kontaktes på e-post eller i Vigi
  lo
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -72,7 +73,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:402e27f703d1a6cf13599a2b90e1147551ea52b5@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Vanja og Mads - send oss melding i Vigilo hvis det skulle vær
  e noe
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -87,7 +88,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5ebf6c9ff89b63c118071b00ec147e501d3da0bd@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Avdelingsleder:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTLWKW-tW4KdoAHFuVjS8Z87_yyVrXjX3J3hV1FqzAdZH8vVobG
@@ -101,7 +102,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:415787e37ce65d8fda014dcd98577edcd8bc6926@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Kontaktlærerer:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
  om/document/d/e/2PACX-1vTLWKW-tW4KdoAHFuVjS8Z87_yyVrXjX3J3hV1FqzAdZH8vVobG
@@ -115,7 +116,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:4f2dc831447e17c6a3fbba8d7a69500fb704ddb3@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Kristin Barca Hjetland - kan kontaktes på e-post eller i Vigi
  lo
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
@@ -130,7 +131,7 @@ DTEND;VALUE=DATE:20260929
 END:VEVENT
 BEGIN:VEVENT
 UID:35df9b2d49ffc55fcf1deb2607c7238d2e26fb6f@gimle-arbeidsplan
-DTSTAMP:20260921T150221Z
+DTSTAMP:20260922T134205Z
 SUMMARY:📌 Vanja og Mads - send oss melding i Vigilo hvis det skulle vær
  e noe
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c

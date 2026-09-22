@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//8G//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 8G
+X-WR-RELCALID:8G-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 8G ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fde93390dedfd2d4b856e6e2943fe807be48e9fb@gimle-arbeidsplan
-DTSTAMP:20260921T150223Z
+DTSTAMP:20260922T134207Z
 SUMMARY:📌 Denne og neste uke har vi fokus på lesing. Vi bruker minimum 
  15 minutter hver dag til å lese stille i boken vår.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
@@ -44,7 +45,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:688f2b456862e6aeff53e2e6cae5c4f5021652bf@gimle-arbeidsplan
-DTSTAMP:20260921T150223Z
+DTSTAMP:20260922T134207Z
 SUMMARY:📝 Sjekk ukesoversikten på classroom over viktige frister.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
  docs.google.com/document/d/e/2PACX-1vQnpRyAxODRqS3oKoES1IuhSlE-ir452hDru3y

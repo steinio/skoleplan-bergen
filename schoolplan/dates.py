@@ -118,5 +118,53 @@ def _make(day: int, month: int, year_text: str | None, start: int) -> dt.date | 
         return None
 
 
+_OFFSET = re.compile(r"^\s*([+-]?\d+)\s*([dwmy])\s*$", re.I)
+
+
+def parse_bound(text: str | None, today: dt.date | None = None,
+                default_sign: int = 1) -> dt.date | None:
+    """Read a window bound: an ISO date, "today", or an offset like "7d"/"+90d".
+
+    An offset written without a sign takes ``default_sign``, so "--from 7d"
+    reads as a week back and "--to 90d" as three months ahead. Leading "-" also
+    works, but a shell passes it to argparse as a flag unless written "--from=-7d".
+    """
+    if text is None:
+        return None
+    text = text.strip()
+    if not text or text.lower() in ("none", "all", "alt"):
+        return None
+    today = today or dt.date.today()
+    if text.lower() in ("today", "i dag", "idag", "0"):
+        return today
+    match = _OFFSET.match(text)
+    if match:
+        raw, unit = match.group(1), match.group(2).lower()
+        amount = int(raw)
+        if raw[0] not in "+-":
+            amount *= default_sign
+        days = {"d": 1, "w": 7, "m": 30, "y": 365}[unit] * amount
+        return today + dt.timedelta(days=days)
+    try:
+        return dt.date.fromisoformat(text)
+    except ValueError as exc:
+        raise ValueError(f"cannot read a date from {text!r}: use 2026-09-01, today, -7d or +90d") from exc
+
+
+def in_window(value: str | None, start: dt.date | None, end: dt.date | None) -> bool:
+    """Is an ISO date inside [start, end]? Undated items are always kept."""
+    if not value:
+        return True
+    try:
+        when = dt.date.fromisoformat(value)
+    except ValueError:
+        return True
+    if start and when < start:
+        return False
+    if end and when > end:
+        return False
+    return True
+
+
 def iso_week_of(day: dt.date) -> int:
     return day.isocalendar().week

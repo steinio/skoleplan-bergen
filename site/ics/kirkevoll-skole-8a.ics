@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//8A//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 8A
+X-WR-RELCALID:8A-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 8A ved Gimle oppveksttu
  n skole
@@ -28,22 +29,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e3d29f57bb40b5256a346f01910f053e2e9ea0dd@gimle-arbeidsplan
-DTSTAMP:20260921T150046Z
-SUMMARY:📌 Kroppsøving: Møt under taket til Fanaknotten. Vær presis!
-DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 38\nhttps://docs.google.c
- om/document/d/e/2PACX-1vT2X-mLN6U5Xw7aP0cAg08UTkqRlNr85Oj4_aDxnd3WUNSPH0Rq
- xslYpas-RI-vm-4Np5OWTtParcXu/pub
-CATEGORIES:Beskjed
-URL:https://docs.google.com/document/d/e/2PACX-1vT2X-mLN6U5Xw7aP0cAg08UTkqR
- lNr85Oj4_aDxnd3WUNSPH0RqxslYpas-RI-vm-4Np5OWTtParcXu/pub
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-END:VEVENT
-BEGIN:VEVENT
 UID:3a8e498841eb5fefd043ade0f3b0ecde4c294df7@gimle-arbeidsplan
-DTSTAMP:20260921T150046Z
+DTSTAMP:20260922T134029Z
 SUMMARY:📌 Kroppsøving: Møt under taket til Fanaknotten. Vær presis!
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vT2X-mLN6U5Xw7aP0cAg08UTkqRlNr85Oj4_aDxnd3WUNSPH0Rq

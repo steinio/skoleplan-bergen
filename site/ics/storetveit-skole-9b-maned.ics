@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9B//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9B
+X-WR-RELCALID:9B-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9B ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:64ae033d2769b4167f1f6967f974fb338e32ebe9@gimle-arbeidsplan
+DTSTAMP:20260922T134509Z
+SUMMARY:📌 *Torsdag 24. sept.: "Jenter og teknologi": Arrangementet finne
+ r sted i Salem konferansesenter.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lgwhagPA3pLoZbWAVBphAwx-mu
+ Z-QywkqTnsjfkHyKj9IXPHszE1Yu/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lg
+ whagPA3pLoZbWAVBphAwx-muZ-QywkqTnsjfkHyKj9IXPHszE1Yu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:938f273553502688108bf7deeeb2784217cfee52@gimle-arbeidsplan
+DTSTAMP:20260922T134509Z
+SUMMARY:👥 Oppmøte ved Den blå steinen i sentrum\, kl. 09.00 (så går 
+ vi sammen til Salem). Ha med: Matpakke og drikke.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lgwhagPA3pLoZb
+ WAVBphAwx-muZ-QywkqTnsjfkHyKj9IXPHszE1Yu/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lg
+ whagPA3pLoZbWAVBphAwx-muZ-QywkqTnsjfkHyKj9IXPHszE1Yu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:0cccba8151daaf3d5925e4b7a499455d92fc8c31@gimle-arbeidsplan
+DTSTAMP:20260922T134509Z
+SUMMARY:🚌 På torsdag skal vi på UiB og være med på undervisningsoppl
+ egget “Spor av evolusjon”. Vi reiser sammen fra skolen og er tilbake t
+ il 4.timen.
+DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 40\nhttps://docs
+ .google.com/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lgwhagPA3pLoZbWAV
+ BphAwx-muZ-QywkqTnsjfkHyKj9IXPHszE1Yu/pub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vTqrCvImWf5rnS3Co-DeG4g12lg
+ whagPA3pLoZbWAVBphAwx-muZ-QywkqTnsjfkHyKj9IXPHszE1Yu/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+END:VCALENDAR

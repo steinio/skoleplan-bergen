@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//2. trinn//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 2. trinn
+X-WR-RELCALID:2. trinn-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 2. trinn ved Gimle oppv
  eksttun skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5215454f587a0ab66a36b5229f269e8515cea6dd@gimle-arbeidsplan
-DTSTAMP:20260921T150004Z
+DTSTAMP:20260922T133953Z
 SUMMARY:👥 Morgonsamling
 DESCRIPTION:Møte / arrangement\n2-deling: Matte / Norsk Friminutt 2-deling
  : Norsk / Matte Lunsj Friminutt Samantid SFO/Heim Hugs foreldremøte i kve
@@ -45,7 +46,7 @@ DTEND;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:df7d4e2ef2c1b1cec0fe0f8dbb6eba88b1de0ca7@gimle-arbeidsplan
-DTSTAMP:20260921T150004Z
+DTSTAMP:20260922T133953Z
 SUMMARY:👥 Morgonsamling
 DESCRIPTION:Møte / arrangement\n2-deling: Norsk / Matte Friminutt 2-deling
  : Matte / Norsk Lunsj Friminutt Tema Samantid SFO/Heim\nTorsdag\, uke 39\n
@@ -60,7 +61,7 @@ DTEND;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
 UID:85ba9039421a2a7464f1936d12d1b1f7a5c72fee@gimle-arbeidsplan
-DTSTAMP:20260921T150004Z
+DTSTAMP:20260922T133953Z
 SUMMARY:👥 Morgonsamling
 DESCRIPTION:Møte / arrangement\n2-deling: Norsk / Arbeidsplan Friminutt No
  rsk / Arbeidsplan Lunsj Friminutt Samantid SFO/Heim\nFredag\, uke 39\nhttp

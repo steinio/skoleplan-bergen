@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10A//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10A
+X-WR-RELCALID:10A-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10A ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b13909df7ffd3de470b536c679fa68987accd4a1@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:🏖️ Høstferie neste uke
+DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 39\nhttps://docs
+ .google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEX
+ AXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f7662904d76f670aa82a62ff40802847e3839d@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEF
+ kPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:c1914dbc911fef749984659dc70870523243ac7f@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEF
+ kPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:d032be4cdb56983fa65b91d6823abd5517eb0be3@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEF
+ kPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:fdaf2be4365b4e1f4533162c4a771cdf7859f512@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📝 KRLE: I neste uke bruker vi også engelsktime til å presenter
+ e KRLE-prosjektet
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 43\nhttps://
+ docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrp
+ dsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:d3232acd5577a53535bce95e5d537d1bdcdaf4d1@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📌 Kristin A er på kurs mandag 21. september\, og Ingrid er på 
+ kurs 25. september.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEF
+ kPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:08d019ebc0fdfe5696c9379a3ec6addb86294317@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📚 Lekse – Kroppsøving: Gjør egenvurdering etter overnattings
+ turen (for de som ikke har gjort den). Bruk formskjema i Classroomfaget. F
+ orberedelser til orientering: Øv på tegnforklaring og les tips til hvord
+ an forstå det å orientere etter kart. Smart å øve på den digitale ori
+ enteringen linket til i strømmen = fagstoff.
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 43\nhttps://docs.google.com/document/
+ d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4H
+ uJMzk5znReHwzjGg/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Kroppsøving: Gjør egenvurdering etter overnatt
+ ingsturen (for de som ikke har gjort den). Bruk formskjema i Classroomfage
+ t. Forberedelser til orientering: Øv på tegnforklaring og les tips til h
+ vordan forstå det å orientere etter kart. Smart å øve på den digitale
+  orienteringen linket til i strømmen = fagstoff.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66d2f0f885923efde578e3f19c88bb82e613f7bb@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:🎒 Kroppsøving: Ha med utetøy og sko til orientering. Kle deg e
+ tter været. Sjekk yr.no
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 43\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAX
+ u1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:e41a8cc2c7b0b08f5b2c1570b1b6ce262e4a1f10@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEF
+ kPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:565fe5cb8420e4d12e7e39867a7b0c933ea98fec@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📚 Lekse – Matematikk: Les teksten her\, og velg ut 12 av oppga
+ vene nederst på siden. Skriv i skriveboken din.
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 43\nhttps://docs.google.com/document/
+ d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4H
+ uJMzk5znReHwzjGg/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matematikk: Les teksten her\, og velg ut 12 av o
+ ppgavene nederst på siden. Skriv i skriveboken din.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d098ed31841c095500acd66860c42e5a1095d6d@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📚 Lekse – Naturfag: Gjør ferdig leseoppdraget på slide 31 i 
+ Plan for timen: Immunforsvar og vaksiner
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 43\nhttps://docs.google.com/document/
+ d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4H
+ uJMzk5znReHwzjGg/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Naturfag: Gjør ferdig leseoppdraget på slide 3
+ 1 i Plan for timen: Immunforsvar og vaksiner
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b4ca5a3efc16190c0afb06f65988d1cb62111675@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📚 Lekse – Språk/ALF: Tysk Fransk Spansk ALF
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 43\nhttps://docs.google.com/document/
+ d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4H
+ uJMzk5znReHwzjGg/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Språk/ALF: Tysk Fransk Spansk ALF
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:728fe1f771b2618265362d82153a3b14a974d207@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📚 Lekse – Valgfag: Lenke til lekser finner du her
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 43\nhttps://docs.google.com/document/
+ d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvzLAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4H
+ uJMzk5znReHwzjGg/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Valgfag: Lenke til lekser finner du her
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:05505039e9116299b40e6d431a594f228a313de8@gimle-arbeidsplan
+DTSTAMP:20260922T134338Z
+SUMMARY:📝 Samfunnsfag
+DESCRIPTION:Prøve / innlevering\nPresentasjoner kald krig\nTirsdag\, uke 4
+ 3\nhttps://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vR-z2tIRDWsfx6_XLpNCQVORmvz
+ LAnjiUIOZrpdsEXAXu1SlwEFkPHKiydM5s4HuJMzk5znReHwzjGg/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10A//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10A
+X-WR-RELCALID:10A-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10A ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:814830ab36cf31feea729d8168a321f5b4a30690@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:📝 MATEMATIKK
+DESCRIPTION:Prøve / innlevering\nRom 5\, Hanna Prøve i algebrastigen og k
+ vadratsetningene. 10A: undervisning i matematikk\nTirsdag\, uke 39\nhttps:
+ //docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0M
+ AGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T103500
+DTEND;TZID=Europe/Oslo:20260922T113500
+END:VEVENT
+BEGIN:VEVENT
+UID:28081c293da5c25a8e2143aae761083ba0dd7af9@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:📝 NATURFAG
+DESCRIPTION:Prøve / innlevering\nRom 5\, Hanna 10A: undervisning i naturfa
+ g Frist innlevering av rapport kl. 18.00\nTirsdag\, uke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15
+ vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T121500
+DTEND;TZID=Europe/Oslo:20260922T131500
+END:VEVENT
+BEGIN:VEVENT
+UID:57d88100467c764bc08f5bfbb254e4e156d17eba@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:🎒 UTDANNINGSVALG
+DESCRIPTION:Husk å ta med\nRom 5\, Hilde-Merethe Husk å velge utdanningsp
+ rogram for besøksdag. Vi søker om MinID - ha kontroll på fødselsnummer
+ et ditt\nFredag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vSC8
+ o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCC
+ F/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T132500
+DTEND;TZID=Europe/Oslo:20260925T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:0919ee9b6a322ad6175c24cd89c9ff0ca6cc1daa@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:🏖️ HØSTFERIE!
+DESCRIPTION:Fri / ikke skole\nMandag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-im
+ rV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261005T081500
+DTEND;TZID=Europe/Oslo:20261005T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:416fb179c63f8e7874564a9cefef486d0f9e08de@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:🏖️ HØSTFERIE!
+DESCRIPTION:Fri / ikke skole\nTirsdag\, uke 41\nhttps://docs.google.com/doc
+ ument/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-i
+ mrV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261006T081500
+DTEND;TZID=Europe/Oslo:20261006T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8081606a23cb2abfc1838599e3570ca6168410@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:🏖️ HØSTFERIE!
+DESCRIPTION:Fri / ikke skole\nOnsdag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-im
+ rV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261007T081500
+DTEND;TZID=Europe/Oslo:20261007T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:f969709828afed2865fc886e1800aaa097dbc265@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:🏖️ HØSTFERIE!
+DESCRIPTION:Fri / ikke skole\nTorsdag\, uke 41\nhttps://docs.google.com/doc
+ ument/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-i
+ mrV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261008T081500
+DTEND;TZID=Europe/Oslo:20261008T153000
+END:VEVENT
+BEGIN:VEVENT
+UID:e249b31863073e6e9f95e11f113e8c2f67fb5bbf@gimle-arbeidsplan
+DTSTAMP:20260922T134122Z
+SUMMARY:🏖️ HØSTFERIE!
+DESCRIPTION:Fri / ikke skole\nFredag\, uke 41\nhttps://docs.google.com/docu
+ ment/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39ApWoRQfhi0MAGRZXr15vs2BtIs-vNb-im
+ rV_7BtRVBUe4DwjRagCCF/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vSC8o4smOZ55otxKW8HcY2r39Ap
+ WoRQfhi0MAGRZXr15vs2BtIs-vNb-imrV_7BtRVBUe4DwjRagCCF/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20261009T081500
+DTEND;TZID=Europe/Oslo:20261009T153000
+END:VEVENT
+END:VCALENDAR

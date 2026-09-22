@@ -471,6 +471,62 @@ def test_a_dated_header_still_reads_the_school_day_hours():
     assert (week.days[0].starts, week.days[0].ends) == ("08:30", "15:00")
 
 
+# --------------------------------------------------------------- calendar window
+
+@pytest.mark.parametrize("text,expected", [
+    ("2026-09-01", dt.date(2026, 9, 1)),
+    ("today", dt.date(2026, 9, 18)),
+    ("+90d", dt.date(2026, 12, 17)),
+    ("-7d", dt.date(2026, 9, 11)),
+    ("2w", dt.date(2026, 10, 2)),
+    ("3m", dt.date(2026, 12, 17)),
+    (None, None),
+    ("alt", None),
+])
+def test_window_bounds_are_read(text, expected):
+    from schoolplan.dates import parse_bound
+
+    assert parse_bound(text, TODAY) == expected
+
+
+def test_an_unsigned_offset_takes_the_direction_it_is_given():
+    """"--from 7d" means a week back; "--to 90d" means three months on."""
+    from schoolplan.dates import parse_bound
+
+    assert parse_bound("7d", TODAY, default_sign=-1) == dt.date(2026, 9, 11)
+    assert parse_bound("7d", TODAY, default_sign=1) == dt.date(2026, 9, 25)
+    # An explicit sign always wins over the default.
+    assert parse_bound("+7d", TODAY, default_sign=-1) == dt.date(2026, 9, 25)
+
+
+def test_a_nonsense_bound_is_rejected():
+    from schoolplan.dates import parse_bound
+
+    with pytest.raises(ValueError):
+        parse_bound("neste tirsdag", TODAY)
+
+
+def test_undated_items_survive_a_window():
+    """A notice with no date should not be silently dropped by filtering."""
+    from schoolplan.dates import in_window
+
+    assert in_window(None, dt.date(2026, 9, 1), dt.date(2026, 9, 30)) is True
+
+
+def test_the_window_bounds_which_events_are_published(plan):
+    inside = render_ics.render(plan, start=dt.date(2026, 9, 14), end=dt.date(2026, 9, 20))
+    everything = render_ics.render(plan)
+    assert 0 < inside.count("BEGIN:VEVENT") < everything.count("BEGIN:VEVENT")
+    assert "20260914" in inside or "20260915" in inside
+    assert "20261005" not in inside          # høstferie is outside the window
+
+
+def test_an_empty_window_still_produces_a_valid_calendar(plan):
+    text = render_ics.render(plan, start=dt.date(2030, 1, 1), end=dt.date(2030, 1, 2))
+    assert text.startswith("BEGIN:VCALENDAR") and text.rstrip().endswith("END:VCALENDAR")
+    assert "BEGIN:VEVENT" not in text
+
+
 def test_a_stated_week_is_not_marked_inferred(plan):
     assert [w.inferred_week for w in plan.weeks] == [False]
 

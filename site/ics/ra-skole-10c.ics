@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10C//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10C
+X-WR-RELCALID:10C-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10C ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:da64997fdeba71be7df92050d6a2dc16031ce14a@gimle-arbeidsplan
-DTSTAMP:20260921T150141Z
+DTSTAMP:20260922T134126Z
 SUMMARY:📝 MATEMATIKK
 DESCRIPTION:Prøve / innlevering\nMatteprøve Fremdriftsplan - 10C\nTirsdag
  \, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAf
@@ -43,7 +44,7 @@ DTEND;TZID=Europe/Oslo:20260922T091500
 END:VEVENT
 BEGIN:VEVENT
 UID:a95e34a68b03298f5edae6b6aec8b41a144335d9@gimle-arbeidsplan
-DTSTAMP:20260921T150141Z
+DTSTAMP:20260922T134126Z
 SUMMARY:👥 Oppsamling maling for 10 trinn 2. time
 DESCRIPTION:Møte / arrangement\nMandag\, uke 40\nhttps://docs.google.com/d
  ocument/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlROLu0XsHwwcH35JdecaE_6tRfX37
@@ -57,7 +58,7 @@ DTEND;TZID=Europe/Oslo:20260928T091500
 END:VEVENT
 BEGIN:VEVENT
 UID:26b285cc28fafa320423a32c48d75a26b41c5c3e@gimle-arbeidsplan
-DTSTAMP:20260921T150141Z
+DTSTAMP:20260922T134126Z
 SUMMARY:📝 NATURFAG
 DESCRIPTION:Prøve / innlevering\nFremdriftsplan naturfag\nTirsdag\, uke 40
  \nhttps://docs.google.com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlR
@@ -71,7 +72,7 @@ DTEND;TZID=Europe/Oslo:20260929T131500
 END:VEVENT
 BEGIN:VEVENT
 UID:45fc7d03a737b0eba0defca20ddb8a50b0b6baa2@gimle-arbeidsplan
-DTSTAMP:20260921T150141Z
+DTSTAMP:20260922T134126Z
 SUMMARY:📚 Lekse – NATURFAG: Innlevering av rapport av Forsøk: Dyrke b
  akterier
 DESCRIPTION:Lekser\nFremdriftsplan naturfag\nTirsdag\, uke 40\nhttps://docs
@@ -92,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cb8e5696261edf55db0b5786fec33e37a81fbfb3@gimle-arbeidsplan
-DTSTAMP:20260921T150141Z
+DTSTAMP:20260922T134126Z
 SUMMARY:🏖️ PLANLEGGINGSDAG
 DESCRIPTION:Fri / ikke skole\nElevfri\nFredag\, uke 45\nhttps://docs.google
  .com/document/d/e/2PACX-1vR-LHCYkUAyOqB9xjAfm8hqEwSlROLu0XsHwwcH35JdecaE_6

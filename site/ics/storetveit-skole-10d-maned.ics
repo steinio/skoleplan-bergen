@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//10D//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 10D
+X-WR-RELCALID:10D-2026-09-15-2026-10-22
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 10D ved Gimle oppvekstt
+ un skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cf9e82b491ff365086609ecfd3965a18f30d383a@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📝 Heldagsprøve engelsk
+DESCRIPTION:Prøve / innlevering\nTa med headset om du har\nTirsdag\, uke 3
+ 8\nhttps://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+END:VEVENT
+BEGIN:VEVENT
+UID:9456da8014bc91fed4dbef3937b1201a23ee2735@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📝 Norsk
+DESCRIPTION:Prøve / innlevering\nEksamensoppgave 2 og 3\nOnsdag\, uke 38\n
+ https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTq
+ sGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+END:VEVENT
+BEGIN:VEVENT
+UID:faef466538e04803aac9efbf95e24a5cf2ce19be@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📝 Heldagsprøve norsk
+DESCRIPTION:Prøve / innlevering\nHalv dag sidemål Halv dag hovedmål Ta m
+ ed headset om du har\nFredag\, uke 38\nhttps://docs.google.com/document/d/
+ e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM
+ 8hJwk6MJuuJDyt/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+END:VEVENT
+BEGIN:VEVENT
+UID:cf92041c0fff8d081193955acf286d428131c5f1@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:🎒 Kroppsøving: Ha med utetøy og sko til orientering. Kle deg e
+ tter været. Sjekk yr.no
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58
+ Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:a79ed2192ae9a3b4b499629a4cfe6e597ae9c10e@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:223f605fb4e33c5e37f69a7ce792731bedaf4b11@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 Kunst og håndverk: Sjekk rom og tema her
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:c71011e6420458947fc5c187353f4ffa9a7b145f@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 Studenter i KRLE\, engelsk\, spansk
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4e77364e503198062d3544de992e38fa3d2a5a@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 De neste ukene skal det være studenter i fagene norsk\, engel
+ sk\, KRLE og naturfag.
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd0045348814cd01bb007407aa05600cdcfdaca@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:👥 Foreldre- og barnmøte onsdag 17. september kl. 17.30. Se info
+ rmasjon sendt i Vigilo 1.9.25.
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 42\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNL
+ q1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e0b142a6e40926c1ca2491b9e23d4d8d3e6a9b@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 Vi skal lese boken Born a crime av Trevor Noah. Alle elevene f
+ år låne boken på skolen (den går også an å få kjøpt om man ønsker
+  seg et helt eget eksemplar). Den finnes som lydbok på soundclo
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:31a484b2e87d964370ec2c9ee6dfbd40dac74b39@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 ud.com (her må man registrere seg).
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 42\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:eedeaac406fd24acf6a2b5496e1f04a78a8bc3c1@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:👥 Cecilie er på studiesamling torsdag og fredag
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 43\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNL
+ q1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:c3346b643a96e4f7ce238c2953154adf73a25506@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:👥 Første runde av Abel-konkurransen blir på onsdag. Unge Abel 
+ deltakerne møtes ved biblioteket onsdag 12.10
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 43\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNL
+ q1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:6e30e54395b203df8bb46e35eea9bfb751adf9b3@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:📌 Kristina er borte på fredag
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 43\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G58Sd_GBje
+ HUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+BEGIN:VEVENT
+UID:eb30f063dabac9ab04ccf94f4ae2cc40ee14f327@gimle-arbeidsplan
+DTSTAMP:20260922T134410Z
+SUMMARY:🏖️ Uke 39 + 40 i kroppsøving: Vi øver sammen på en bevisstg
+ jøring rundt kjeden som redder liv - kunne bruke kasteline\, plan BLÅ(S)
+ \, dvs. Bevissthet-Luftveier- Åndedrett (Sideleie) = et forarbeid til hal
+ vdagskurs med Redningsselskapet Trygg i Vann = etter høstferien (uke 42)
+DESCRIPTION:Fri / ikke skole\nUkens viktige beskjeder\nUke 43\nhttps://docs
+ .google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jIWTqsGSo03QNLq1G
+ 58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vRBP10eBH-yE6F5Kpc_T50C98jI
+ WTqsGSo03QNLq1G58Sd_GBjeHUZZbgN7j-gRLM8hJwk6MJuuJDyt/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+END:VEVENT
+END:VCALENDAR

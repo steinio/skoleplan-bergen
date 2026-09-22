@@ -24,10 +24,21 @@ import re
 import sys
 
 from schoolplan import bergen, render_ics
+from schoolplan.dates import parse_bound
 from schoolplan.fetch import get
 from schoolplan.parse import parse_document
 
 TIER_ICS, TIER_PLAN, TIER_PDF = "kalender", "plan", "pdf"
+
+# A static file cannot read a query string, so each window is its own file and
+# the page swaps the link. The unsuffixed one is the default, which keeps any
+# existing subscription working.
+WINDOWS = [
+    ("maned", "Denne måneden", "7d", "30d"),
+    ("", "Neste 4 måneder", "7d", "120d"),
+    ("alt", "Hele skoleåret", None, None),
+]
+DEFAULT_WINDOW = ""
 
 
 def _e(text: str) -> str:
@@ -57,12 +68,18 @@ def build_entry(school: dict, entry: dict, out_dir: pathlib.Path, log) -> dict |
                 "url": entry["url"], "week": None}
 
     stem = f"{school['slug']}-{entry['slug']}"
-    path = out_dir / "ics" / f"{stem}.ics"
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(render_ics.render(plan), encoding="utf-8")
+    (out_dir / "ics").mkdir(parents=True, exist_ok=True)
+    counts: dict[str, int] = {}
+    for suffix, _, since, until in WINDOWS:
+        start, end = parse_bound(since, default_sign=-1), parse_bound(until)
+        text = render_ics.render(plan, start=start, end=end)
+        name_ics = f"{stem}-{suffix}.ics" if suffix else f"{stem}.ics"
+        (out_dir / "ics" / name_ics).write_text(text, encoding="utf-8")
+        counts[suffix] = text.count("BEGIN:VEVENT")
     return {"tier": TIER_ICS, "name": name or label, "label": label,
-            "url": entry["url"], "ics": f"ics/{stem}.ics",
-            "events": len(dated), "week": None}
+            "url": entry["url"], "ics": f"ics/{stem}.ics", "ics_base": f"ics/{stem}",
+            "events": counts.get(DEFAULT_WINDOW, len(dated)), "counts": counts,
+            "week": None}
 
 
 def _dedupe(results: list[dict]) -> list[dict]:
@@ -100,7 +117,11 @@ h1{font-size:1.5rem;margin:8px 0 4px}
 .sub{color:var(--muted);font-size:.9rem;margin:0 0 16px}
 .sub a{color:var(--accent)}
 input[type=search]{width:100%;padding:11px 13px;font-size:1rem;border-radius:10px;
- border:1px solid var(--line);background:var(--card);color:var(--ink);margin-bottom:14px}
+ border:1px solid var(--line);background:var(--card);color:var(--ink);margin-bottom:10px}
+.window{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 14px;
+ font-size:.88rem;color:var(--muted)}
+.window select{padding:7px 10px;font-size:.9rem;border-radius:8px;
+ border:1px solid var(--line);background:var(--card);color:var(--ink)}
 details{background:var(--card);border:1px solid var(--line);border-radius:12px;
  margin-bottom:9px;overflow:hidden}
 summary{padding:13px 15px;cursor:pointer;font-weight:600;list-style:none;display:flex;
@@ -128,6 +149,19 @@ const q=document.getElementById('q'),schools=[...document.querySelectorAll('deta
 q.addEventListener('input',()=>{const v=q.value.trim().toLowerCase();
  schools.forEach(d=>{const hit=!v||d.dataset.search.includes(v);
   d.hidden=!hit; if(v&&hit)d.open=true; if(!v)d.open=false;});});
+
+// A static .ics cannot read a query string, so each window is a separate file
+// and we just repoint the links.
+const w=document.getElementById('window'),cals=[...document.querySelectorAll('a.cal[data-ics]')];
+function applyWindow(){const s=w.value;
+ cals.forEach(a=>{a.href=a.dataset.ics+(s?'-'+s:'')+'.ics';
+  const n=a.dataset['n'+(s||'default')];
+  const note=a.closest('.row').querySelector('.note');
+  if(note&&n!==undefined)note.textContent=n+' hendelser';});
+ try{localStorage.setItem('skoleplan-window',s);}catch(e){}}
+try{const saved=localStorage.getItem('skoleplan-window');
+ if(saved!==null&&[...w.options].some(o=>o.value===saved))w.value=saved;}catch(e){}
+w.addEventListener('change',applyWindow); applyWindow();
 """
 
 
@@ -145,7 +179,15 @@ def render_index(site: dict) -> str:
         for e in entries:
             buttons = []
             if e["tier"] == TIER_ICS:
-                buttons.append(f'<a class="btn cal" href="{_e(e["ics"])}">Legg til i kalender</a>')
+                counts = e.get("counts", {})
+                data = "".join(
+                    f' data-n{suffix or "default"}="{counts.get(suffix, 0)}"'
+                    for suffix, *_ in WINDOWS
+                )
+                buttons.append(
+                    f'<a class="btn cal" data-ics="{_e(e.get("ics_base", ""))}"{data} '
+                    f'href="{_e(e["ics"])}">Legg til i kalender</a>'
+                )
                 buttons.append(f'<a class="btn" href="{_e(e["url"])}">Åpne plan</a>')
                 note = f'{e["events"]} hendelser'
             elif e["tier"] == TIER_PLAN:
@@ -165,6 +207,11 @@ def render_index(site: dict) -> str:
             f'<div class="rows">{"".join(body)}</div></details>'
         )
 
+    options = "".join(
+        f'<option value="{suffix}"{" selected" if suffix == DEFAULT_WINDOW else ""}>'
+        f'{_e(title)}</option>'
+        for suffix, title, *_ in WINDOWS
+    )
     stats = site["stats"]
     return f"""<!doctype html><html lang="no"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -174,11 +221,18 @@ def render_index(site: dict) -> str:
 Finn klassen til barnet ditt og legg planen i kalenderen.
 Oppdatert {_e(site['built_at'][:16].replace('T', ' '))} UTC.</p>
 <input id="q" type="search" placeholder="Søk etter skole eller klasse…" autocomplete="off">
+<div class="window"><label for="window">Periode i kalenderen:</label>
+<select id="window">{options}</select>
+<span>velg før du abonnerer</span></div>
 {''.join(rows) or '<p class="empty">Ingen skoler funnet.</p>'}
 <p class="legend"><b>Legg til i kalender</b> – abonnér, så dukker lekser, prøver,
 turer og fridager opp automatisk. <b>Åpne plan</b> – skolens eget dokument.
 Noen skoler skriver ikke ukenummer i planen; da lager vi ingen kalender, fordi en
 oppføring på feil dag er verre enn ingen.</p>
+<p class="legend"><b>Periode</b> avgjør hvor mye som havner i kalenderen din.
+Standard er en uke tilbake og fire måneder frem, så du slipper gamle timer og en
+kalender full av neste sommer. Valget gjelder lenkene på denne siden — velg det
+<i>før</i> du abonnerer, for perioden er bakt inn i selve kalenderfilen.</p>
 <footer>Hentet automatisk fra
 <a href="https://www.bergen.kommune.no/omkommunen/avdelinger/skoler">bergen.kommune.no</a>.
 Uoffisiell tjeneste laget av en forelder.</footer>

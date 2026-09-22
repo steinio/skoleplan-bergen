@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//8F//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 8F
+X-WR-RELCALID:8F-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 8F ved Gimle oppveksttu
  n skole
@@ -28,79 +29,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b6a8dbea1808c5a44bec7c1ae65b086e857e5fc3@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
-SUMMARY:📝 Naturfag
-DESCRIPTION:Prøve / innlevering\nNasjonale prøver regning\nMandag\, uke 3
- 8\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-CATEGORIES:Prøve / innlevering
-URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-TRANSP:TRANSPARENT
-DTSTART;TZID=Europe/Oslo:20260914T092500
-DTEND;TZID=Europe/Oslo:20260914T102500
-END:VEVENT
-BEGIN:VEVENT
-UID:d7e5f7665fc285682dc126af6b304f5d8e874a01@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
-SUMMARY:📝 Matte
-DESCRIPTION:Prøve / innlevering\nNasjonale prøver regning\nMandag\, uke 3
- 8\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-CATEGORIES:Prøve / innlevering
-URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-TRANSP:TRANSPARENT
-DTSTART;TZID=Europe/Oslo:20260914T103500
-DTEND;TZID=Europe/Oslo:20260914T113500
-END:VEVENT
-BEGIN:VEVENT
-UID:c1210674ff405a09f0e929ae22179da66a026ff5@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
-SUMMARY:📝 Norsk
-DESCRIPTION:Prøve / innlevering\nOrdkjedetest Nynorsk oppstart\nTirsdag\, 
- uke 38\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36Bi
- T-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-CATEGORIES:Prøve / innlevering
-URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-TRANSP:TRANSPARENT
-DTSTART;TZID=Europe/Oslo:20260915T103500
-DTEND;TZID=Europe/Oslo:20260915T113500
-END:VEVENT
-BEGIN:VEVENT
-UID:cdfacbbde453bf18c55b2b864abfd85b6e47483f@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
-SUMMARY:👥 Kroppsøving
-DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Orientering. Ha 
- med klær til å kunne løpe ute i.\nOnsdag\, uke 38\nhttps://docs.google.
- com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSe
- S_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-CATEGORIES:Møte / arrangement
-URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-TRANSP:TRANSPARENT
-DTSTART;TZID=Europe/Oslo:20260916T121500
-DTEND;TZID=Europe/Oslo:20260916T142500
-END:VEVENT
-BEGIN:VEVENT
-UID:78e2a30f1f198bd0d08ca7c7bfb00a9dea344220@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
-SUMMARY:📝 Matematikk: Lekseark skal leveres
-DESCRIPTION:Prøve / innlevering\nFredag\, uke 38\nhttps://docs.google.com/
- document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Ti
- w5LasG1hDUxGNkZxr-1Q4pkB2/pub
-CATEGORIES:Prøve / innlevering
-URL:https://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCn
- JTaheqYHQ7-tJLsB2ygcsSeS_Tiw5LasG1hDUxGNkZxr-1Q4pkB2/pub
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-END:VEVENT
-BEGIN:VEVENT
 UID:a43c4061ae05a4b034f8f40e26bec99cec1baf63@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:📝 UDV
 DESCRIPTION:Prøve / innlevering\nSkoliosedag 12.15 Nasjonale prøver\, rom
   20\, oppsamling\nMandag\, uke 39\nhttps://docs.google.com/document/d/e/2P
@@ -115,7 +45,7 @@ DTEND;TZID=Europe/Oslo:20260921T131500
 END:VEVENT
 BEGIN:VEVENT
 UID:25f71bef87592abb432c438e543279f689ee4bda@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:📝 Engelsk: Gloseprøve
 DESCRIPTION:Prøve / innlevering\nOnsdag\, uke 39\nhttps://docs.google.com/
  document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Ti
@@ -129,7 +59,7 @@ DTEND;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:3252d3ebd56fd13c06b3d646be87d1625399f5ad@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:📝 Engelsk
 DESCRIPTION:Prøve / innlevering\nLita gloseprøve + prepare to write\nOnsd
  ag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vQzSws1E0VhBr5Umg
@@ -143,7 +73,7 @@ DTEND;TZID=Europe/Oslo:20260923T102500
 END:VEVENT
 BEGIN:VEVENT
 UID:0459ea2ab7742bd18057e09f3bab7f8efa93922b@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Orientering. Ha 
  med klær til å kunne løpe ute i.\nOnsdag\, uke 39\nhttps://docs.google.
@@ -158,7 +88,7 @@ DTEND;TZID=Europe/Oslo:20260923T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:06b3d3d4ad3735c5255764545388094ae65fbaa4@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:📝 Matematikk: Lekseark skal leveres
 DESCRIPTION:Prøve / innlevering\nFredag\, uke 39\nhttps://docs.google.com/
  document/d/e/2PACX-1vQzSws1E0VhBr5UmgQ36BiT-ZCnJTaheqYHQ7-tJLsB2ygcsSeS_Ti
@@ -172,7 +102,7 @@ DTEND;VALUE=DATE:20260926
 END:VEVENT
 BEGIN:VEVENT
 UID:006a23a4cd3e78dfbf004b0da32dcf804ad15d9c@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
  ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
@@ -187,7 +117,7 @@ DTEND;TZID=Europe/Oslo:20261014T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:29a412115f0e344f2c7c4a23dc8b46d00d152089@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
  ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
@@ -202,7 +132,7 @@ DTEND;TZID=Europe/Oslo:20261021T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:e8b20ad626195633ba91e3754e773e4c1b38df06@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
  ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
@@ -217,7 +147,7 @@ DTEND;TZID=Europe/Oslo:20261028T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:577910afcd906cd43cb188f7132d25ef39a2df37@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
  ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
@@ -232,7 +162,7 @@ DTEND;TZID=Europe/Oslo:20261104T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:ae4f0b239e4143f9294b8497f11fa03beb0f21de@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
  ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
@@ -247,7 +177,7 @@ DTEND;TZID=Europe/Oslo:20261111T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:fae15e5742a9a991bd7d49c916061efedeac6b2f@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte ved basketstativene 1155. Husk sv
  ømmetøy. Svømming. Vi tar buss så du må møte presis.\nOnsdag\, uke 4
@@ -262,7 +192,7 @@ DTEND;TZID=Europe/Oslo:20261118T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:5850a1d9efdcc170e0b50f53539a3c0809fc04f2@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
  r til å kunne være ute i.\nOnsdag\, uke 48\nhttps://docs.google.com/docu
@@ -277,7 +207,7 @@ DTEND;TZID=Europe/Oslo:20261125T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:3d2fd4d2abcbd577d61b18cc323c0af063cf253b@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Friluftsliv Klæ
  r til å kunne være ute i.\nOnsdag\, uke 49\nhttps://docs.google.com/docu
@@ -292,7 +222,7 @@ DTEND;TZID=Europe/Oslo:20261202T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:e318728359e87d89a4203153773179771eb8b328@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
  kl. sko). Skade.\nOnsdag\, uke 50\nhttps://docs.google.com/document/d/e/2P
@@ -307,7 +237,7 @@ DTEND;TZID=Europe/Oslo:20261209T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:e0db895c17cb165ccf563b05ff11e97432ba13fd@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
  kl. sko). Ballaktiviteter.\nOnsdag\, uke 1\nhttps://docs.google.com/docume
@@ -322,7 +252,7 @@ DTEND;TZID=Europe/Oslo:20270106T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:c4058e1709122f15dd937c9f6d7a85c3c8757098@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
  kl. sko). Ballaktiviteter.\nOnsdag\, uke 2\nhttps://docs.google.com/docume
@@ -337,7 +267,7 @@ DTEND;TZID=Europe/Oslo:20270113T142500
 END:VEVENT
 BEGIN:VEVENT
 UID:0fa4a3178f89fe43911a1682e6fb689dca398405@gimle-arbeidsplan
-DTSTAMP:20260921T150122Z
+DTSTAMP:20260922T134108Z
 SUMMARY:👥 Kroppsøving
 DESCRIPTION:Møte / arrangement\nOppmøte i idrettshallen. Husk gymtøy (in
  kl. sko). Ballaktiviteter.\nOnsdag\, uke 3\nhttps://docs.google.com/docume

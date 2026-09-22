@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9C//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9C
+X-WR-RELCALID:9C-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9C ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:78d43463b5c0b1b5b7f987f8b13f96d28225b91f@gimle-arbeidsplan
+DTSTAMP:20260922T134315Z
+SUMMARY:📌 Friluftsliv uke 39:
+DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7GrT7lgoKaEuUd
+ mXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6d
+ Mjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:2927f6c829e91098ebc8fcc9bbc09af83671f407@gimle-arbeidsplan
+DTSTAMP:20260922T134315Z
+SUMMARY:📝 Vi skal på tur til Myrdalen. Vi skal jobbe med førstehjelp u
+ nder turen. De som ønsker kan ta med primus for å lage mat. Vi prøver 
+ å tenne bål\, men veden er ganske våt\, så jeg anbefaler ikke å ha me
+ d mat som må varmes på bål. Husk å kle dere etter været og ta med eks
+ tra mat. Vi avslutter ca 16:00 der oppe.
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6dMjq5YBHUdd7
+ GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vSThq7zn1qXSv9Q046_TddoTQ6d
+ Mjq5YBHUdd7GrT7lgoKaEuUdmXfW6tHXxBNNsvcYUob-cLM_rhyF/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+END:VCALENDAR

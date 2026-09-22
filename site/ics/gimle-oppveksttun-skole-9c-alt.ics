@@ -1,0 +1,517 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//9C//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 9C
+X-WR-RELCALID:9C-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 9C ved Gimle oppveksttu
+ n skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:68b3ef8a7c76b72c496e6330465b84ea87d23666@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Første skoledag
+DESCRIPTION:Beskjed\nOversiktsplan\nFredag\, uke 33\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0e
+ WEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+END:VEVENT
+BEGIN:VEVENT
+UID:c3f8c4711192fc80ca4a6ba9b27dc450768abba8@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🚌 Turdag for trinnet
+DESCRIPTION:Tur / ekskursjon\nOversiktsplan\nTirsdag\, uke 34\nhttps://docs
+ .google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3
+ pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Tur / ekskursjon
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+END:VEVENT
+BEGIN:VEVENT
+UID:eff2266d45c4dfd7d0dbc73fa263c88883dd5637@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Matfestival i byen
+DESCRIPTION:Beskjed\nOversiktsplan\nFredag\, uke 36\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0e
+ WEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+END:VEVENT
+BEGIN:VEVENT
+UID:74b2f8541b0034f5fd18a8672653a5ec21a60679@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Fri
+DESCRIPTION:Beskjed\nOversiktsplan\nMandag\, uke 37\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0e
+ WEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+BEGIN:VEVENT
+UID:349db690bb3112a26a8acc836720ec0e607a37f3@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📝 Nasjonale prøver i lesing
+DESCRIPTION:Prøve / innlevering\nOversiktsplan\nOnsdag\, uke 37\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZ
+ rI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+END:VEVENT
+BEGIN:VEVENT
+UID:be20bd579ff4dc36601ff7362e4e9ce21e9dcb35@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:👥 Foreldremøte
+DESCRIPTION:Møte / arrangement\nOversiktsplan\nOnsdag\, uke 38\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZr
+ I3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc28b3a6476acb1f3d204e94987724159f79823@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:👥 Elevrådsmøte torsdag på biblioteket
+DESCRIPTION:Møte / arrangement\nUkens viktige beskjeder\nUke 39\nhttps://d
+ ocs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZ
+ rI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:1c383f9cdf325e3f8b164219c4c34a01878f463a@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🎒 Husk å ta med lapp (med underskrift fra foresatte) angående 
+ samtykke til å stå på klasseliste
+DESCRIPTION:Husk å ta med\nUkens viktige beskjeder\nUke 39\nhttps://docs.g
+ oogle.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pG
+ KBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:0714f53347d5d319aab153b00993d67f1af2df8a@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📝 Oppsamling nasjonale prøver på mandag
+DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_g
+ ZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd64b413e17cb69e0c5c3b2363bf7af790d8f52@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📚 Lekse – KRLE: Å gjøre ferdig oppgavene fra sist mandag i C
+ lassroom
+DESCRIPTION:Lekser\nTema: Høytider og tradisjoner i kristendommen/islam\nM
+ andag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb
+ 9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260921T133000
+DTEND;TZID=Europe/Oslo:20260921T150000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – KRLE: Å gjøre ferdig oppgavene fra sist mandag
+  i Classroom
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e6596b7b4ba262b81507331559875c4f54bceebc@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📚 Lekse – Norsk: Gjør ferdig oppgavene om “reklameanalyse
+ ”.
+DESCRIPTION:Lekser\nTema: Reklameanalyse i grupper.\nTirsdag\, uke 39\nhttp
+ s://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM
+ _T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T094000
+DTEND;TZID=Europe/Oslo:20260922T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Gjør ferdig oppgavene om “reklameanaly
+ se”.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:faa1730036a3d70e2e3713eef380213cb9b837dd@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📚 Lekse – Engelsk: Selv-evaluation about the states (presentat
+ ion)
+DESCRIPTION:Lekser\nTema: Immigration to the USA\nTirsdag\, uke 39\nhttps:/
+ /docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_
+ gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260922T122000
+DTEND;TZID=Europe/Oslo:20260922T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Selv-evaluation about the states (prese
+ ntation)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6034205200e0566e7584413d33c7565f62f6d8ff@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:👥 MOT-økt 1 og 2. time
+DESCRIPTION:Møte / arrangement\nOversiktsplan\nOnsdag\, uke 39\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZr
+ I3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+END:VEVENT
+BEGIN:VEVENT
+UID:0b11e07d39396181a18da77ffc84f12a2686e32d@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📝 Muntlig vurdering naturfag
+DESCRIPTION:Prøve / innlevering\nOversiktsplan\nTorsdag\, uke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_g
+ ZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d1bf1dd4f0899301c634f70c9acb026eeb71dd@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📚 Lekse – Samfunnsfag: Gjør ferdig refleksjonsoppgaver om “
+ Sønner av Norden”
+DESCRIPTION:Lekser\nTema: Perspektiver og ideologier: Fordypningsoppgave\nT
+ orsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX-1vQJUefCPCDAps
+ b9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T094000
+DTEND;TZID=Europe/Oslo:20260924T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Samfunnsfag: Gjør ferdig refleksjonsoppgaver om
+  “Sønner av Norden”
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1621f1ec725224c712121a31f33288a8480e65d4@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📝 Matte
+DESCRIPTION:Prøve / innlevering\nTema: Kapittelprøve Statistikk. Ha med s
+ krivesaker og fulladet Chromebook.\nTorsdag\, uke 39\nhttps://docs.google.
+ com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-
+ 0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Prøve / innlevering
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260924T111000
+DTEND;TZID=Europe/Oslo:20260924T121000
+END:VEVENT
+BEGIN:VEVENT
+UID:8258121d304a2c08aef472eac4b383d9ce022d03@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🎒 Mat og helse
+DESCRIPTION:Husk å ta med\nTema: Denne uken er det “restefest”. Det be
+ tyr at dere selv kan velge hva dere vil lage\, med utgangspunkt i grønnsa
+ kene/frukten og ingrediensene vi setter frem. Alle bord skal lage en hoved
+ rett\, dessert i tillegg dersom dere finner tid til det. Det er frukt og g
+ rønt som skal være i fokus. Snakk gjerne litt sammen på bordene om hva 
+ dere kunne tenke dere å lage.\nFredag\, uke 39\nhttps://docs.google.com/d
+ ocument/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0eWEK
+ -OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Husk å ta med
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T083000
+DTEND;TZID=Europe/Oslo:20260925T104000
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b5a14a16b3b5585233737e149a3c077c19b42d@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📚 Lekse – Mat og helse: Skriv logg. De som mangler kostskjema\
+ , må ta med dette.
+DESCRIPTION:Lekser\nTema: Denne uken er det “restefest”. Det betyr at d
+ ere selv kan velge hva dere vil lage\, med utgangspunkt i grønnsakene/fru
+ kten og ingrediensene vi setter frem. Alle bord skal lage en hovedrett\, d
+ essert i tillegg dersom dere finner tid til det. Det er frukt og grønt so
+ m skal være i fokus. Snakk gjerne litt sammen på bordene om hva dere kun
+ ne tenke dere å lage.\nFredag\, uke 39\nhttps://docs.google.com/document/
+ d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6fa
+ mGv3hxiV5_FgRHFK/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T083000
+DTEND;TZID=Europe/Oslo:20260925T104000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Mat og helse: Skriv logg. De som mangler kostskj
+ ema\, må ta med dette.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e33b83aa64817a0af80a63948271acdb101fae0c@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📚 Lekse – Engelsk: Answer two of the tasks in Classroom
+DESCRIPTION:Lekser\nTema: Immigration to the USA\nFredag\, uke 39\nhttps://
+ docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_g
+ ZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;TZID=Europe/Oslo:20260925T122000
+DTEND;TZID=Europe/Oslo:20260925T132000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Engelsk: Answer two of the tasks in Classroom
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d7516d7f69c280e2d522828a3032b8dc6d5baa1@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:👥 Fotografering kl.12.30
+DESCRIPTION:Møte / arrangement\nOversiktsplan\nMandag\, uke 40\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZr
+ I3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Møte / arrangement
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:05452b06f00b7fecb55bf574b74fe6453d659e5b@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Stands i naturfagstimen
+DESCRIPTION:Beskjed\nOversiktsplan\nMandag\, uke 40\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0e
+ WEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:0db0ae7f266ea197ea30fdcda4350a029cdb46bc@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Skriftlig vurdering naturfag
+DESCRIPTION:Beskjed\nOversiktsplan\nTorsdag\, uke 40\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0
+ eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+END:VEVENT
+BEGIN:VEVENT
+UID:0a092a5846111822aa208fc5e2c3297352da2dd2@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🏖️ Høstferie 🍁
+DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 41\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZr
+ I3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
+UID:98cf6e11e4a99ded6bc40fca69af343f3dba7467@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🏖️ Planleggingsdag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 45\nhttps://docs.
+ google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3p
+ GKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+END:VEVENT
+BEGIN:VEVENT
+UID:eb70d1ce9eb209cb7fe216ae2e63b6492be2d1a4@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Livssynsvandring
+DESCRIPTION:Beskjed\nOversiktsplan\nTorsdag\, uke 46\nhttps://docs.google.c
+ om/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0
+ eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+END:VEVENT
+BEGIN:VEVENT
+UID:381a9d720b86fe326e839f77dc674c0a56c44a0a@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Livssynsvandring
+DESCRIPTION:Beskjed\nOversiktsplan\nFredag\, uke 46\nhttps://docs.google.co
+ m/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX-0e
+ WEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+END:VEVENT
+BEGIN:VEVENT
+UID:d11461dd64ac7eff9d6fddf5b33c604070aacb3e@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:📌 Demokrati og medborgerskap: klasseavis
+DESCRIPTION:Beskjed\nOversiktsplan (hele uken)\nUke 47\nhttps://docs.google
+ .com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3pGKBizX
+ -0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Beskjed
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+END:VEVENT
+BEGIN:VEVENT
+UID:363945be1a430846531447b137086eddc483d2df@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🏖️ Lille julaften
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nOnsdag\, uke 52\nhttps://docs.
+ google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3p
+ GKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+END:VEVENT
+BEGIN:VEVENT
+UID:891406f44961dea0111d1e3a691ea735f99005a3@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🏖️ Julaften 🌟
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nTorsdag\, uke 52\nhttps://docs
+ .google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3
+ pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+END:VEVENT
+BEGIN:VEVENT
+UID:c5945ebfdab2e8dc4798913366a6852c5fa50d12@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🏖️ Første juledag
+DESCRIPTION:Fri / ikke skole\nOversiktsplan\nFredag\, uke 52\nhttps://docs.
+ google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZrI3p
+ GKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+END:VEVENT
+BEGIN:VEVENT
+UID:7712f3cb9aea8c6a3aaf6e8063de6fae6a45c126@gimle-arbeidsplan
+DTSTAMP:20260922T134013Z
+SUMMARY:🏖️ Juleferie 🎄
+DESCRIPTION:Fri / ikke skole\nOversiktsplan (hele uken)\nUke 53\nhttps://do
+ cs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9EvnSlQxnM_T_gZr
+ I3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+CATEGORIES:Fri / ikke skole
+URL:https://docs.google.com/document/d/e/2PACX-1vQJUefCPCDApsb9b7R1doBwH9Ev
+ nSlQxnM_T_gZrI3pGKBizX-0eWEK-OgLn6famGv3hxiV5_FgRHFK/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270102
+END:VEVENT
+END:VCALENDAR

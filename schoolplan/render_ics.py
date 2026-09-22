@@ -10,6 +10,7 @@ from __future__ import annotations
 import datetime as dt
 import hashlib
 
+from .dates import in_window
 from .highlights import CATEGORY_EMOJI, CATEGORY_LABELS
 from .model import Highlight, Plan
 
@@ -104,8 +105,14 @@ def _description(item: Highlight, plan: Plan) -> str:
 
 
 def render(plan: Plan, *, categories: tuple[str, ...] | None = None,
-           alarm_hours: int = 15) -> str:
-    """Build the .ics text. ``alarm_hours`` sets a reminder before homework."""
+           alarm_hours: int = 15, start: dt.date | None = None,
+           end: dt.date | None = None) -> str:
+    """Build the .ics text.
+
+    ``alarm_hours`` sets a reminder before homework. ``start`` and ``end`` bound
+    which events are published, so a subscriber's calendar is not filled with
+    last autumn's lessons or with next summer's.
+    """
     stamp = _stamp(plan)
     lines = [
         "BEGIN:VCALENDAR",
@@ -114,6 +121,7 @@ def render(plan: Plan, *, categories: tuple[str, ...] | None = None,
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:Arbeidsplan {plan.school_class}",
+        *( [f"X-WR-RELCALID:{plan.school_class}-{start or 'alt'}-{end or 'alt'}"] ),
         f"X-WR-TIMEZONE:{TZID}",
         f"X-WR-CALDESC:Lekser, prøver, turer og fridager for {plan.school_class} "
         f"ved Gimle oppveksttun skole",
@@ -126,6 +134,8 @@ def render(plan: Plan, *, categories: tuple[str, ...] | None = None,
         if not item.date:
             continue
         if categories and item.category not in categories:
+            continue
+        if not in_window(item.date, start, end):
             continue
         lines.extend(_event(plan, item, stamp, alarm_hours))
 

@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gimle-arbeidsplan//6. trinn//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arbeidsplan 6. trinn
+X-WR-RELCALID:6. trinn-alt-alt
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Lekser, prøver, turer og fridager for 6. trinn ved Gimle oppv
+ eksttun skole
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:508a5bbef227a01ba41e7f2f71ed2aeff2ad9df6@gimle-arbeidsplan
+DTSTAMP:20260922T134529Z
+SUMMARY:📚 Lekse – English: Complete the Desert Expedition worksheet. W
+ rite sentences using prepositions of place
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
+ d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYsHgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfh
+ m1wZvoSCC6U1OMrR/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYs
+ HgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfhm1wZvoSCC6U1OMrR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – English: Complete the Desert Expedition workshee
+ t. Write sentences using prepositions of place
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b24b4b1eba26363dbf973118a81a13d8514cdc9@gimle-arbeidsplan
+DTSTAMP:20260922T134529Z
+SUMMARY:📚 Lekse – Matte: Gjør arbeidsark: navn og egenskaper til mang
+ ekanter
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
+ d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYsHgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfh
+ m1wZvoSCC6U1OMrR/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYs
+ HgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfhm1wZvoSCC6U1OMrR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Matte: Gjør arbeidsark: navn og egenskaper til 
+ mangekanter
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fe95d2d504dcd7f59e70f892b17d2f221dddd03@gimle-arbeidsplan
+DTSTAMP:20260922T134529Z
+SUMMARY:📚 Lekse – Norsk: Arbeidsark om komma.
+DESCRIPTION:Lekser\nHjemmearbeid\nUke 39\nhttps://docs.google.com/document/
+ d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYsHgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfh
+ m1wZvoSCC6U1OMrR/pub
+CATEGORIES:Lekser
+URL:https://docs.google.com/document/d/e/2PACX-1vTdkT2OEtszN_U3BW1s4QbmPNYs
+ HgQGo91giB11t9X6QJbPKbn9ubxKBcAl8Lfhm1wZvoSCC6U1OMrR/pub
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📚 Lekse – Norsk: Arbeidsark om komma.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

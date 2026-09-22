@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//9A//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 9A
+X-WR-RELCALID:9A-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 9A ved Gimle oppveksttu
  n skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2e143ce7a71a09e08c71b103a4d9ccaadf668dc1@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 - M&H Lekse til uke 42
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:2bb8cff514cbddc91cccc5566a10326798f2fb4d@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 Avdelingsleder
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -57,7 +58,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:611ad80a908f077291399100242a9e7c8327f424@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:👥 Det er klubb\, "Rothaugen Ung"\, hver tirsdag (13.30-17.00). I
  ngen påmelding. Det er bare å møte opp. Oppmøte ved biblioteket eller 
  spillrommet.
@@ -73,7 +74,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:005498f951bf98eb63cf71715b55ce72be289473@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📝 Innleveringsfrist mandag 12.oktober.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
  docs.google.com/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT
@@ -87,7 +88,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:20c9b2a4a4d99b111760c79b81f0b9845e4b61fb@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 Naturfag:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -101,7 +102,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5ad03b786bbac9f3bcbcd78bf03a753d6668bd7f@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 Oppgave om bærekraftig mat.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -115,7 +116,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5cae452cc73a99e9481ce2d91d6751bc2052e6eb@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 Samfunnsfag:
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -129,7 +130,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:40a86c9ac651717581bc11fe4e33dfedbd82bf13@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 Trine Moe Lid
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -143,7 +144,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:5d9815a25bd6d34d13b9204fa6eef738f79c94a3@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📝 Uke 40: Det blir en skriftlig prøve om mellomkrigstiden torsd
  ag i uke 40. Se classroom for mer info.
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
@@ -158,7 +159,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:0fc66d296729ff401b72572c1dce037325405bd9@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 Uke 40: Det blir en skriftlig vurdering om celler i uke 40.
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd
@@ -172,7 +173,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:3ffc48dc279e6dd2f3a113ac5f9b9d9c965c9cf4@gimle-arbeidsplan
-DTSTAMP:20260921T150227Z
+DTSTAMP:20260922T134211Z
 SUMMARY:📌 trine.lid@bergen.kommune.no
 DESCRIPTION:Beskjed\nUkens viktige beskjeder\nUke 39\nhttps://docs.google.c
  om/document/d/e/2PACX-1vSuSC1E9zykheDRHCa_lXli2itN6tcdkzQj8oT78okoIcpe7opd

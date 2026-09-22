@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10A//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10A
+X-WR-RELCALID:10A-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10A ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:24b09e4680496b5b94d41422151bdc394d34c6c7@gimle-arbeidsplan
-DTSTAMP:20260921T150253Z
+DTSTAMP:20260922T134235Z
 SUMMARY:📝 10A\, oversikt over vurderingssituasjoner
 DESCRIPTION:Prøve / innlevering\nUkens viktige beskjeder\nUke 39\nhttps://
  docs.google.com/document/d/e/2PACX-1vQfwYPb1o6i5PVEGBVsC7H0xG4yH5ywcqi5TuD
@@ -43,7 +44,7 @@ DTEND;VALUE=DATE:20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:57f61db4338fbbee96fc2a88464a331ca35a69fc@gimle-arbeidsplan
-DTSTAMP:20260921T150253Z
+DTSTAMP:20260922T134235Z
 SUMMARY:🚌 Fredag: Aktivitetsdag etter lunsj. Kle deg etter været.
 DESCRIPTION:Tur / ekskursjon\nUkens viktige beskjeder\nUke 39\nhttps://docs
  .google.com/document/d/e/2PACX-1vQfwYPb1o6i5PVEGBVsC7H0xG4yH5ywcqi5TuDn3Ej

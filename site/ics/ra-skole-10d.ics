@@ -4,6 +4,7 @@ PRODID:-//gimle-arbeidsplan//10D//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arbeidsplan 10D
+X-WR-RELCALID:10D-2026-09-15-2027-01-20
 X-WR-TIMEZONE:Europe/Oslo
 X-WR-CALDESC:Lekser, prøver, turer og fridager for 10D ved Gimle oppvekstt
  un skole
@@ -29,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:0cca431273a6ed4a7e652950e63e7636e143add2@gimle-arbeidsplan
-DTSTAMP:20260921T150148Z
+DTSTAMP:20260922T134131Z
 SUMMARY:📝 MATEMATIKK
 DESCRIPTION:Prøve / innlevering\nPrøve: Algebrastigen Fremdriftsplan i ma
  tematikk 10D\nTirsdag\, uke 39\nhttps://docs.google.com/document/d/e/2PACX
@@ -44,7 +45,7 @@ DTEND;TZID=Europe/Oslo:20260922T091500
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5569680b54c49acdd153311aed0f8b63222f8b@gimle-arbeidsplan
-DTSTAMP:20260921T150148Z
+DTSTAMP:20260922T134131Z
 SUMMARY:📝 KRLE
 DESCRIPTION:Prøve / innlevering\ntil kl.14.55 Prøve i etikk\nMandag\, uke
   42\nhttps://docs.google.com/document/d/e/2PACX-1vQrD67sqwGOF5zf-mDgE0m86O
@@ -58,7 +59,7 @@ DTEND;TZID=Europe/Oslo:20261012T145500
 END:VEVENT
 BEGIN:VEVENT
 UID:27a013095b7e94bc4877b6c5ac03956e4f054b30@gimle-arbeidsplan
-DTSTAMP:20260921T150148Z
+DTSTAMP:20260922T134131Z
 SUMMARY:🎒 SAMFUNNSFAG
 DESCRIPTION:Husk å ta med\ntil kl.14.25 Hvorfor tok den kalde krigen slutt
  ? Den kalde krigen Husk å lever inn arbeidsboken\nFredag\, uke 42\nhttps:
