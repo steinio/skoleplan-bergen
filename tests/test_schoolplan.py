@@ -513,12 +513,35 @@ def test_undated_items_survive_a_window():
     assert in_window(None, dt.date(2026, 9, 1), dt.date(2026, 9, 30)) is True
 
 
+def _event_dates(ics: str) -> list[str]:
+    """The dates events actually start on.
+
+    Read from DTSTART only: a bare substring search over the whole calendar also
+    matches DTSTAMP, which carries today's date, so such a test passes until the
+    day real-world today happens to equal the date being checked for.
+    """
+    dates: list[str] = []
+    in_event = False
+    for line in ics.split("\r\n"):
+        if line == "BEGIN:VEVENT":
+            in_event = True
+        elif line == "END:VEVENT":
+            in_event = False
+        # VTIMEZONE carries DTSTART too, for the daylight-saving rules.
+        elif in_event and line.startswith("DTSTART"):
+            dates.append(line.split(":", 1)[1][:8])
+    return dates
+
+
 def test_the_window_bounds_which_events_are_published(plan):
     inside = render_ics.render(plan, start=dt.date(2026, 9, 14), end=dt.date(2026, 9, 20))
     everything = render_ics.render(plan)
     assert 0 < inside.count("BEGIN:VEVENT") < everything.count("BEGIN:VEVENT")
-    assert "20260914" in inside or "20260915" in inside
-    assert "20261005" not in inside          # høstferie is outside the window
+
+    dates = _event_dates(inside)
+    assert dates, "the window should still publish something"
+    assert all("20260914" <= d <= "20260920" for d in dates), dates
+    assert "20261005" in _event_dates(everything)   # høstferie, only without a window
 
 
 def test_an_empty_window_still_produces_a_valid_calendar(plan):
@@ -574,6 +597,25 @@ def test_calendar_links_can_be_served_from_a_counting_host():
     page = build_site.render_index(_site_fixture(ics_host="https://x.workers.dev"))
     assert 'data-ics="https://x.workers.dev/ics/gimle-8e"' in page
     assert 'href="https://x.workers.dev/ics/gimle-8e.ics"' in page
+
+
+def test_event_dates_ignores_dtstamp_and_vtimezone(plan):
+    """Guard the helper itself.
+
+    Reading dates by plain substring search broke on 5 October 2026: every event
+    carries DTSTAMP with today's date, and VTIMEZONE carries DTSTART for the
+    daylight-saving rules, so both leak into a naive scan.
+    """
+    ics = render_ics.render(plan)
+    dates = _event_dates(ics)
+
+    assert "DTSTAMP:" in ics and "BEGIN:VTIMEZONE" in ics   # both really are present
+    assert all(d.startswith("202") for d in dates), dates   # no 1970 DST rules
+    today = dt.date.today().strftime("%Y%m%d")
+    assert today in ics                                     # DTSTAMP put it there
+    assert today not in dates or today in {
+        h.date.replace("-", "") for h in plan.highlights if h.date
+    }, "today leaked in from DTSTAMP rather than a real event"
 
 
 def test_a_stated_week_is_not_marked_inferred(plan):
